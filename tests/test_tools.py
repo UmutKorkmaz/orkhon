@@ -2,8 +2,6 @@
 
 from __future__ import annotations
 
-from pathlib import Path
-
 from orkhon.serve.tools.calculator import Calculator, safe_eval
 from orkhon.serve.tools.read_file import ReadFile
 from orkhon.serve.tools.registry import build_default_registry
@@ -118,7 +116,7 @@ def test_tool_loop_no_call_is_direct_answer():
     assert res.final_answer == "I have no tools to use here."
 
 
-def test_tool_output_specials_are_neutralized():
+def test_tool_output_specials_are_neutralized(tmp_path):
     # A tool returning literal Orkhon specials must not be able to inject control
     # tokens into the re-encoded conversation (prompt-injection guard).
     from orkhon.serve.tool_loop import escape_tool_output
@@ -129,7 +127,14 @@ def test_tool_output_specials_are_neutralized():
         assert lit not in cleaned
     # And the neutralized text round-trips through a real tokenizer as ordinary text.
     from orkhon.tokenizer import load_tokenizer
-    tok = load_tokenizer("artifacts/tokenizer/smoke")
+    from orkhon.tokenizer.train import train_tokenizer
+
+    corpus = tmp_path / "corpus.txt"
+    corpus.write_text("hello world\nordinary tool output\n", encoding="utf-8")
+    tokenizer_dir = tmp_path / "tokenizer"
+    train_tokenizer(corpus, tokenizer_dir, vocab_size=280, min_frequency=1)
+
+    tok = load_tokenizer(tokenizer_dir)
     back = tok.decode(tok.encode(cleaned))
     for lit in ("<|end|>", "<|system|>", "<|assistant|>"):
         assert lit not in back  # no literal special survived as a control token
