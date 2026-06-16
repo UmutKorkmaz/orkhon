@@ -20,7 +20,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-dev = ["pytest>=8.0", "httpx>=0.27"]
+dev = ["pytest>=8.0", "httpx>=0.27", "datasets>=2.19"]
 # Optional: real-data ingestion (datasets) + open-base loading (transformers/hub).
 hub = ["datasets>=2.19", "huggingface-hub>=0.23", "transformers>=4.44"]
 # Optional: the Gradio demo Space.

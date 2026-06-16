@@ -1430,6 +1430,7 @@ demo = [
     { name = "gradio" },
 ]
 dev = [
+    { name = "datasets" },
     { name = "httpx" },
     { name = "pytest" },
 ]
@@ -1441,6 +1442,7 @@ hub = [
 
 [package.metadata]
 requires-dist = [
+    { name = "datasets", marker = "extra == 'dev'", specifier = ">=2.19" },
     { name = "datasets", marker = "extra == 'hub'", specifier = ">=2.19" },
     { name = "fastapi", specifier = ">=0.110" },
     { name = "gradio", marker = "extra == 'demo'", specifier = ">=4.0" },
