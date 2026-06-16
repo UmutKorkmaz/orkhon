@@ -1,0 +1,12 @@
+{
+  "task": "builtin",
+  "checkpoint": "models/bengu-20260615/checkpoint",
+  "tokenizer": "models/bengu-20260615/tokenizer",
+  "tag": "last",
+  "limit": null,
+  "device": "cpu",
+  "acc": 0.625,
+  "acc_norm": 0.625,
+  "n": 8,
+  "timestamp": "2026-06-16T08:30:07"
+}

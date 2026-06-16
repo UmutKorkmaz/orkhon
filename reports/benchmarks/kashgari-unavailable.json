@@ -1,0 +1,8 @@
+{
+  "model": "kashgari",
+  "status": "pending",
+  "reason": "models/kashgari-20260614 stores metadata and a re-import hint, but no local checkpoint/tokenizer files to score.",
+  "required_action": "Run `uv run orkhon import-hf --repo HuggingFaceTB/SmolLM2-135M --out runs/kashgari` or archive a tokenizer/checkpoint before benchmarking.",
+  "tasks": ["builtin", "hellaswag", "arc_easy"],
+  "timestamp": "2026-06-16"
+}

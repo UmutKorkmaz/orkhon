@@ -1,0 +1,42 @@
+{
+  "name": "tonyukuk",
+  "date": "20260614",
+  "kind": "base",
+  "lineage": "A 22M model pretrained from scratch on 47.4M TinyStories tokens. Writes fluent, coherent short stories. Val loss 1.55, perplexity ~5.3.",
+  "params_m": 21.89568,
+  "vocab_size": 8192,
+  "n_layers": 6,
+  "d_model": 512,
+  "n_heads": 8,
+  "n_kv_heads": 4,
+  "block_size": 512,
+  "arch": {
+    "vocab_size": 8192,
+    "block_size": 512,
+    "n_layers": 6,
+    "d_model": 512,
+    "n_heads": 8,
+    "n_kv_heads": 4,
+    "head_dim": null,
+    "intermediate_size": 1408,
+    "ffn_multiple": 64,
+    "norm_eps": 1e-05,
+    "rope_theta": 10000.0,
+    "dropout": 0.0,
+    "init_std": 0.02,
+    "use_bias": false,
+    "tie_word_embeddings": true,
+    "attn_impl": "auto"
+  },
+  "metrics": {
+    "val_loss": 1.5622,
+    "perplexity": 4.769,
+    "eval_tokens": 163840
+  },
+  "n_samples": 2,
+  "source_checkpoint": "runs/tinystories",
+  "generate_mode": "complete",
+  "code_snapshot": "code_snapshot.tgz",
+  "run_hint": "uv run orkhon generate --checkpoint models/tonyukuk-20260614/checkpoint --tokenizer models/tonyukuk-20260614/tokenizer -p \"Once upon a time\"",
+  "orkhon_version": "0.1.0"
+}

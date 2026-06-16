@@ -1,0 +1,32 @@
+# Instruction-tune the TinyStories base into a story-instruction follower.
+# Synthesize the data first:
+#   orkhon data instruct --corpus data/tinystories/corpus.txt \
+#       --out-sft data/instruct/tinystories_sft.jsonl \
+#       --out-dpo data/instruct/tinystories_dpo.jsonl
+arch_path: configs/model/tiny_24m.yaml
+init_from: runs/tinystories          # pretrained TinyStories base checkpoint
+tokenizer:
+  dir: artifacts/tokenizer/tinystories
+data:
+  sft_path: data/instruct/tinystories_sft.jsonl
+  val_sft_path: data/instruct/tinystories_sft_val.jsonl
+optim:
+  lr: 1.0e-4
+  min_lr_ratio: 0.1
+  weight_decay: 0.0
+  grad_clip: 1.0
+  warmup_steps: 40
+  schedule: cosine
+train:
+  device: auto
+  dtype: auto          # bf16 on cuda, float32 on mps/cpu
+  seed: 1337
+  batch_size: 16
+  grad_accum_steps: 1
+  max_steps: 800
+  seq_len: 512
+  log_interval: 25
+  eval_interval: 200
+  eval_iters: 50
+  ckpt_interval: 200
+  out_dir: runs/tinystories_sft

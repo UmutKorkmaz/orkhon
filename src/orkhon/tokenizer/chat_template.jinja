@@ -1,0 +1,13 @@
+{#- Orkhon canonical chat template. MUST mirror orkhon.tokenizer.render.render_chat. -#}
+{#- Format: <bos> then per message <|role|>{content}<|end|>, no inter-token text, -#}
+{#- so special tokens are hard BPE boundaries and SFT label spans are exact.        -#}
+{{- bos_token -}}
+{%- for message in messages -%}
+{%- if message['role'] == 'system' -%}{{- '<|system|>' -}}
+{%- elif message['role'] == 'user' -%}{{- '<|user|>' -}}
+{%- elif message['role'] == 'assistant' -%}{{- '<|assistant|>' -}}
+{%- else -%}{{- raise_exception('unknown role: ' ~ message['role']) -}}
+{%- endif -%}
+{{- message['content'] -}}{{- '<|end|>' -}}
+{%- endfor -%}
+{%- if add_generation_prompt -%}{{- '<|assistant|>' -}}{%- endif -%}

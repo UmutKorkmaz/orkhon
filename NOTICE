@@ -1,0 +1,8 @@
+Orkhon — a from-scratch LLM stack
+Copyright 2026 Umut Korkmaz
+
+Licensed under the Apache License, Version 2.0 (the "LICENSE" file).
+
+Third-party data used in training carries its own terms — see docs/turkic-languages.md
+(e.g. the Uppsala runiform database is CC BY-NC-SA: non-commercial). Model weights
+trained on such data inherit those restrictions; review before any commercial use.

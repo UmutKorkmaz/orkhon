@@ -1,0 +1,5 @@
+# Tokenizer for FineWeb-Edu. Vocab 16384 byte-level BPE (8 specials + bytes + merges).
+corpus: data/fineweb/train.txt
+out: artifacts/tokenizer/fineweb
+vocab_size: 16384
+min_frequency: 2

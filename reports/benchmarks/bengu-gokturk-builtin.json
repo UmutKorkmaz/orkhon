@@ -1,0 +1,12 @@
+{
+  "task": "builtin",
+  "checkpoint": "models/bengu-gokturk-20260615/checkpoint",
+  "tokenizer": "models/bengu-gokturk-20260615/tokenizer",
+  "tag": "last",
+  "limit": null,
+  "device": "cpu",
+  "acc": 0.5,
+  "acc_norm": 0.25,
+  "n": 8,
+  "timestamp": "2026-06-16T08:30:16"
+}

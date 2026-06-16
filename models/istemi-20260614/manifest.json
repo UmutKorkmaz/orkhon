@@ -1,0 +1,42 @@
+{
+  "name": "istemi",
+  "date": "20260614",
+  "kind": "base",
+  "lineage": "A 51M model pretrained from scratch on 162.8M FineWeb-Edu (real web) tokens \u2014 the first Orkhon model on real-world knowledge. Full 20k-step run: val loss 3.84 (ppl ~46). Undertrained vs the 200x target (only ~3 tok/param); R1 would feed it 10B tokens.",
+  "params_m": 51.41696,
+  "vocab_size": 16384,
+  "n_layers": 9,
+  "d_model": 640,
+  "n_heads": 10,
+  "n_kv_heads": 5,
+  "block_size": 512,
+  "arch": {
+    "vocab_size": 16384,
+    "block_size": 512,
+    "n_layers": 9,
+    "d_model": 640,
+    "n_heads": 10,
+    "n_kv_heads": 5,
+    "head_dim": null,
+    "intermediate_size": 1728,
+    "ffn_multiple": 64,
+    "norm_eps": 1e-05,
+    "rope_theta": 10000.0,
+    "dropout": 0.0,
+    "init_std": 0.02,
+    "use_bias": false,
+    "tie_word_embeddings": true,
+    "attn_impl": "auto"
+  },
+  "metrics": {
+    "val_loss": 3.8396,
+    "perplexity": 46.506,
+    "eval_tokens": 163840
+  },
+  "n_samples": 3,
+  "source_checkpoint": "runs/fineweb_50m",
+  "generate_mode": "complete",
+  "code_snapshot": "code_snapshot.tgz",
+  "run_hint": "uv run orkhon generate --checkpoint models/istemi-20260614/checkpoint --tokenizer models/istemi-20260614/tokenizer -p \"Once upon a time\"",
+  "orkhon_version": "0.1.0"
+}

@@ -1,0 +1,33 @@
+arch_path: configs/model/smoke_6m.yaml
+init_from: runs/sft_smoke
+ref_from: runs/sft_smoke
+# Tiny preference sets over-optimize fast (loss->0, margin explodes, generation
+# collapses). Smoke DPO is a MECHANICS demo only (margin up, loss down, frozen
+# reference); strong KL anchor (beta) + very few steps keep generation sane.
+# Real preference tuning needs thousands of diverse pairs. The usable smoke chat
+# model is the SFT checkpoint (runs/sft_smoke).
+beta: 0.5
+tokenizer:
+  dir: artifacts/tokenizer/smoke
+data:
+  dpo_path: data/smoke/dpo.jsonl
+optim:
+  lr: 5.0e-6
+  min_lr_ratio: 0.1
+  weight_decay: 0.0
+  grad_clip: 1.0
+  warmup_steps: 10
+  schedule: cosine
+train:
+  device: auto
+  dtype: float32
+  seed: 1337
+  batch_size: 4
+  grad_accum_steps: 1
+  max_steps: 6
+  seq_len: 256
+  log_interval: 2
+  eval_interval: 6
+  eval_iters: 20
+  ckpt_interval: 6
+  out_dir: runs/dpo_smoke

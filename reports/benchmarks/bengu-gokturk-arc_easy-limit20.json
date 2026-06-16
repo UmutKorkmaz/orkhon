@@ -1,0 +1,12 @@
+{
+  "task": "arc_easy",
+  "checkpoint": "models/bengu-gokturk-20260615/checkpoint",
+  "tokenizer": "models/bengu-gokturk-20260615/tokenizer",
+  "tag": "last",
+  "limit": 20,
+  "device": "cpu",
+  "acc": 0.2,
+  "acc_norm": 0.25,
+  "n": 20,
+  "timestamp": "2026-06-16T08:32:38"
+}

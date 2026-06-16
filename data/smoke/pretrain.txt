@@ -1,0 +1,4000 @@
+question: what is 9 plus 6 ? answer: 15 .
+question: what is 3 plus 6 ? answer: 9 .
+the black ant sat quietly on the soft warm mat .
+the white owl sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the white dog sat quietly on the soft warm mat .
+the black cow sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+if you add 9 and 1 you get 10 .
+the green owl sat quietly on the soft warm mat .
+if you add 9 and 7 you get 16 .
+question: what is 5 plus 4 ? answer: 9 .
+question: what is 2 plus 9 ? answer: 11 .
+question: what is 1 plus 2 ? answer: 3 .
+the red cat sat quietly on the soft warm mat .
+the number 3 is written as three .
+count from 2: 2 3 4 5 6 7 .
+the number 7 is written as seven .
+question: what is 6 plus 1 ? answer: 7 .
+question: what is 6 plus 7 ? answer: 13 .
+question: what is 4 plus 9 ? answer: 13 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 5 plus 4 ? answer: 9 .
+question: what is 3 plus 9 ? answer: 12 .
+question: what is 9 plus 3 ? answer: 12 .
+count from 5: 5 6 7 8 9 10 .
+the red hen sat quietly on the soft warm mat .
+question: what is 8 plus 9 ? answer: 17 .
+if you add 8 and 9 you get 17 .
+if you add 4 and 1 you get 5 .
+the number 0 is written as zero .
+the number 5 is written as five .
+count from 1: 1 2 3 4 5 6 .
+the red bee sat quietly on the soft warm mat .
+question: what is 3 plus 7 ? answer: 10 .
+if you add 9 and 0 you get 9 .
+the green bee sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+the brown ant sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+if you add 9 and 4 you get 13 .
+the number 3 is written as three .
+the number 7 is written as seven .
+the black cow sat quietly on the soft warm mat .
+the number 3 is written as three .
+if you add 6 and 9 you get 15 .
+the number 12 is written as twelve .
+question: what is 7 plus 3 ? answer: 10 .
+the red ant sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+question: what is 4 plus 7 ? answer: 11 .
+if you add 8 and 5 you get 13 .
+the gray ant sat quietly on the soft warm mat .
+if you add 7 and 9 you get 16 .
+the green cow sat quietly on the soft warm mat .
+question: what is 5 plus 4 ? answer: 9 .
+the amber dog sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+count from 6: 6 7 8 9 10 11 .
+if you add 7 and 8 you get 15 .
+question: what is 7 plus 3 ? answer: 10 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 7 plus 4 ? answer: 11 .
+the gray dog sat quietly on the soft warm mat .
+if you add 0 and 7 you get 7 .
+the number 5 is written as five .
+question: what is 6 plus 5 ? answer: 11 .
+question: what is 2 plus 3 ? answer: 5 .
+question: what is 1 plus 9 ? answer: 10 .
+the red bee sat quietly on the soft warm mat .
+the number 2 is written as two .
+the amber dog sat quietly on the soft warm mat .
+the green cat sat quietly on the soft warm mat .
+the number 2 is written as two .
+the number 12 is written as twelve .
+the number 10 is written as ten .
+count from 5: 5 6 7 8 9 10 .
+the brown hen sat quietly on the soft warm mat .
+if you add 5 and 0 you get 5 .
+the blue ant sat quietly on the soft warm mat .
+the number 1 is written as one .
+count from 2: 2 3 4 5 6 7 .
+the number 2 is written as two .
+the number 1 is written as one .
+count from 1: 1 2 3 4 5 6 .
+question: what is 7 plus 4 ? answer: 11 .
+count from 3: 3 4 5 6 7 8 .
+the number 10 is written as ten .
+the amber ant sat quietly on the soft warm mat .
+the blue owl sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the number 5 is written as five .
+if you add 9 and 6 you get 15 .
+count from 0: 0 1 2 3 4 5 .
+the number 0 is written as zero .
+question: what is 9 plus 2 ? answer: 11 .
+the black bee sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+count from 6: 6 7 8 9 10 11 .
+the amber bee sat quietly on the soft warm mat .
+if you add 0 and 5 you get 5 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 1 plus 2 ? answer: 3 .
+count from 6: 6 7 8 9 10 11 .
+if you add 6 and 9 you get 15 .
+the amber cow sat quietly on the soft warm mat .
+the number 0 is written as zero .
+the gray fox sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the number 1 is written as one .
+question: what is 9 plus 3 ? answer: 12 .
+the blue owl sat quietly on the soft warm mat .
+the number 8 is written as eight .
+the number 6 is written as six .
+count from 3: 3 4 5 6 7 8 .
+question: what is 9 plus 5 ? answer: 14 .
+count from 5: 5 6 7 8 9 10 .
+if you add 4 and 0 you get 4 .
+the white ant sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+if you add 9 and 9 you get 18 .
+if you add 3 and 1 you get 4 .
+question: what is 1 plus 1 ? answer: 2 .
+the red cow sat quietly on the soft warm mat .
+the red cat sat quietly on the soft warm mat .
+question: what is 7 plus 8 ? answer: 15 .
+count from 2: 2 3 4 5 6 7 .
+question: what is 9 plus 8 ? answer: 17 .
+question: what is 9 plus 4 ? answer: 13 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 6 plus 6 ? answer: 12 .
+count from 1: 1 2 3 4 5 6 .
+the number 1 is written as one .
+the number 12 is written as twelve .
+question: what is 7 plus 3 ? answer: 10 .
+the number 3 is written as three .
+if you add 6 and 7 you get 13 .
+if you add 1 and 5 you get 6 .
+question: what is 4 plus 3 ? answer: 7 .
+question: what is 8 plus 5 ? answer: 13 .
+question: what is 2 plus 5 ? answer: 7 .
+the green bee sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the number 2 is written as two .
+the number 2 is written as two .
+count from 5: 5 6 7 8 9 10 .
+count from 0: 0 1 2 3 4 5 .
+the number 12 is written as twelve .
+if you add 1 and 4 you get 5 .
+the number 10 is written as ten .
+count from 5: 5 6 7 8 9 10 .
+question: what is 7 plus 9 ? answer: 16 .
+question: what is 7 plus 7 ? answer: 14 .
+count from 1: 1 2 3 4 5 6 .
+the number 11 is written as eleven .
+if you add 3 and 8 you get 11 .
+count from 5: 5 6 7 8 9 10 .
+the number 1 is written as one .
+if you add 8 and 5 you get 13 .
+if you add 5 and 4 you get 9 .
+count from 2: 2 3 4 5 6 7 .
+the white ant sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+question: what is 5 plus 9 ? answer: 14 .
+if you add 0 and 5 you get 5 .
+count from 1: 1 2 3 4 5 6 .
+the amber hen sat quietly on the soft warm mat .
+question: what is 6 plus 3 ? answer: 9 .
+question: what is 7 plus 9 ? answer: 16 .
+count from 3: 3 4 5 6 7 8 .
+count from 4: 4 5 6 7 8 9 .
+the number 11 is written as eleven .
+question: what is 7 plus 5 ? answer: 12 .
+the number 12 is written as twelve .
+question: what is 8 plus 7 ? answer: 15 .
+question: what is 8 plus 3 ? answer: 11 .
+the brown cow sat quietly on the soft warm mat .
+the number 1 is written as one .
+if you add 5 and 2 you get 7 .
+if you add 9 and 4 you get 13 .
+question: what is 5 plus 2 ? answer: 7 .
+count from 4: 4 5 6 7 8 9 .
+the number 2 is written as two .
+if you add 6 and 2 you get 8 .
+question: what is 2 plus 3 ? answer: 5 .
+question: what is 7 plus 6 ? answer: 13 .
+the black cat sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the red hen sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+question: what is 4 plus 3 ? answer: 7 .
+the number 11 is written as eleven .
+count from 5: 5 6 7 8 9 10 .
+count from 5: 5 6 7 8 9 10 .
+count from 4: 4 5 6 7 8 9 .
+count from 4: 4 5 6 7 8 9 .
+question: what is 1 plus 6 ? answer: 7 .
+the number 9 is written as nine .
+if you add 3 and 4 you get 7 .
+question: what is 5 plus 6 ? answer: 11 .
+if you add 9 and 6 you get 15 .
+if you add 2 and 0 you get 2 .
+question: what is 7 plus 2 ? answer: 9 .
+the brown cow sat quietly on the soft warm mat .
+the number 7 is written as seven .
+count from 1: 1 2 3 4 5 6 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 3 plus 7 ? answer: 10 .
+if you add 9 and 9 you get 18 .
+if you add 4 and 7 you get 11 .
+the number 1 is written as one .
+count from 4: 4 5 6 7 8 9 .
+if you add 5 and 7 you get 12 .
+count from 5: 5 6 7 8 9 10 .
+if you add 9 and 3 you get 12 .
+question: what is 8 plus 7 ? answer: 15 .
+count from 2: 2 3 4 5 6 7 .
+count from 6: 6 7 8 9 10 11 .
+count from 6: 6 7 8 9 10 11 .
+the number 8 is written as eight .
+question: what is 5 plus 8 ? answer: 13 .
+if you add 7 and 2 you get 9 .
+question: what is 1 plus 6 ? answer: 7 .
+the red cow sat quietly on the soft warm mat .
+the number 10 is written as ten .
+the amber fox sat quietly on the soft warm mat .
+if you add 4 and 9 you get 13 .
+the number 7 is written as seven .
+question: what is 5 plus 7 ? answer: 12 .
+question: what is 8 plus 9 ? answer: 17 .
+question: what is 7 plus 7 ? answer: 14 .
+count from 1: 1 2 3 4 5 6 .
+if you add 1 and 9 you get 10 .
+the blue ant sat quietly on the soft warm mat .
+question: what is 4 plus 4 ? answer: 8 .
+if you add 4 and 2 you get 6 .
+the white owl sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+if you add 1 and 0 you get 1 .
+question: what is 2 plus 4 ? answer: 6 .
+the number 3 is written as three .
+question: what is 7 plus 7 ? answer: 14 .
+count from 6: 6 7 8 9 10 11 .
+count from 6: 6 7 8 9 10 11 .
+count from 1: 1 2 3 4 5 6 .
+the number 9 is written as nine .
+count from 2: 2 3 4 5 6 7 .
+question: what is 8 plus 9 ? answer: 17 .
+question: what is 1 plus 4 ? answer: 5 .
+count from 4: 4 5 6 7 8 9 .
+if you add 8 and 2 you get 10 .
+if you add 8 and 8 you get 16 .
+if you add 5 and 8 you get 13 .
+the blue bee sat quietly on the soft warm mat .
+the blue bee sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the number 12 is written as twelve .
+if you add 4 and 1 you get 5 .
+the number 3 is written as three .
+the number 11 is written as eleven .
+the number 1 is written as one .
+question: what is 3 plus 6 ? answer: 9 .
+if you add 1 and 2 you get 3 .
+if you add 8 and 6 you get 14 .
+if you add 6 and 0 you get 6 .
+the black owl sat quietly on the soft warm mat .
+the black bee sat quietly on the soft warm mat .
+the black dog sat quietly on the soft warm mat .
+the number 5 is written as five .
+question: what is 9 plus 6 ? answer: 15 .
+the green hen sat quietly on the soft warm mat .
+the amber bee sat quietly on the soft warm mat .
+question: what is 3 plus 9 ? answer: 12 .
+if you add 5 and 0 you get 5 .
+question: what is 6 plus 8 ? answer: 14 .
+count from 2: 2 3 4 5 6 7 .
+question: what is 3 plus 5 ? answer: 8 .
+if you add 2 and 4 you get 6 .
+the white fox sat quietly on the soft warm mat .
+the number 5 is written as five .
+if you add 8 and 9 you get 17 .
+count from 6: 6 7 8 9 10 11 .
+if you add 7 and 3 you get 10 .
+question: what is 6 plus 8 ? answer: 14 .
+question: what is 7 plus 4 ? answer: 11 .
+the number 11 is written as eleven .
+the number 5 is written as five .
+if you add 3 and 2 you get 5 .
+if you add 8 and 7 you get 15 .
+the black cat sat quietly on the soft warm mat .
+if you add 5 and 0 you get 5 .
+the number 8 is written as eight .
+if you add 1 and 5 you get 6 .
+count from 5: 5 6 7 8 9 10 .
+the number 1 is written as one .
+question: what is 4 plus 8 ? answer: 12 .
+the number 11 is written as eleven .
+question: what is 6 plus 7 ? answer: 13 .
+the number 3 is written as three .
+the number 3 is written as three .
+count from 4: 4 5 6 7 8 9 .
+question: what is 6 plus 3 ? answer: 9 .
+question: what is 8 plus 6 ? answer: 14 .
+count from 5: 5 6 7 8 9 10 .
+if you add 1 and 9 you get 10 .
+if you add 6 and 0 you get 6 .
+the amber bee sat quietly on the soft warm mat .
+the black ant sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+the number 7 is written as seven .
+if you add 9 and 6 you get 15 .
+question: what is 1 plus 8 ? answer: 9 .
+if you add 6 and 6 you get 12 .
+if you add 7 and 1 you get 8 .
+the blue bee sat quietly on the soft warm mat .
+the white ant sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+the blue cow sat quietly on the soft warm mat .
+question: what is 2 plus 2 ? answer: 4 .
+count from 4: 4 5 6 7 8 9 .
+the number 7 is written as seven .
+the white hen sat quietly on the soft warm mat .
+the number 5 is written as five .
+if you add 8 and 1 you get 9 .
+if you add 7 and 3 you get 10 .
+question: what is 1 plus 1 ? answer: 2 .
+the number 1 is written as one .
+if you add 3 and 9 you get 12 .
+if you add 8 and 5 you get 13 .
+if you add 8 and 6 you get 14 .
+question: what is 3 plus 9 ? answer: 12 .
+the number 4 is written as four .
+count from 1: 1 2 3 4 5 6 .
+the red bee sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the white owl sat quietly on the soft warm mat .
+question: what is 9 plus 7 ? answer: 16 .
+if you add 3 and 8 you get 11 .
+if you add 3 and 1 you get 4 .
+the number 3 is written as three .
+if you add 8 and 1 you get 9 .
+question: what is 2 plus 7 ? answer: 9 .
+count from 1: 1 2 3 4 5 6 .
+the number 5 is written as five .
+count from 1: 1 2 3 4 5 6 .
+the number 6 is written as six .
+the number 12 is written as twelve .
+the gray dog sat quietly on the soft warm mat .
+question: what is 4 plus 4 ? answer: 8 .
+question: what is 6 plus 6 ? answer: 12 .
+if you add 3 and 7 you get 10 .
+if you add 1 and 0 you get 1 .
+count from 3: 3 4 5 6 7 8 .
+the red dog sat quietly on the soft warm mat .
+question: what is 2 plus 9 ? answer: 11 .
+if you add 2 and 7 you get 9 .
+question: what is 8 plus 7 ? answer: 15 .
+if you add 0 and 0 you get 0 .
+the number 5 is written as five .
+the number 5 is written as five .
+question: what is 1 plus 8 ? answer: 9 .
+the number 3 is written as three .
+if you add 1 and 2 you get 3 .
+if you add 2 and 6 you get 8 .
+if you add 6 and 7 you get 13 .
+if you add 0 and 1 you get 1 .
+the number 12 is written as twelve .
+the number 0 is written as zero .
+the number 6 is written as six .
+count from 1: 1 2 3 4 5 6 .
+the number 11 is written as eleven .
+if you add 8 and 2 you get 10 .
+the number 4 is written as four .
+the red owl sat quietly on the soft warm mat .
+if you add 5 and 7 you get 12 .
+the brown cat sat quietly on the soft warm mat .
+the blue ant sat quietly on the soft warm mat .
+if you add 4 and 1 you get 5 .
+count from 2: 2 3 4 5 6 7 .
+the black bee sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the number 8 is written as eight .
+the number 3 is written as three .
+count from 5: 5 6 7 8 9 10 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 5 plus 5 ? answer: 10 .
+if you add 5 and 2 you get 7 .
+the number 7 is written as seven .
+question: what is 8 plus 3 ? answer: 11 .
+count from 1: 1 2 3 4 5 6 .
+count from 0: 0 1 2 3 4 5 .
+the red hen sat quietly on the soft warm mat .
+question: what is 7 plus 2 ? answer: 9 .
+if you add 8 and 0 you get 8 .
+the brown cat sat quietly on the soft warm mat .
+question: what is 1 plus 7 ? answer: 8 .
+the number 10 is written as ten .
+the black ant sat quietly on the soft warm mat .
+question: what is 5 plus 6 ? answer: 11 .
+the number 7 is written as seven .
+count from 1: 1 2 3 4 5 6 .
+question: what is 3 plus 6 ? answer: 9 .
+the red owl sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+count from 4: 4 5 6 7 8 9 .
+count from 1: 1 2 3 4 5 6 .
+the number 12 is written as twelve .
+the white ant sat quietly on the soft warm mat .
+question: what is 2 plus 4 ? answer: 6 .
+the brown cow sat quietly on the soft warm mat .
+question: what is 5 plus 7 ? answer: 12 .
+the number 3 is written as three .
+if you add 9 and 2 you get 11 .
+if you add 4 and 3 you get 7 .
+if you add 3 and 5 you get 8 .
+the number 10 is written as ten .
+if you add 8 and 7 you get 15 .
+the gray dog sat quietly on the soft warm mat .
+the number 10 is written as ten .
+question: what is 5 plus 3 ? answer: 8 .
+the gray bee sat quietly on the soft warm mat .
+if you add 3 and 2 you get 5 .
+the brown owl sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the number 11 is written as eleven .
+the amber fox sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+count from 0: 0 1 2 3 4 5 .
+question: what is 8 plus 5 ? answer: 13 .
+the black fox sat quietly on the soft warm mat .
+the number 2 is written as two .
+question: what is 6 plus 3 ? answer: 9 .
+question: what is 6 plus 5 ? answer: 11 .
+question: what is 5 plus 8 ? answer: 13 .
+question: what is 6 plus 6 ? answer: 12 .
+if you add 0 and 9 you get 9 .
+if you add 9 and 5 you get 14 .
+question: what is 5 plus 8 ? answer: 13 .
+question: what is 3 plus 4 ? answer: 7 .
+the green fox sat quietly on the soft warm mat .
+question: what is 2 plus 4 ? answer: 6 .
+count from 6: 6 7 8 9 10 11 .
+the number 5 is written as five .
+question: what is 6 plus 7 ? answer: 13 .
+question: what is 6 plus 3 ? answer: 9 .
+question: what is 4 plus 5 ? answer: 9 .
+count from 2: 2 3 4 5 6 7 .
+if you add 4 and 7 you get 11 .
+count from 2: 2 3 4 5 6 7 .
+the number 1 is written as one .
+question: what is 3 plus 5 ? answer: 8 .
+if you add 2 and 3 you get 5 .
+if you add 4 and 3 you get 7 .
+count from 4: 4 5 6 7 8 9 .
+question: what is 2 plus 5 ? answer: 7 .
+count from 1: 1 2 3 4 5 6 .
+the brown dog sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+the amber fox sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the number 10 is written as ten .
+count from 1: 1 2 3 4 5 6 .
+if you add 2 and 3 you get 5 .
+count from 5: 5 6 7 8 9 10 .
+the green bee sat quietly on the soft warm mat .
+question: what is 9 plus 9 ? answer: 18 .
+the number 10 is written as ten .
+the white bee sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the number 7 is written as seven .
+question: what is 3 plus 9 ? answer: 12 .
+the number 9 is written as nine .
+if you add 5 and 5 you get 10 .
+count from 2: 2 3 4 5 6 7 .
+count from 6: 6 7 8 9 10 11 .
+if you add 6 and 1 you get 7 .
+count from 1: 1 2 3 4 5 6 .
+count from 3: 3 4 5 6 7 8 .
+if you add 9 and 1 you get 10 .
+if you add 8 and 8 you get 16 .
+the number 12 is written as twelve .
+the amber dog sat quietly on the soft warm mat .
+question: what is 7 plus 6 ? answer: 13 .
+the number 6 is written as six .
+the number 11 is written as eleven .
+count from 0: 0 1 2 3 4 5 .
+the green cat sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+the number 3 is written as three .
+count from 0: 0 1 2 3 4 5 .
+the white bee sat quietly on the soft warm mat .
+question: what is 9 plus 4 ? answer: 13 .
+the number 2 is written as two .
+the number 0 is written as zero .
+count from 6: 6 7 8 9 10 11 .
+the number 2 is written as two .
+count from 4: 4 5 6 7 8 9 .
+question: what is 8 plus 2 ? answer: 10 .
+the number 3 is written as three .
+the number 6 is written as six .
+count from 6: 6 7 8 9 10 11 .
+the gray cow sat quietly on the soft warm mat .
+the number 12 is written as twelve .
+the number 5 is written as five .
+count from 4: 4 5 6 7 8 9 .
+the number 10 is written as ten .
+if you add 3 and 4 you get 7 .
+question: what is 7 plus 3 ? answer: 10 .
+question: what is 7 plus 9 ? answer: 16 .
+the blue cow sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+if you add 8 and 1 you get 9 .
+the number 11 is written as eleven .
+the black cow sat quietly on the soft warm mat .
+if you add 2 and 1 you get 3 .
+count from 0: 0 1 2 3 4 5 .
+the blue owl sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+question: what is 5 plus 4 ? answer: 9 .
+question: what is 8 plus 5 ? answer: 13 .
+the number 11 is written as eleven .
+count from 0: 0 1 2 3 4 5 .
+the number 2 is written as two .
+if you add 1 and 1 you get 2 .
+the amber cat sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+if you add 5 and 9 you get 14 .
+if you add 8 and 2 you get 10 .
+the number 9 is written as nine .
+the blue cat sat quietly on the soft warm mat .
+the black fox sat quietly on the soft warm mat .
+if you add 2 and 2 you get 4 .
+count from 2: 2 3 4 5 6 7 .
+question: what is 2 plus 5 ? answer: 7 .
+the number 4 is written as four .
+question: what is 9 plus 9 ? answer: 18 .
+the number 5 is written as five .
+question: what is 8 plus 8 ? answer: 16 .
+count from 5: 5 6 7 8 9 10 .
+the number 4 is written as four .
+question: what is 4 plus 6 ? answer: 10 .
+count from 2: 2 3 4 5 6 7 .
+if you add 0 and 9 you get 9 .
+count from 0: 0 1 2 3 4 5 .
+count from 6: 6 7 8 9 10 11 .
+if you add 4 and 5 you get 9 .
+the white hen sat quietly on the soft warm mat .
+question: what is 9 plus 6 ? answer: 15 .
+if you add 4 and 2 you get 6 .
+question: what is 9 plus 4 ? answer: 13 .
+the number 12 is written as twelve .
+count from 6: 6 7 8 9 10 11 .
+count from 0: 0 1 2 3 4 5 .
+if you add 8 and 0 you get 8 .
+if you add 7 and 5 you get 12 .
+question: what is 8 plus 9 ? answer: 17 .
+if you add 3 and 0 you get 3 .
+question: what is 9 plus 7 ? answer: 16 .
+the red bee sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+question: what is 7 plus 7 ? answer: 14 .
+the number 11 is written as eleven .
+if you add 8 and 8 you get 16 .
+count from 4: 4 5 6 7 8 9 .
+the number 12 is written as twelve .
+the number 12 is written as twelve .
+question: what is 7 plus 9 ? answer: 16 .
+the number 10 is written as ten .
+the number 3 is written as three .
+the green ant sat quietly on the soft warm mat .
+the brown dog sat quietly on the soft warm mat .
+the red owl sat quietly on the soft warm mat .
+if you add 8 and 4 you get 12 .
+the number 9 is written as nine .
+the black fox sat quietly on the soft warm mat .
+if you add 8 and 0 you get 8 .
+the number 0 is written as zero .
+if you add 4 and 0 you get 4 .
+the number 6 is written as six .
+the number 7 is written as seven .
+the number 5 is written as five .
+count from 5: 5 6 7 8 9 10 .
+count from 6: 6 7 8 9 10 11 .
+the white cow sat quietly on the soft warm mat .
+if you add 0 and 1 you get 1 .
+the number 0 is written as zero .
+the brown cow sat quietly on the soft warm mat .
+the blue ant sat quietly on the soft warm mat .
+question: what is 5 plus 6 ? answer: 11 .
+the green dog sat quietly on the soft warm mat .
+the number 0 is written as zero .
+question: what is 2 plus 2 ? answer: 4 .
+question: what is 5 plus 5 ? answer: 10 .
+question: what is 5 plus 6 ? answer: 11 .
+the red bee sat quietly on the soft warm mat .
+if you add 5 and 0 you get 5 .
+question: what is 8 plus 9 ? answer: 17 .
+the number 10 is written as ten .
+count from 5: 5 6 7 8 9 10 .
+count from 1: 1 2 3 4 5 6 .
+the blue hen sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+the green owl sat quietly on the soft warm mat .
+if you add 8 and 8 you get 16 .
+count from 6: 6 7 8 9 10 11 .
+the brown dog sat quietly on the soft warm mat .
+if you add 4 and 1 you get 5 .
+the number 10 is written as ten .
+the black ant sat quietly on the soft warm mat .
+the gray cow sat quietly on the soft warm mat .
+the number 7 is written as seven .
+the blue ant sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the number 4 is written as four .
+count from 1: 1 2 3 4 5 6 .
+the black dog sat quietly on the soft warm mat .
+the white ant sat quietly on the soft warm mat .
+question: what is 3 plus 3 ? answer: 6 .
+count from 0: 0 1 2 3 4 5 .
+the number 7 is written as seven .
+count from 1: 1 2 3 4 5 6 .
+count from 6: 6 7 8 9 10 11 .
+the blue ant sat quietly on the soft warm mat .
+the blue cat sat quietly on the soft warm mat .
+question: what is 2 plus 7 ? answer: 9 .
+the gray cat sat quietly on the soft warm mat .
+if you add 9 and 2 you get 11 .
+count from 2: 2 3 4 5 6 7 .
+the red bee sat quietly on the soft warm mat .
+the number 1 is written as one .
+count from 5: 5 6 7 8 9 10 .
+the number 11 is written as eleven .
+the number 8 is written as eight .
+if you add 7 and 6 you get 13 .
+the number 0 is written as zero .
+count from 1: 1 2 3 4 5 6 .
+if you add 3 and 7 you get 10 .
+the number 5 is written as five .
+question: what is 3 plus 2 ? answer: 5 .
+the amber hen sat quietly on the soft warm mat .
+the black cat sat quietly on the soft warm mat .
+the white cow sat quietly on the soft warm mat .
+question: what is 2 plus 9 ? answer: 11 .
+if you add 1 and 7 you get 8 .
+count from 5: 5 6 7 8 9 10 .
+count from 0: 0 1 2 3 4 5 .
+if you add 5 and 4 you get 9 .
+question: what is 6 plus 9 ? answer: 15 .
+count from 2: 2 3 4 5 6 7 .
+question: what is 3 plus 3 ? answer: 6 .
+count from 4: 4 5 6 7 8 9 .
+count from 2: 2 3 4 5 6 7 .
+count from 3: 3 4 5 6 7 8 .
+if you add 7 and 1 you get 8 .
+the red ant sat quietly on the soft warm mat .
+the green cat sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+count from 3: 3 4 5 6 7 8 .
+if you add 0 and 9 you get 9 .
+count from 3: 3 4 5 6 7 8 .
+the number 10 is written as ten .
+the number 12 is written as twelve .
+the number 0 is written as zero .
+count from 4: 4 5 6 7 8 9 .
+question: what is 1 plus 8 ? answer: 9 .
+question: what is 9 plus 1 ? answer: 10 .
+the blue owl sat quietly on the soft warm mat .
+if you add 7 and 0 you get 7 .
+count from 3: 3 4 5 6 7 8 .
+the number 5 is written as five .
+the number 3 is written as three .
+if you add 9 and 2 you get 11 .
+question: what is 6 plus 5 ? answer: 11 .
+question: what is 6 plus 6 ? answer: 12 .
+the blue cow sat quietly on the soft warm mat .
+question: what is 5 plus 1 ? answer: 6 .
+the green hen sat quietly on the soft warm mat .
+question: what is 6 plus 6 ? answer: 12 .
+question: what is 7 plus 9 ? answer: 16 .
+question: what is 5 plus 6 ? answer: 11 .
+question: what is 1 plus 6 ? answer: 7 .
+count from 0: 0 1 2 3 4 5 .
+the number 9 is written as nine .
+question: what is 5 plus 9 ? answer: 14 .
+count from 5: 5 6 7 8 9 10 .
+the number 5 is written as five .
+the number 8 is written as eight .
+if you add 4 and 9 you get 13 .
+the number 1 is written as one .
+the number 1 is written as one .
+count from 1: 1 2 3 4 5 6 .
+if you add 4 and 7 you get 11 .
+if you add 9 and 2 you get 11 .
+the amber cow sat quietly on the soft warm mat .
+question: what is 8 plus 1 ? answer: 9 .
+if you add 2 and 4 you get 6 .
+count from 0: 0 1 2 3 4 5 .
+the red cat sat quietly on the soft warm mat .
+the amber dog sat quietly on the soft warm mat .
+the white cow sat quietly on the soft warm mat .
+question: what is 8 plus 2 ? answer: 10 .
+the white dog sat quietly on the soft warm mat .
+the brown hen sat quietly on the soft warm mat .
+if you add 8 and 2 you get 10 .
+the number 10 is written as ten .
+the number 11 is written as eleven .
+the red cat sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the brown hen sat quietly on the soft warm mat .
+the number 10 is written as ten .
+if you add 2 and 1 you get 3 .
+the black ant sat quietly on the soft warm mat .
+the brown fox sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 3 plus 6 ? answer: 9 .
+question: what is 1 plus 7 ? answer: 8 .
+question: what is 2 plus 2 ? answer: 4 .
+question: what is 4 plus 2 ? answer: 6 .
+the amber cow sat quietly on the soft warm mat .
+the gray fox sat quietly on the soft warm mat .
+the number 1 is written as one .
+the number 0 is written as zero .
+the blue cow sat quietly on the soft warm mat .
+the number 10 is written as ten .
+question: what is 8 plus 3 ? answer: 11 .
+if you add 4 and 1 you get 5 .
+count from 2: 2 3 4 5 6 7 .
+count from 0: 0 1 2 3 4 5 .
+the number 4 is written as four .
+the number 9 is written as nine .
+if you add 2 and 0 you get 2 .
+count from 3: 3 4 5 6 7 8 .
+count from 0: 0 1 2 3 4 5 .
+count from 3: 3 4 5 6 7 8 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 6 plus 9 ? answer: 15 .
+question: what is 8 plus 4 ? answer: 12 .
+question: what is 4 plus 2 ? answer: 6 .
+the white dog sat quietly on the soft warm mat .
+the number 9 is written as nine .
+the number 6 is written as six .
+if you add 1 and 4 you get 5 .
+question: what is 4 plus 4 ? answer: 8 .
+question: what is 4 plus 8 ? answer: 12 .
+the number 6 is written as six .
+count from 1: 1 2 3 4 5 6 .
+question: what is 2 plus 8 ? answer: 10 .
+question: what is 9 plus 1 ? answer: 10 .
+the number 8 is written as eight .
+if you add 9 and 7 you get 16 .
+if you add 9 and 9 you get 18 .
+count from 0: 0 1 2 3 4 5 .
+count from 5: 5 6 7 8 9 10 .
+count from 5: 5 6 7 8 9 10 .
+the red cow sat quietly on the soft warm mat .
+the number 6 is written as six .
+if you add 9 and 1 you get 10 .
+the red dog sat quietly on the soft warm mat .
+the green bee sat quietly on the soft warm mat .
+question: what is 3 plus 3 ? answer: 6 .
+count from 6: 6 7 8 9 10 11 .
+the number 0 is written as zero .
+question: what is 4 plus 6 ? answer: 10 .
+the number 8 is written as eight .
+count from 0: 0 1 2 3 4 5 .
+if you add 4 and 8 you get 12 .
+if you add 1 and 9 you get 10 .
+the number 8 is written as eight .
+count from 5: 5 6 7 8 9 10 .
+if you add 8 and 2 you get 10 .
+the number 1 is written as one .
+the number 6 is written as six .
+question: what is 2 plus 8 ? answer: 10 .
+the brown hen sat quietly on the soft warm mat .
+the number 8 is written as eight .
+count from 0: 0 1 2 3 4 5 .
+count from 6: 6 7 8 9 10 11 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 6 plus 1 ? answer: 7 .
+the red hen sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+the green cat sat quietly on the soft warm mat .
+question: what is 6 plus 3 ? answer: 9 .
+if you add 5 and 4 you get 9 .
+count from 0: 0 1 2 3 4 5 .
+if you add 0 and 4 you get 4 .
+question: what is 5 plus 7 ? answer: 12 .
+question: what is 5 plus 1 ? answer: 6 .
+count from 3: 3 4 5 6 7 8 .
+count from 6: 6 7 8 9 10 11 .
+count from 4: 4 5 6 7 8 9 .
+if you add 5 and 9 you get 14 .
+the number 1 is written as one .
+if you add 1 and 8 you get 9 .
+the blue fox sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+the number 3 is written as three .
+if you add 4 and 2 you get 6 .
+question: what is 8 plus 4 ? answer: 12 .
+question: what is 7 plus 5 ? answer: 12 .
+count from 3: 3 4 5 6 7 8 .
+if you add 8 and 6 you get 14 .
+if you add 3 and 4 you get 7 .
+the number 2 is written as two .
+question: what is 1 plus 3 ? answer: 4 .
+if you add 0 and 0 you get 0 .
+question: what is 7 plus 7 ? answer: 14 .
+the number 0 is written as zero .
+question: what is 7 plus 9 ? answer: 16 .
+if you add 6 and 5 you get 11 .
+if you add 0 and 7 you get 7 .
+if you add 6 and 3 you get 9 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 7 plus 2 ? answer: 9 .
+the number 9 is written as nine .
+the red owl sat quietly on the soft warm mat .
+question: what is 1 plus 1 ? answer: 2 .
+the number 2 is written as two .
+question: what is 9 plus 7 ? answer: 16 .
+the number 9 is written as nine .
+if you add 3 and 6 you get 9 .
+if you add 2 and 1 you get 3 .
+if you add 8 and 3 you get 11 .
+the number 3 is written as three .
+the brown cat sat quietly on the soft warm mat .
+the green bee sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+the blue hen sat quietly on the soft warm mat .
+if you add 9 and 7 you get 16 .
+if you add 4 and 0 you get 4 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 8 plus 1 ? answer: 9 .
+count from 5: 5 6 7 8 9 10 .
+the number 6 is written as six .
+question: what is 2 plus 1 ? answer: 3 .
+the number 5 is written as five .
+count from 6: 6 7 8 9 10 11 .
+the black fox sat quietly on the soft warm mat .
+if you add 7 and 6 you get 13 .
+the number 7 is written as seven .
+count from 4: 4 5 6 7 8 9 .
+if you add 1 and 8 you get 9 .
+if you add 4 and 4 you get 8 .
+count from 5: 5 6 7 8 9 10 .
+if you add 1 and 2 you get 3 .
+the red dog sat quietly on the soft warm mat .
+if you add 1 and 4 you get 5 .
+count from 6: 6 7 8 9 10 11 .
+the number 5 is written as five .
+count from 2: 2 3 4 5 6 7 .
+the black dog sat quietly on the soft warm mat .
+if you add 2 and 6 you get 8 .
+question: what is 9 plus 6 ? answer: 15 .
+question: what is 6 plus 6 ? answer: 12 .
+the blue cat sat quietly on the soft warm mat .
+if you add 5 and 7 you get 12 .
+the amber ant sat quietly on the soft warm mat .
+question: what is 3 plus 2 ? answer: 5 .
+the amber fox sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+the blue owl sat quietly on the soft warm mat .
+the blue bee sat quietly on the soft warm mat .
+the black bee sat quietly on the soft warm mat .
+the number 10 is written as ten .
+the number 7 is written as seven .
+the amber bee sat quietly on the soft warm mat .
+the number 6 is written as six .
+question: what is 4 plus 2 ? answer: 6 .
+the number 9 is written as nine .
+the gray fox sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+count from 3: 3 4 5 6 7 8 .
+the brown bee sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+question: what is 9 plus 8 ? answer: 17 .
+the black cat sat quietly on the soft warm mat .
+the number 1 is written as one .
+question: what is 1 plus 2 ? answer: 3 .
+the brown hen sat quietly on the soft warm mat .
+if you add 8 and 5 you get 13 .
+if you add 5 and 7 you get 12 .
+if you add 6 and 0 you get 6 .
+the number 5 is written as five .
+question: what is 9 plus 1 ? answer: 10 .
+the green cow sat quietly on the soft warm mat .
+the white owl sat quietly on the soft warm mat .
+the number 10 is written as ten .
+the number 8 is written as eight .
+the number 12 is written as twelve .
+count from 3: 3 4 5 6 7 8 .
+the blue owl sat quietly on the soft warm mat .
+if you add 0 and 5 you get 5 .
+if you add 4 and 2 you get 6 .
+count from 2: 2 3 4 5 6 7 .
+the number 0 is written as zero .
+if you add 6 and 8 you get 14 .
+if you add 5 and 8 you get 13 .
+if you add 9 and 9 you get 18 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 7 plus 2 ? answer: 9 .
+the black ant sat quietly on the soft warm mat .
+the brown cat sat quietly on the soft warm mat .
+the blue bee sat quietly on the soft warm mat .
+if you add 1 and 3 you get 4 .
+question: what is 2 plus 4 ? answer: 6 .
+question: what is 2 plus 1 ? answer: 3 .
+the number 11 is written as eleven .
+count from 2: 2 3 4 5 6 7 .
+if you add 0 and 7 you get 7 .
+if you add 3 and 0 you get 3 .
+the green fox sat quietly on the soft warm mat .
+question: what is 2 plus 6 ? answer: 8 .
+if you add 5 and 2 you get 7 .
+count from 0: 0 1 2 3 4 5 .
+if you add 6 and 1 you get 7 .
+question: what is 8 plus 7 ? answer: 15 .
+the number 4 is written as four .
+question: what is 8 plus 9 ? answer: 17 .
+the number 4 is written as four .
+question: what is 6 plus 6 ? answer: 12 .
+question: what is 9 plus 2 ? answer: 11 .
+question: what is 5 plus 7 ? answer: 12 .
+if you add 4 and 0 you get 4 .
+if you add 9 and 3 you get 12 .
+question: what is 6 plus 2 ? answer: 8 .
+if you add 2 and 9 you get 11 .
+if you add 2 and 5 you get 7 .
+count from 3: 3 4 5 6 7 8 .
+the green owl sat quietly on the soft warm mat .
+the brown dog sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+if you add 9 and 8 you get 17 .
+if you add 4 and 5 you get 9 .
+the green hen sat quietly on the soft warm mat .
+if you add 2 and 0 you get 2 .
+question: what is 9 plus 9 ? answer: 18 .
+the number 3 is written as three .
+if you add 7 and 9 you get 16 .
+count from 5: 5 6 7 8 9 10 .
+count from 0: 0 1 2 3 4 5 .
+the number 7 is written as seven .
+question: what is 1 plus 2 ? answer: 3 .
+the number 1 is written as one .
+the red cow sat quietly on the soft warm mat .
+the number 2 is written as two .
+the number 3 is written as three .
+question: what is 3 plus 8 ? answer: 11 .
+count from 6: 6 7 8 9 10 11 .
+the blue bee sat quietly on the soft warm mat .
+the green dog sat quietly on the soft warm mat .
+if you add 1 and 5 you get 6 .
+question: what is 2 plus 3 ? answer: 5 .
+the red cow sat quietly on the soft warm mat .
+the number 9 is written as nine .
+if you add 4 and 6 you get 10 .
+question: what is 3 plus 3 ? answer: 6 .
+question: what is 4 plus 1 ? answer: 5 .
+the number 3 is written as three .
+the number 0 is written as zero .
+question: what is 5 plus 8 ? answer: 13 .
+the gray fox sat quietly on the soft warm mat .
+the number 3 is written as three .
+the number 6 is written as six .
+question: what is 1 plus 6 ? answer: 7 .
+the blue owl sat quietly on the soft warm mat .
+the number 3 is written as three .
+if you add 7 and 8 you get 15 .
+question: what is 8 plus 5 ? answer: 13 .
+question: what is 7 plus 7 ? answer: 14 .
+the gray dog sat quietly on the soft warm mat .
+the green fox sat quietly on the soft warm mat .
+question: what is 9 plus 7 ? answer: 16 .
+the amber ant sat quietly on the soft warm mat .
+the white dog sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+question: what is 6 plus 9 ? answer: 15 .
+count from 2: 2 3 4 5 6 7 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 1 plus 3 ? answer: 4 .
+if you add 4 and 0 you get 4 .
+the number 0 is written as zero .
+if you add 6 and 6 you get 12 .
+the number 12 is written as twelve .
+if you add 4 and 8 you get 12 .
+the number 11 is written as eleven .
+the number 2 is written as two .
+the number 3 is written as three .
+the gray fox sat quietly on the soft warm mat .
+if you add 1 and 6 you get 7 .
+the gray hen sat quietly on the soft warm mat .
+the black owl sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+count from 4: 4 5 6 7 8 9 .
+the white cow sat quietly on the soft warm mat .
+question: what is 6 plus 2 ? answer: 8 .
+if you add 5 and 9 you get 14 .
+the number 7 is written as seven .
+if you add 8 and 8 you get 16 .
+question: what is 4 plus 8 ? answer: 12 .
+question: what is 5 plus 4 ? answer: 9 .
+question: what is 8 plus 3 ? answer: 11 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 9 plus 3 ? answer: 12 .
+count from 5: 5 6 7 8 9 10 .
+the number 0 is written as zero .
+the number 1 is written as one .
+the brown fox sat quietly on the soft warm mat .
+the brown cow sat quietly on the soft warm mat .
+the number 10 is written as ten .
+count from 4: 4 5 6 7 8 9 .
+the number 1 is written as one .
+the number 0 is written as zero .
+count from 3: 3 4 5 6 7 8 .
+if you add 5 and 0 you get 5 .
+count from 2: 2 3 4 5 6 7 .
+if you add 0 and 8 you get 8 .
+the brown owl sat quietly on the soft warm mat .
+the number 12 is written as twelve .
+count from 4: 4 5 6 7 8 9 .
+the gray fox sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+question: what is 5 plus 5 ? answer: 10 .
+the number 2 is written as two .
+the red fox sat quietly on the soft warm mat .
+question: what is 7 plus 1 ? answer: 8 .
+the number 12 is written as twelve .
+the black bee sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+count from 2: 2 3 4 5 6 7 .
+the number 7 is written as seven .
+question: what is 1 plus 1 ? answer: 2 .
+question: what is 6 plus 9 ? answer: 15 .
+question: what is 1 plus 9 ? answer: 10 .
+if you add 7 and 2 you get 9 .
+the amber owl sat quietly on the soft warm mat .
+the number 8 is written as eight .
+if you add 7 and 1 you get 8 .
+if you add 4 and 7 you get 11 .
+count from 1: 1 2 3 4 5 6 .
+count from 6: 6 7 8 9 10 11 .
+if you add 0 and 8 you get 8 .
+count from 0: 0 1 2 3 4 5 .
+question: what is 5 plus 7 ? answer: 12 .
+if you add 1 and 6 you get 7 .
+if you add 6 and 6 you get 12 .
+count from 4: 4 5 6 7 8 9 .
+if you add 7 and 5 you get 12 .
+count from 1: 1 2 3 4 5 6 .
+the number 6 is written as six .
+count from 4: 4 5 6 7 8 9 .
+the green hen sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+count from 5: 5 6 7 8 9 10 .
+if you add 3 and 4 you get 7 .
+the number 8 is written as eight .
+the red fox sat quietly on the soft warm mat .
+question: what is 6 plus 3 ? answer: 9 .
+the number 7 is written as seven .
+if you add 4 and 3 you get 7 .
+if you add 4 and 1 you get 5 .
+count from 3: 3 4 5 6 7 8 .
+the red cat sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+if you add 5 and 6 you get 11 .
+count from 6: 6 7 8 9 10 11 .
+the black ant sat quietly on the soft warm mat .
+the number 8 is written as eight .
+question: what is 7 plus 8 ? answer: 15 .
+the red cow sat quietly on the soft warm mat .
+the number 2 is written as two .
+count from 0: 0 1 2 3 4 5 .
+if you add 5 and 5 you get 10 .
+the number 2 is written as two .
+the brown dog sat quietly on the soft warm mat .
+if you add 1 and 0 you get 1 .
+count from 0: 0 1 2 3 4 5 .
+count from 6: 6 7 8 9 10 11 .
+if you add 8 and 4 you get 12 .
+count from 2: 2 3 4 5 6 7 .
+the number 4 is written as four .
+if you add 2 and 1 you get 3 .
+the white bee sat quietly on the soft warm mat .
+the black bee sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the number 5 is written as five .
+count from 6: 6 7 8 9 10 11 .
+the green dog sat quietly on the soft warm mat .
+the number 7 is written as seven .
+if you add 6 and 6 you get 12 .
+count from 6: 6 7 8 9 10 11 .
+the brown hen sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+count from 2: 2 3 4 5 6 7 .
+question: what is 9 plus 3 ? answer: 12 .
+count from 2: 2 3 4 5 6 7 .
+count from 1: 1 2 3 4 5 6 .
+the black dog sat quietly on the soft warm mat .
+the brown cow sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+count from 3: 3 4 5 6 7 8 .
+the blue dog sat quietly on the soft warm mat .
+the black hen sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the number 6 is written as six .
+the blue cat sat quietly on the soft warm mat .
+the white ant sat quietly on the soft warm mat .
+the green fox sat quietly on the soft warm mat .
+the number 0 is written as zero .
+the number 11 is written as eleven .
+the amber bee sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+count from 2: 2 3 4 5 6 7 .
+the brown ant sat quietly on the soft warm mat .
+if you add 2 and 2 you get 4 .
+the red hen sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+question: what is 2 plus 2 ? answer: 4 .
+if you add 3 and 3 you get 6 .
+question: what is 6 plus 9 ? answer: 15 .
+if you add 8 and 2 you get 10 .
+count from 1: 1 2 3 4 5 6 .
+if you add 7 and 0 you get 7 .
+count from 6: 6 7 8 9 10 11 .
+the number 11 is written as eleven .
+if you add 2 and 7 you get 9 .
+the amber hen sat quietly on the soft warm mat .
+the number 1 is written as one .
+the number 11 is written as eleven .
+the number 3 is written as three .
+the number 11 is written as eleven .
+the number 12 is written as twelve .
+the number 5 is written as five .
+question: what is 5 plus 6 ? answer: 11 .
+if you add 3 and 9 you get 12 .
+the red ant sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+the red hen sat quietly on the soft warm mat .
+the black fox sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+count from 2: 2 3 4 5 6 7 .
+question: what is 4 plus 4 ? answer: 8 .
+the gray hen sat quietly on the soft warm mat .
+the gray bee sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+if you add 2 and 6 you get 8 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 5 plus 7 ? answer: 12 .
+if you add 8 and 6 you get 14 .
+count from 2: 2 3 4 5 6 7 .
+if you add 3 and 6 you get 9 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 8 plus 1 ? answer: 9 .
+the number 9 is written as nine .
+the number 1 is written as one .
+question: what is 3 plus 8 ? answer: 11 .
+count from 2: 2 3 4 5 6 7 .
+if you add 9 and 2 you get 11 .
+the amber owl sat quietly on the soft warm mat .
+the blue owl sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+the gray bee sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+the white bee sat quietly on the soft warm mat .
+the number 2 is written as two .
+the green bee sat quietly on the soft warm mat .
+the brown hen sat quietly on the soft warm mat .
+the number 9 is written as nine .
+count from 2: 2 3 4 5 6 7 .
+question: what is 5 plus 9 ? answer: 14 .
+question: what is 6 plus 7 ? answer: 13 .
+the blue fox sat quietly on the soft warm mat .
+the number 10 is written as ten .
+the number 6 is written as six .
+the number 2 is written as two .
+the red fox sat quietly on the soft warm mat .
+the number 5 is written as five .
+count from 1: 1 2 3 4 5 6 .
+if you add 7 and 4 you get 11 .
+the blue cat sat quietly on the soft warm mat .
+if you add 6 and 0 you get 6 .
+the number 7 is written as seven .
+if you add 4 and 0 you get 4 .
+the number 8 is written as eight .
+if you add 4 and 9 you get 13 .
+if you add 8 and 6 you get 14 .
+the black ant sat quietly on the soft warm mat .
+the number 10 is written as ten .
+question: what is 1 plus 8 ? answer: 9 .
+the number 5 is written as five .
+count from 1: 1 2 3 4 5 6 .
+the number 7 is written as seven .
+the amber dog sat quietly on the soft warm mat .
+the number 6 is written as six .
+the white bee sat quietly on the soft warm mat .
+the number 3 is written as three .
+the number 10 is written as ten .
+if you add 3 and 2 you get 5 .
+the number 12 is written as twelve .
+if you add 8 and 6 you get 14 .
+the amber bee sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+count from 4: 4 5 6 7 8 9 .
+if you add 1 and 7 you get 8 .
+if you add 9 and 5 you get 14 .
+question: what is 9 plus 1 ? answer: 10 .
+if you add 7 and 3 you get 10 .
+count from 5: 5 6 7 8 9 10 .
+the number 12 is written as twelve .
+count from 4: 4 5 6 7 8 9 .
+the number 7 is written as seven .
+if you add 0 and 6 you get 6 .
+the white fox sat quietly on the soft warm mat .
+if you add 2 and 2 you get 4 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 8 plus 6 ? answer: 14 .
+the number 5 is written as five .
+if you add 9 and 0 you get 9 .
+the number 9 is written as nine .
+if you add 4 and 4 you get 8 .
+the number 12 is written as twelve .
+the number 4 is written as four .
+the number 4 is written as four .
+question: what is 6 plus 3 ? answer: 9 .
+the number 9 is written as nine .
+question: what is 7 plus 2 ? answer: 9 .
+if you add 8 and 0 you get 8 .
+the amber bee sat quietly on the soft warm mat .
+question: what is 5 plus 3 ? answer: 8 .
+the gray fox sat quietly on the soft warm mat .
+the number 6 is written as six .
+question: what is 2 plus 7 ? answer: 9 .
+question: what is 4 plus 7 ? answer: 11 .
+count from 0: 0 1 2 3 4 5 .
+count from 1: 1 2 3 4 5 6 .
+if you add 5 and 1 you get 6 .
+the number 4 is written as four .
+question: what is 6 plus 6 ? answer: 12 .
+the brown ant sat quietly on the soft warm mat .
+question: what is 8 plus 4 ? answer: 12 .
+question: what is 5 plus 1 ? answer: 6 .
+the number 7 is written as seven .
+the black fox sat quietly on the soft warm mat .
+the green owl sat quietly on the soft warm mat .
+the green hen sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the black ant sat quietly on the soft warm mat .
+if you add 2 and 7 you get 9 .
+the number 4 is written as four .
+question: what is 3 plus 7 ? answer: 10 .
+question: what is 3 plus 1 ? answer: 4 .
+the gray cow sat quietly on the soft warm mat .
+the brown hen sat quietly on the soft warm mat .
+the number 8 is written as eight .
+the number 12 is written as twelve .
+the amber fox sat quietly on the soft warm mat .
+question: what is 5 plus 8 ? answer: 13 .
+the black owl sat quietly on the soft warm mat .
+the green cow sat quietly on the soft warm mat .
+the green dog sat quietly on the soft warm mat .
+the green cat sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the number 6 is written as six .
+the red ant sat quietly on the soft warm mat .
+question: what is 1 plus 5 ? answer: 6 .
+if you add 5 and 8 you get 13 .
+question: what is 3 plus 1 ? answer: 4 .
+count from 2: 2 3 4 5 6 7 .
+the number 5 is written as five .
+the amber fox sat quietly on the soft warm mat .
+the white dog sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the green fox sat quietly on the soft warm mat .
+the number 2 is written as two .
+if you add 8 and 4 you get 12 .
+if you add 1 and 3 you get 4 .
+the blue dog sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+question: what is 8 plus 8 ? answer: 16 .
+the number 0 is written as zero .
+the gray owl sat quietly on the soft warm mat .
+question: what is 3 plus 7 ? answer: 10 .
+the amber bee sat quietly on the soft warm mat .
+the number 2 is written as two .
+count from 0: 0 1 2 3 4 5 .
+the number 6 is written as six .
+question: what is 3 plus 1 ? answer: 4 .
+the number 2 is written as two .
+the green cat sat quietly on the soft warm mat .
+the brown fox sat quietly on the soft warm mat .
+the red dog sat quietly on the soft warm mat .
+the white cow sat quietly on the soft warm mat .
+question: what is 4 plus 2 ? answer: 6 .
+if you add 7 and 1 you get 8 .
+the amber fox sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+the number 3 is written as three .
+count from 3: 3 4 5 6 7 8 .
+the red dog sat quietly on the soft warm mat .
+the red hen sat quietly on the soft warm mat .
+the green fox sat quietly on the soft warm mat .
+if you add 3 and 4 you get 7 .
+count from 3: 3 4 5 6 7 8 .
+count from 3: 3 4 5 6 7 8 .
+the white fox sat quietly on the soft warm mat .
+if you add 4 and 7 you get 11 .
+if you add 2 and 7 you get 9 .
+the number 1 is written as one .
+the black cow sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+count from 5: 5 6 7 8 9 10 .
+if you add 7 and 9 you get 16 .
+the number 7 is written as seven .
+if you add 8 and 2 you get 10 .
+the green dog sat quietly on the soft warm mat .
+the white owl sat quietly on the soft warm mat .
+if you add 9 and 1 you get 10 .
+the number 3 is written as three .
+the blue cat sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 2 plus 1 ? answer: 3 .
+the blue cow sat quietly on the soft warm mat .
+the number 12 is written as twelve .
+the blue bee sat quietly on the soft warm mat .
+if you add 2 and 9 you get 11 .
+count from 5: 5 6 7 8 9 10 .
+the red dog sat quietly on the soft warm mat .
+question: what is 1 plus 4 ? answer: 5 .
+if you add 6 and 4 you get 10 .
+count from 2: 2 3 4 5 6 7 .
+the amber owl sat quietly on the soft warm mat .
+question: what is 5 plus 4 ? answer: 9 .
+question: what is 1 plus 8 ? answer: 9 .
+the amber bee sat quietly on the soft warm mat .
+the blue fox sat quietly on the soft warm mat .
+the number 6 is written as six .
+the gray dog sat quietly on the soft warm mat .
+if you add 9 and 5 you get 14 .
+if you add 4 and 9 you get 13 .
+the white cat sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+the green cat sat quietly on the soft warm mat .
+if you add 2 and 2 you get 4 .
+the number 4 is written as four .
+if you add 0 and 8 you get 8 .
+count from 1: 1 2 3 4 5 6 .
+the number 1 is written as one .
+if you add 2 and 2 you get 4 .
+question: what is 2 plus 8 ? answer: 10 .
+question: what is 5 plus 6 ? answer: 11 .
+if you add 9 and 1 you get 10 .
+question: what is 4 plus 3 ? answer: 7 .
+the white bee sat quietly on the soft warm mat .
+the number 10 is written as ten .
+count from 6: 6 7 8 9 10 11 .
+the black bee sat quietly on the soft warm mat .
+question: what is 4 plus 1 ? answer: 5 .
+the number 10 is written as ten .
+the number 5 is written as five .
+the number 5 is written as five .
+the number 0 is written as zero .
+question: what is 8 plus 4 ? answer: 12 .
+count from 3: 3 4 5 6 7 8 .
+count from 6: 6 7 8 9 10 11 .
+the number 1 is written as one .
+count from 1: 1 2 3 4 5 6 .
+question: what is 4 plus 9 ? answer: 13 .
+if you add 7 and 2 you get 9 .
+if you add 0 and 2 you get 2 .
+the number 8 is written as eight .
+the number 1 is written as one .
+count from 0: 0 1 2 3 4 5 .
+question: what is 2 plus 8 ? answer: 10 .
+question: what is 4 plus 9 ? answer: 13 .
+the black fox sat quietly on the soft warm mat .
+the number 1 is written as one .
+the number 1 is written as one .
+question: what is 4 plus 3 ? answer: 7 .
+the number 4 is written as four .
+if you add 6 and 2 you get 8 .
+question: what is 6 plus 3 ? answer: 9 .
+the amber owl sat quietly on the soft warm mat .
+question: what is 2 plus 9 ? answer: 11 .
+the green cat sat quietly on the soft warm mat .
+the green bee sat quietly on the soft warm mat .
+the number 1 is written as one .
+question: what is 8 plus 8 ? answer: 16 .
+count from 6: 6 7 8 9 10 11 .
+if you add 7 and 8 you get 15 .
+if you add 1 and 6 you get 7 .
+the number 0 is written as zero .
+the number 9 is written as nine .
+the green owl sat quietly on the soft warm mat .
+the number 10 is written as ten .
+question: what is 7 plus 9 ? answer: 16 .
+question: what is 3 plus 8 ? answer: 11 .
+the white dog sat quietly on the soft warm mat .
+question: what is 2 plus 8 ? answer: 10 .
+the number 7 is written as seven .
+the number 10 is written as ten .
+the number 4 is written as four .
+the gray cow sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+if you add 6 and 4 you get 10 .
+if you add 4 and 4 you get 8 .
+question: what is 3 plus 1 ? answer: 4 .
+question: what is 1 plus 1 ? answer: 2 .
+if you add 0 and 5 you get 5 .
+the amber hen sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the white dog sat quietly on the soft warm mat .
+question: what is 7 plus 8 ? answer: 15 .
+if you add 0 and 6 you get 6 .
+the number 10 is written as ten .
+the amber fox sat quietly on the soft warm mat .
+question: what is 8 plus 8 ? answer: 16 .
+the number 7 is written as seven .
+the white hen sat quietly on the soft warm mat .
+if you add 7 and 0 you get 7 .
+if you add 2 and 2 you get 4 .
+count from 4: 4 5 6 7 8 9 .
+if you add 6 and 4 you get 10 .
+if you add 1 and 9 you get 10 .
+the number 8 is written as eight .
+if you add 2 and 9 you get 11 .
+question: what is 4 plus 6 ? answer: 10 .
+the gray owl sat quietly on the soft warm mat .
+the white bee sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+if you add 7 and 4 you get 11 .
+the white cat sat quietly on the soft warm mat .
+if you add 2 and 0 you get 2 .
+the brown dog sat quietly on the soft warm mat .
+the green hen sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the amber dog sat quietly on the soft warm mat .
+the brown owl sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+the gray ant sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+count from 3: 3 4 5 6 7 8 .
+the number 3 is written as three .
+the amber ant sat quietly on the soft warm mat .
+the gray fox sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+question: what is 2 plus 4 ? answer: 6 .
+the gray hen sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+the number 4 is written as four .
+the brown bee sat quietly on the soft warm mat .
+the amber dog sat quietly on the soft warm mat .
+the number 10 is written as ten .
+count from 2: 2 3 4 5 6 7 .
+if you add 5 and 7 you get 12 .
+the number 12 is written as twelve .
+the brown owl sat quietly on the soft warm mat .
+the black fox sat quietly on the soft warm mat .
+question: what is 2 plus 5 ? answer: 7 .
+the blue dog sat quietly on the soft warm mat .
+if you add 0 and 0 you get 0 .
+the number 7 is written as seven .
+question: what is 8 plus 6 ? answer: 14 .
+the number 5 is written as five .
+count from 2: 2 3 4 5 6 7 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 5 plus 5 ? answer: 10 .
+question: what is 4 plus 5 ? answer: 9 .
+question: what is 8 plus 7 ? answer: 15 .
+count from 1: 1 2 3 4 5 6 .
+the gray ant sat quietly on the soft warm mat .
+if you add 3 and 4 you get 7 .
+question: what is 2 plus 9 ? answer: 11 .
+question: what is 4 plus 4 ? answer: 8 .
+if you add 9 and 0 you get 9 .
+the brown cow sat quietly on the soft warm mat .
+if you add 0 and 4 you get 4 .
+if you add 5 and 4 you get 9 .
+the number 9 is written as nine .
+the number 9 is written as nine .
+if you add 5 and 7 you get 12 .
+if you add 8 and 1 you get 9 .
+if you add 3 and 2 you get 5 .
+the number 2 is written as two .
+the number 9 is written as nine .
+if you add 9 and 2 you get 11 .
+question: what is 7 plus 3 ? answer: 10 .
+the number 0 is written as zero .
+question: what is 7 plus 5 ? answer: 12 .
+the number 11 is written as eleven .
+question: what is 8 plus 6 ? answer: 14 .
+question: what is 8 plus 8 ? answer: 16 .
+the gray bee sat quietly on the soft warm mat .
+if you add 8 and 0 you get 8 .
+the number 5 is written as five .
+the number 10 is written as ten .
+if you add 9 and 0 you get 9 .
+count from 0: 0 1 2 3 4 5 .
+if you add 0 and 2 you get 2 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 4 plus 1 ? answer: 5 .
+if you add 4 and 8 you get 12 .
+count from 6: 6 7 8 9 10 11 .
+the number 12 is written as twelve .
+count from 0: 0 1 2 3 4 5 .
+count from 0: 0 1 2 3 4 5 .
+question: what is 6 plus 8 ? answer: 14 .
+the number 0 is written as zero .
+question: what is 9 plus 6 ? answer: 15 .
+if you add 3 and 5 you get 8 .
+if you add 8 and 1 you get 9 .
+question: what is 8 plus 2 ? answer: 10 .
+the black cow sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+count from 5: 5 6 7 8 9 10 .
+the number 3 is written as three .
+if you add 3 and 3 you get 6 .
+the amber ant sat quietly on the soft warm mat .
+if you add 9 and 3 you get 12 .
+the brown cow sat quietly on the soft warm mat .
+if you add 0 and 9 you get 9 .
+the number 11 is written as eleven .
+the number 11 is written as eleven .
+the number 1 is written as one .
+the white dog sat quietly on the soft warm mat .
+the green hen sat quietly on the soft warm mat .
+question: what is 8 plus 7 ? answer: 15 .
+the black bee sat quietly on the soft warm mat .
+if you add 8 and 1 you get 9 .
+question: what is 4 plus 2 ? answer: 6 .
+the green owl sat quietly on the soft warm mat .
+the white owl sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+if you add 7 and 9 you get 16 .
+count from 3: 3 4 5 6 7 8 .
+the number 9 is written as nine .
+if you add 9 and 7 you get 16 .
+if you add 0 and 3 you get 3 .
+question: what is 7 plus 8 ? answer: 15 .
+if you add 9 and 7 you get 16 .
+the number 4 is written as four .
+the amber fox sat quietly on the soft warm mat .
+the green owl sat quietly on the soft warm mat .
+question: what is 8 plus 8 ? answer: 16 .
+the number 12 is written as twelve .
+if you add 4 and 7 you get 11 .
+question: what is 8 plus 5 ? answer: 13 .
+the number 7 is written as seven .
+count from 3: 3 4 5 6 7 8 .
+if you add 6 and 7 you get 13 .
+the number 0 is written as zero .
+if you add 7 and 0 you get 7 .
+count from 4: 4 5 6 7 8 9 .
+the white fox sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+count from 1: 1 2 3 4 5 6 .
+if you add 9 and 4 you get 13 .
+question: what is 2 plus 6 ? answer: 8 .
+if you add 1 and 4 you get 5 .
+the number 0 is written as zero .
+the brown fox sat quietly on the soft warm mat .
+if you add 3 and 3 you get 6 .
+the number 5 is written as five .
+if you add 1 and 5 you get 6 .
+if you add 6 and 3 you get 9 .
+question: what is 2 plus 8 ? answer: 10 .
+count from 2: 2 3 4 5 6 7 .
+question: what is 1 plus 3 ? answer: 4 .
+count from 5: 5 6 7 8 9 10 .
+the number 8 is written as eight .
+question: what is 2 plus 2 ? answer: 4 .
+question: what is 7 plus 8 ? answer: 15 .
+if you add 6 and 6 you get 12 .
+if you add 4 and 6 you get 10 .
+if you add 8 and 8 you get 16 .
+the black cat sat quietly on the soft warm mat .
+question: what is 7 plus 9 ? answer: 16 .
+the blue cow sat quietly on the soft warm mat .
+the blue bee sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+the number 6 is written as six .
+if you add 9 and 4 you get 13 .
+the amber cat sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the number 6 is written as six .
+count from 6: 6 7 8 9 10 11 .
+if you add 7 and 1 you get 8 .
+count from 5: 5 6 7 8 9 10 .
+count from 5: 5 6 7 8 9 10 .
+the number 4 is written as four .
+if you add 6 and 5 you get 11 .
+count from 4: 4 5 6 7 8 9 .
+question: what is 2 plus 3 ? answer: 5 .
+the number 5 is written as five .
+the red dog sat quietly on the soft warm mat .
+the black ant sat quietly on the soft warm mat .
+the number 10 is written as ten .
+count from 0: 0 1 2 3 4 5 .
+if you add 1 and 3 you get 4 .
+question: what is 8 plus 8 ? answer: 16 .
+question: what is 3 plus 5 ? answer: 8 .
+the black cow sat quietly on the soft warm mat .
+if you add 2 and 9 you get 11 .
+the number 5 is written as five .
+count from 5: 5 6 7 8 9 10 .
+count from 3: 3 4 5 6 7 8 .
+the number 1 is written as one .
+if you add 0 and 3 you get 3 .
+count from 1: 1 2 3 4 5 6 .
+the gray owl sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+if you add 5 and 2 you get 7 .
+the amber bee sat quietly on the soft warm mat .
+if you add 2 and 8 you get 10 .
+the brown fox sat quietly on the soft warm mat .
+the white ant sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+if you add 1 and 9 you get 10 .
+if you add 7 and 0 you get 7 .
+if you add 7 and 7 you get 14 .
+the white owl sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+question: what is 6 plus 6 ? answer: 12 .
+if you add 3 and 5 you get 8 .
+question: what is 2 plus 8 ? answer: 10 .
+question: what is 7 plus 5 ? answer: 12 .
+the number 2 is written as two .
+the number 4 is written as four .
+the number 10 is written as ten .
+question: what is 4 plus 4 ? answer: 8 .
+the red bee sat quietly on the soft warm mat .
+if you add 8 and 2 you get 10 .
+if you add 1 and 9 you get 10 .
+if you add 2 and 5 you get 7 .
+if you add 0 and 2 you get 2 .
+the number 9 is written as nine .
+if you add 7 and 4 you get 11 .
+the green cow sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+the number 0 is written as zero .
+count from 5: 5 6 7 8 9 10 .
+if you add 3 and 2 you get 5 .
+the number 8 is written as eight .
+the number 0 is written as zero .
+if you add 3 and 8 you get 11 .
+the number 3 is written as three .
+the amber bee sat quietly on the soft warm mat .
+if you add 3 and 5 you get 8 .
+question: what is 5 plus 3 ? answer: 8 .
+if you add 3 and 9 you get 12 .
+question: what is 1 plus 3 ? answer: 4 .
+question: what is 6 plus 4 ? answer: 10 .
+if you add 7 and 6 you get 13 .
+count from 3: 3 4 5 6 7 8 .
+the number 4 is written as four .
+question: what is 3 plus 6 ? answer: 9 .
+if you add 0 and 4 you get 4 .
+the number 1 is written as one .
+the white ant sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+if you add 7 and 9 you get 16 .
+question: what is 7 plus 6 ? answer: 13 .
+if you add 8 and 7 you get 15 .
+question: what is 9 plus 1 ? answer: 10 .
+question: what is 7 plus 1 ? answer: 8 .
+if you add 8 and 9 you get 17 .
+if you add 6 and 5 you get 11 .
+question: what is 2 plus 1 ? answer: 3 .
+count from 0: 0 1 2 3 4 5 .
+the number 8 is written as eight .
+the white hen sat quietly on the soft warm mat .
+question: what is 5 plus 7 ? answer: 12 .
+count from 4: 4 5 6 7 8 9 .
+count from 2: 2 3 4 5 6 7 .
+the number 3 is written as three .
+the black owl sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+question: what is 8 plus 8 ? answer: 16 .
+count from 2: 2 3 4 5 6 7 .
+the red dog sat quietly on the soft warm mat .
+if you add 5 and 9 you get 14 .
+if you add 2 and 4 you get 6 .
+the number 1 is written as one .
+if you add 5 and 0 you get 5 .
+count from 3: 3 4 5 6 7 8 .
+if you add 6 and 9 you get 15 .
+count from 6: 6 7 8 9 10 11 .
+count from 4: 4 5 6 7 8 9 .
+if you add 2 and 8 you get 10 .
+the number 5 is written as five .
+the number 7 is written as seven .
+the number 12 is written as twelve .
+if you add 1 and 0 you get 1 .
+question: what is 3 plus 2 ? answer: 5 .
+the number 0 is written as zero .
+the green dog sat quietly on the soft warm mat .
+the number 4 is written as four .
+the red bee sat quietly on the soft warm mat .
+the number 2 is written as two .
+if you add 2 and 1 you get 3 .
+count from 5: 5 6 7 8 9 10 .
+if you add 9 and 9 you get 18 .
+if you add 2 and 7 you get 9 .
+question: what is 2 plus 3 ? answer: 5 .
+count from 6: 6 7 8 9 10 11 .
+if you add 6 and 6 you get 12 .
+the number 1 is written as one .
+count from 2: 2 3 4 5 6 7 .
+the number 1 is written as one .
+the number 1 is written as one .
+the number 12 is written as twelve .
+count from 5: 5 6 7 8 9 10 .
+question: what is 9 plus 3 ? answer: 12 .
+if you add 0 and 1 you get 1 .
+the number 12 is written as twelve .
+the number 3 is written as three .
+the number 5 is written as five .
+the green fox sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+count from 5: 5 6 7 8 9 10 .
+the number 12 is written as twelve .
+the blue dog sat quietly on the soft warm mat .
+the number 5 is written as five .
+the number 11 is written as eleven .
+the number 9 is written as nine .
+the green bee sat quietly on the soft warm mat .
+the blue bee sat quietly on the soft warm mat .
+question: what is 5 plus 4 ? answer: 9 .
+the number 12 is written as twelve .
+the amber ant sat quietly on the soft warm mat .
+if you add 8 and 6 you get 14 .
+count from 6: 6 7 8 9 10 11 .
+the white cow sat quietly on the soft warm mat .
+the green ant sat quietly on the soft warm mat .
+the number 7 is written as seven .
+the black cat sat quietly on the soft warm mat .
+question: what is 2 plus 1 ? answer: 3 .
+the number 3 is written as three .
+count from 1: 1 2 3 4 5 6 .
+the brown cow sat quietly on the soft warm mat .
+the number 7 is written as seven .
+count from 4: 4 5 6 7 8 9 .
+question: what is 6 plus 7 ? answer: 13 .
+the number 0 is written as zero .
+if you add 4 and 6 you get 10 .
+the number 2 is written as two .
+the green bee sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the number 10 is written as ten .
+question: what is 8 plus 1 ? answer: 9 .
+the brown dog sat quietly on the soft warm mat .
+question: what is 2 plus 2 ? answer: 4 .
+question: what is 9 plus 8 ? answer: 17 .
+the number 9 is written as nine .
+the black owl sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the white fox sat quietly on the soft warm mat .
+the number 5 is written as five .
+question: what is 6 plus 1 ? answer: 7 .
+the black hen sat quietly on the soft warm mat .
+the number 3 is written as three .
+if you add 3 and 6 you get 9 .
+the brown bee sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+if you add 1 and 2 you get 3 .
+the number 6 is written as six .
+count from 1: 1 2 3 4 5 6 .
+if you add 9 and 4 you get 13 .
+the number 0 is written as zero .
+the green hen sat quietly on the soft warm mat .
+if you add 4 and 8 you get 12 .
+the number 6 is written as six .
+the white owl sat quietly on the soft warm mat .
+if you add 1 and 5 you get 6 .
+the number 9 is written as nine .
+count from 0: 0 1 2 3 4 5 .
+if you add 9 and 1 you get 10 .
+the number 5 is written as five .
+question: what is 9 plus 2 ? answer: 11 .
+count from 3: 3 4 5 6 7 8 .
+count from 0: 0 1 2 3 4 5 .
+if you add 2 and 7 you get 9 .
+the black dog sat quietly on the soft warm mat .
+the amber dog sat quietly on the soft warm mat .
+question: what is 5 plus 6 ? answer: 11 .
+count from 2: 2 3 4 5 6 7 .
+if you add 0 and 5 you get 5 .
+question: what is 7 plus 9 ? answer: 16 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 3 plus 4 ? answer: 7 .
+count from 3: 3 4 5 6 7 8 .
+if you add 3 and 9 you get 12 .
+if you add 3 and 4 you get 7 .
+question: what is 2 plus 7 ? answer: 9 .
+the blue cat sat quietly on the soft warm mat .
+question: what is 5 plus 1 ? answer: 6 .
+the number 1 is written as one .
+count from 3: 3 4 5 6 7 8 .
+if you add 7 and 4 you get 11 .
+count from 1: 1 2 3 4 5 6 .
+the number 6 is written as six .
+if you add 0 and 3 you get 3 .
+the brown hen sat quietly on the soft warm mat .
+the gray dog sat quietly on the soft warm mat .
+question: what is 8 plus 8 ? answer: 16 .
+question: what is 9 plus 7 ? answer: 16 .
+the number 8 is written as eight .
+question: what is 8 plus 4 ? answer: 12 .
+count from 5: 5 6 7 8 9 10 .
+count from 3: 3 4 5 6 7 8 .
+if you add 0 and 9 you get 9 .
+the number 2 is written as two .
+the blue fox sat quietly on the soft warm mat .
+if you add 7 and 9 you get 16 .
+question: what is 9 plus 2 ? answer: 11 .
+question: what is 1 plus 1 ? answer: 2 .
+the number 8 is written as eight .
+the amber fox sat quietly on the soft warm mat .
+question: what is 9 plus 6 ? answer: 15 .
+if you add 8 and 0 you get 8 .
+question: what is 5 plus 1 ? answer: 6 .
+the number 1 is written as one .
+count from 6: 6 7 8 9 10 11 .
+question: what is 8 plus 9 ? answer: 17 .
+the black ant sat quietly on the soft warm mat .
+question: what is 2 plus 2 ? answer: 4 .
+the number 0 is written as zero .
+if you add 9 and 6 you get 15 .
+count from 5: 5 6 7 8 9 10 .
+the black cat sat quietly on the soft warm mat .
+if you add 4 and 4 you get 8 .
+count from 5: 5 6 7 8 9 10 .
+the blue cat sat quietly on the soft warm mat .
+the number 10 is written as ten .
+question: what is 2 plus 8 ? answer: 10 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 4 plus 6 ? answer: 10 .
+if you add 3 and 9 you get 12 .
+the number 6 is written as six .
+count from 4: 4 5 6 7 8 9 .
+the number 10 is written as ten .
+if you add 5 and 6 you get 11 .
+count from 3: 3 4 5 6 7 8 .
+count from 5: 5 6 7 8 9 10 .
+if you add 9 and 5 you get 14 .
+if you add 1 and 4 you get 5 .
+the number 10 is written as ten .
+the number 6 is written as six .
+count from 6: 6 7 8 9 10 11 .
+if you add 9 and 9 you get 18 .
+if you add 1 and 0 you get 1 .
+count from 1: 1 2 3 4 5 6 .
+if you add 5 and 0 you get 5 .
+if you add 1 and 7 you get 8 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 7 plus 2 ? answer: 9 .
+count from 0: 0 1 2 3 4 5 .
+count from 3: 3 4 5 6 7 8 .
+count from 5: 5 6 7 8 9 10 .
+the brown hen sat quietly on the soft warm mat .
+the number 4 is written as four .
+question: what is 8 plus 1 ? answer: 9 .
+question: what is 6 plus 6 ? answer: 12 .
+the red ant sat quietly on the soft warm mat .
+question: what is 3 plus 7 ? answer: 10 .
+question: what is 5 plus 4 ? answer: 9 .
+the red fox sat quietly on the soft warm mat .
+if you add 5 and 4 you get 9 .
+the number 9 is written as nine .
+count from 5: 5 6 7 8 9 10 .
+the white bee sat quietly on the soft warm mat .
+the number 6 is written as six .
+question: what is 1 plus 6 ? answer: 7 .
+if you add 2 and 5 you get 7 .
+count from 1: 1 2 3 4 5 6 .
+count from 1: 1 2 3 4 5 6 .
+the number 1 is written as one .
+if you add 7 and 8 you get 15 .
+question: what is 5 plus 2 ? answer: 7 .
+the gray cat sat quietly on the soft warm mat .
+the green bee sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+question: what is 8 plus 9 ? answer: 17 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 6 plus 2 ? answer: 8 .
+the number 4 is written as four .
+the number 2 is written as two .
+count from 1: 1 2 3 4 5 6 .
+if you add 8 and 2 you get 10 .
+count from 3: 3 4 5 6 7 8 .
+if you add 1 and 6 you get 7 .
+if you add 6 and 0 you get 6 .
+count from 5: 5 6 7 8 9 10 .
+count from 4: 4 5 6 7 8 9 .
+if you add 1 and 9 you get 10 .
+count from 4: 4 5 6 7 8 9 .
+count from 4: 4 5 6 7 8 9 .
+the number 4 is written as four .
+if you add 7 and 7 you get 14 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 2 plus 3 ? answer: 5 .
+question: what is 5 plus 6 ? answer: 11 .
+count from 1: 1 2 3 4 5 6 .
+if you add 2 and 0 you get 2 .
+if you add 6 and 1 you get 7 .
+the green fox sat quietly on the soft warm mat .
+the number 10 is written as ten .
+count from 6: 6 7 8 9 10 11 .
+the green ant sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the green owl sat quietly on the soft warm mat .
+if you add 1 and 5 you get 6 .
+if you add 0 and 3 you get 3 .
+if you add 4 and 6 you get 10 .
+the brown bee sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+the brown cow sat quietly on the soft warm mat .
+the number 6 is written as six .
+if you add 8 and 6 you get 14 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 8 plus 7 ? answer: 15 .
+the number 1 is written as one .
+the white owl sat quietly on the soft warm mat .
+question: what is 7 plus 2 ? answer: 9 .
+the number 12 is written as twelve .
+question: what is 1 plus 6 ? answer: 7 .
+if you add 9 and 4 you get 13 .
+the number 5 is written as five .
+the number 11 is written as eleven .
+question: what is 8 plus 1 ? answer: 9 .
+if you add 1 and 1 you get 2 .
+the number 5 is written as five .
+count from 5: 5 6 7 8 9 10 .
+the black cow sat quietly on the soft warm mat .
+question: what is 6 plus 2 ? answer: 8 .
+if you add 7 and 3 you get 10 .
+count from 6: 6 7 8 9 10 11 .
+if you add 2 and 8 you get 10 .
+the number 8 is written as eight .
+the number 5 is written as five .
+if you add 1 and 2 you get 3 .
+if you add 7 and 8 you get 15 .
+the number 9 is written as nine .
+if you add 9 and 5 you get 14 .
+question: what is 9 plus 3 ? answer: 12 .
+count from 4: 4 5 6 7 8 9 .
+if you add 4 and 2 you get 6 .
+the gray hen sat quietly on the soft warm mat .
+the amber owl sat quietly on the soft warm mat .
+the number 3 is written as three .
+if you add 8 and 2 you get 10 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 1 plus 4 ? answer: 5 .
+the white owl sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+question: what is 8 plus 2 ? answer: 10 .
+the number 9 is written as nine .
+the red cow sat quietly on the soft warm mat .
+question: what is 1 plus 9 ? answer: 10 .
+if you add 0 and 5 you get 5 .
+the number 11 is written as eleven .
+count from 5: 5 6 7 8 9 10 .
+the blue bee sat quietly on the soft warm mat .
+the blue fox sat quietly on the soft warm mat .
+question: what is 4 plus 4 ? answer: 8 .
+the red cow sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the number 7 is written as seven .
+question: what is 7 plus 4 ? answer: 11 .
+if you add 5 and 6 you get 11 .
+the number 5 is written as five .
+if you add 1 and 4 you get 5 .
+if you add 5 and 6 you get 11 .
+question: what is 5 plus 7 ? answer: 12 .
+count from 3: 3 4 5 6 7 8 .
+the number 2 is written as two .
+if you add 9 and 0 you get 9 .
+question: what is 7 plus 3 ? answer: 10 .
+count from 4: 4 5 6 7 8 9 .
+the number 1 is written as one .
+count from 1: 1 2 3 4 5 6 .
+the green fox sat quietly on the soft warm mat .
+the number 8 is written as eight .
+question: what is 2 plus 2 ? answer: 4 .
+the number 12 is written as twelve .
+if you add 8 and 0 you get 8 .
+the black cow sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the number 11 is written as eleven .
+question: what is 4 plus 8 ? answer: 12 .
+the gray bee sat quietly on the soft warm mat .
+the number 3 is written as three .
+the number 9 is written as nine .
+count from 3: 3 4 5 6 7 8 .
+the gray cat sat quietly on the soft warm mat .
+question: what is 3 plus 2 ? answer: 5 .
+if you add 0 and 3 you get 3 .
+the white dog sat quietly on the soft warm mat .
+the red cat sat quietly on the soft warm mat .
+the white bee sat quietly on the soft warm mat .
+the number 5 is written as five .
+question: what is 7 plus 3 ? answer: 10 .
+count from 0: 0 1 2 3 4 5 .
+the number 8 is written as eight .
+the brown bee sat quietly on the soft warm mat .
+if you add 7 and 8 you get 15 .
+count from 1: 1 2 3 4 5 6 .
+the number 6 is written as six .
+if you add 9 and 3 you get 12 .
+the number 11 is written as eleven .
+the number 4 is written as four .
+the number 2 is written as two .
+question: what is 5 plus 9 ? answer: 14 .
+the number 4 is written as four .
+if you add 5 and 4 you get 9 .
+if you add 3 and 2 you get 5 .
+question: what is 4 plus 8 ? answer: 12 .
+if you add 3 and 4 you get 7 .
+the black ant sat quietly on the soft warm mat .
+the number 10 is written as ten .
+count from 0: 0 1 2 3 4 5 .
+if you add 8 and 1 you get 9 .
+the amber cow sat quietly on the soft warm mat .
+question: what is 2 plus 8 ? answer: 10 .
+the number 11 is written as eleven .
+the blue dog sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+question: what is 9 plus 2 ? answer: 11 .
+count from 2: 2 3 4 5 6 7 .
+count from 4: 4 5 6 7 8 9 .
+the number 4 is written as four .
+the green owl sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+question: what is 8 plus 6 ? answer: 14 .
+the black dog sat quietly on the soft warm mat .
+question: what is 2 plus 4 ? answer: 6 .
+count from 1: 1 2 3 4 5 6 .
+the number 8 is written as eight .
+the number 10 is written as ten .
+question: what is 5 plus 9 ? answer: 14 .
+the red fox sat quietly on the soft warm mat .
+question: what is 9 plus 5 ? answer: 14 .
+count from 2: 2 3 4 5 6 7 .
+the number 10 is written as ten .
+the amber hen sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+question: what is 3 plus 2 ? answer: 5 .
+if you add 0 and 3 you get 3 .
+the gray dog sat quietly on the soft warm mat .
+question: what is 9 plus 7 ? answer: 16 .
+count from 4: 4 5 6 7 8 9 .
+question: what is 6 plus 9 ? answer: 15 .
+the number 9 is written as nine .
+question: what is 9 plus 5 ? answer: 14 .
+the number 10 is written as ten .
+count from 5: 5 6 7 8 9 10 .
+question: what is 3 plus 6 ? answer: 9 .
+the number 12 is written as twelve .
+the number 5 is written as five .
+the brown fox sat quietly on the soft warm mat .
+if you add 3 and 0 you get 3 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 6 plus 8 ? answer: 14 .
+the number 3 is written as three .
+count from 0: 0 1 2 3 4 5 .
+if you add 6 and 5 you get 11 .
+the amber cow sat quietly on the soft warm mat .
+if you add 6 and 3 you get 9 .
+the white cow sat quietly on the soft warm mat .
+the gray hen sat quietly on the soft warm mat .
+the number 2 is written as two .
+count from 1: 1 2 3 4 5 6 .
+if you add 8 and 6 you get 14 .
+if you add 2 and 8 you get 10 .
+question: what is 3 plus 3 ? answer: 6 .
+if you add 3 and 6 you get 9 .
+if you add 0 and 3 you get 3 .
+question: what is 2 plus 7 ? answer: 9 .
+the black hen sat quietly on the soft warm mat .
+the green owl sat quietly on the soft warm mat .
+the number 10 is written as ten .
+question: what is 3 plus 3 ? answer: 6 .
+question: what is 6 plus 9 ? answer: 15 .
+the brown dog sat quietly on the soft warm mat .
+question: what is 8 plus 7 ? answer: 15 .
+question: what is 1 plus 9 ? answer: 10 .
+question: what is 5 plus 4 ? answer: 9 .
+count from 5: 5 6 7 8 9 10 .
+count from 1: 1 2 3 4 5 6 .
+if you add 1 and 7 you get 8 .
+the brown cat sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the amber fox sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the black bee sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+if you add 0 and 6 you get 6 .
+count from 5: 5 6 7 8 9 10 .
+count from 2: 2 3 4 5 6 7 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 2 plus 9 ? answer: 11 .
+question: what is 1 plus 2 ? answer: 3 .
+the number 3 is written as three .
+question: what is 6 plus 2 ? answer: 8 .
+count from 0: 0 1 2 3 4 5 .
+count from 0: 0 1 2 3 4 5 .
+count from 4: 4 5 6 7 8 9 .
+if you add 4 and 7 you get 11 .
+the number 12 is written as twelve .
+if you add 1 and 7 you get 8 .
+question: what is 7 plus 6 ? answer: 13 .
+if you add 8 and 1 you get 9 .
+count from 0: 0 1 2 3 4 5 .
+if you add 9 and 0 you get 9 .
+if you add 4 and 9 you get 13 .
+the number 11 is written as eleven .
+if you add 0 and 9 you get 9 .
+if you add 8 and 9 you get 17 .
+the number 10 is written as ten .
+question: what is 4 plus 1 ? answer: 5 .
+the white fox sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the white cow sat quietly on the soft warm mat .
+question: what is 1 plus 3 ? answer: 4 .
+if you add 9 and 3 you get 12 .
+question: what is 3 plus 5 ? answer: 8 .
+question: what is 3 plus 4 ? answer: 7 .
+if you add 3 and 8 you get 11 .
+question: what is 3 plus 6 ? answer: 9 .
+the number 0 is written as zero .
+the number 12 is written as twelve .
+the red cat sat quietly on the soft warm mat .
+the number 3 is written as three .
+the number 4 is written as four .
+count from 3: 3 4 5 6 7 8 .
+question: what is 6 plus 5 ? answer: 11 .
+question: what is 6 plus 2 ? answer: 8 .
+if you add 9 and 7 you get 16 .
+the white hen sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+count from 5: 5 6 7 8 9 10 .
+the number 7 is written as seven .
+the green cat sat quietly on the soft warm mat .
+question: what is 9 plus 5 ? answer: 14 .
+if you add 8 and 7 you get 15 .
+the blue hen sat quietly on the soft warm mat .
+if you add 9 and 7 you get 16 .
+the number 11 is written as eleven .
+the number 2 is written as two .
+the brown owl sat quietly on the soft warm mat .
+if you add 8 and 6 you get 14 .
+count from 6: 6 7 8 9 10 11 .
+if you add 2 and 3 you get 5 .
+question: what is 1 plus 4 ? answer: 5 .
+the brown cat sat quietly on the soft warm mat .
+question: what is 2 plus 2 ? answer: 4 .
+the number 4 is written as four .
+if you add 7 and 6 you get 13 .
+if you add 8 and 3 you get 11 .
+if you add 2 and 2 you get 4 .
+the number 5 is written as five .
+count from 6: 6 7 8 9 10 11 .
+if you add 4 and 3 you get 7 .
+the number 4 is written as four .
+question: what is 1 plus 8 ? answer: 9 .
+the number 2 is written as two .
+question: what is 6 plus 3 ? answer: 9 .
+question: what is 5 plus 6 ? answer: 11 .
+count from 3: 3 4 5 6 7 8 .
+count from 2: 2 3 4 5 6 7 .
+the number 12 is written as twelve .
+question: what is 2 plus 3 ? answer: 5 .
+question: what is 5 plus 5 ? answer: 10 .
+count from 2: 2 3 4 5 6 7 .
+the number 6 is written as six .
+count from 1: 1 2 3 4 5 6 .
+question: what is 5 plus 6 ? answer: 11 .
+if you add 1 and 7 you get 8 .
+the number 12 is written as twelve .
+count from 5: 5 6 7 8 9 10 .
+the red dog sat quietly on the soft warm mat .
+the brown hen sat quietly on the soft warm mat .
+question: what is 4 plus 1 ? answer: 5 .
+the amber dog sat quietly on the soft warm mat .
+if you add 1 and 8 you get 9 .
+the number 3 is written as three .
+count from 2: 2 3 4 5 6 7 .
+the gray dog sat quietly on the soft warm mat .
+the number 7 is written as seven .
+question: what is 1 plus 5 ? answer: 6 .
+if you add 5 and 1 you get 6 .
+question: what is 9 plus 5 ? answer: 14 .
+the number 5 is written as five .
+question: what is 5 plus 8 ? answer: 13 .
+the number 0 is written as zero .
+the brown cow sat quietly on the soft warm mat .
+the number 9 is written as nine .
+if you add 5 and 9 you get 14 .
+the green dog sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+count from 4: 4 5 6 7 8 9 .
+the green hen sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+question: what is 8 plus 4 ? answer: 12 .
+question: what is 8 plus 9 ? answer: 17 .
+question: what is 5 plus 8 ? answer: 13 .
+if you add 9 and 0 you get 9 .
+if you add 1 and 6 you get 7 .
+the green cow sat quietly on the soft warm mat .
+question: what is 4 plus 1 ? answer: 5 .
+the green cow sat quietly on the soft warm mat .
+the gray hen sat quietly on the soft warm mat .
+question: what is 4 plus 4 ? answer: 8 .
+if you add 7 and 0 you get 7 .
+if you add 9 and 5 you get 14 .
+if you add 1 and 9 you get 10 .
+question: what is 1 plus 6 ? answer: 7 .
+the number 6 is written as six .
+the blue hen sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+the white dog sat quietly on the soft warm mat .
+if you add 7 and 5 you get 12 .
+the number 6 is written as six .
+the red dog sat quietly on the soft warm mat .
+the brown owl sat quietly on the soft warm mat .
+if you add 0 and 7 you get 7 .
+the white hen sat quietly on the soft warm mat .
+the number 0 is written as zero .
+if you add 0 and 1 you get 1 .
+if you add 7 and 4 you get 11 .
+the number 6 is written as six .
+question: what is 6 plus 2 ? answer: 8 .
+the red dog sat quietly on the soft warm mat .
+question: what is 3 plus 9 ? answer: 12 .
+count from 6: 6 7 8 9 10 11 .
+the green ant sat quietly on the soft warm mat .
+the amber hen sat quietly on the soft warm mat .
+question: what is 4 plus 1 ? answer: 5 .
+the red hen sat quietly on the soft warm mat .
+the red owl sat quietly on the soft warm mat .
+question: what is 5 plus 8 ? answer: 13 .
+if you add 6 and 6 you get 12 .
+the white dog sat quietly on the soft warm mat .
+question: what is 5 plus 9 ? answer: 14 .
+if you add 7 and 0 you get 7 .
+if you add 2 and 2 you get 4 .
+question: what is 8 plus 2 ? answer: 10 .
+question: what is 8 plus 7 ? answer: 15 .
+question: what is 3 plus 4 ? answer: 7 .
+the number 2 is written as two .
+count from 5: 5 6 7 8 9 10 .
+the gray hen sat quietly on the soft warm mat .
+if you add 5 and 8 you get 13 .
+the brown ant sat quietly on the soft warm mat .
+the red dog sat quietly on the soft warm mat .
+if you add 5 and 3 you get 8 .
+if you add 6 and 9 you get 15 .
+if you add 1 and 8 you get 9 .
+if you add 2 and 3 you get 5 .
+if you add 2 and 4 you get 6 .
+if you add 9 and 0 you get 9 .
+the number 7 is written as seven .
+the number 0 is written as zero .
+the brown owl sat quietly on the soft warm mat .
+if you add 4 and 9 you get 13 .
+if you add 8 and 6 you get 14 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 5 plus 1 ? answer: 6 .
+the green dog sat quietly on the soft warm mat .
+question: what is 7 plus 7 ? answer: 14 .
+if you add 8 and 9 you get 17 .
+count from 5: 5 6 7 8 9 10 .
+the number 0 is written as zero .
+question: what is 8 plus 4 ? answer: 12 .
+question: what is 7 plus 9 ? answer: 16 .
+the number 8 is written as eight .
+count from 0: 0 1 2 3 4 5 .
+if you add 3 and 9 you get 12 .
+question: what is 8 plus 8 ? answer: 16 .
+if you add 4 and 2 you get 6 .
+question: what is 6 plus 2 ? answer: 8 .
+the number 2 is written as two .
+the number 5 is written as five .
+the number 1 is written as one .
+the green dog sat quietly on the soft warm mat .
+question: what is 3 plus 7 ? answer: 10 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 6 plus 5 ? answer: 11 .
+the blue ant sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+the blue fox sat quietly on the soft warm mat .
+the red hen sat quietly on the soft warm mat .
+the number 1 is written as one .
+the number 2 is written as two .
+the white bee sat quietly on the soft warm mat .
+question: what is 8 plus 2 ? answer: 10 .
+the red fox sat quietly on the soft warm mat .
+if you add 8 and 8 you get 16 .
+question: what is 4 plus 3 ? answer: 7 .
+the number 2 is written as two .
+the white ant sat quietly on the soft warm mat .
+if you add 3 and 8 you get 11 .
+question: what is 1 plus 3 ? answer: 4 .
+question: what is 9 plus 8 ? answer: 17 .
+question: what is 5 plus 3 ? answer: 8 .
+if you add 9 and 2 you get 11 .
+the number 5 is written as five .
+the green fox sat quietly on the soft warm mat .
+question: what is 2 plus 9 ? answer: 11 .
+the green dog sat quietly on the soft warm mat .
+if you add 5 and 6 you get 11 .
+question: what is 4 plus 4 ? answer: 8 .
+question: what is 9 plus 2 ? answer: 11 .
+the number 0 is written as zero .
+count from 2: 2 3 4 5 6 7 .
+count from 2: 2 3 4 5 6 7 .
+the number 12 is written as twelve .
+if you add 8 and 6 you get 14 .
+if you add 4 and 2 you get 6 .
+the gray ant sat quietly on the soft warm mat .
+question: what is 9 plus 2 ? answer: 11 .
+the number 12 is written as twelve .
+the number 6 is written as six .
+if you add 3 and 2 you get 5 .
+the green cat sat quietly on the soft warm mat .
+the black ant sat quietly on the soft warm mat .
+the black cow sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 5 plus 5 ? answer: 10 .
+the green fox sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+if you add 8 and 5 you get 13 .
+count from 3: 3 4 5 6 7 8 .
+the number 8 is written as eight .
+the white cow sat quietly on the soft warm mat .
+the white bee sat quietly on the soft warm mat .
+if you add 4 and 2 you get 6 .
+if you add 5 and 3 you get 8 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 6 plus 8 ? answer: 14 .
+the number 0 is written as zero .
+count from 3: 3 4 5 6 7 8 .
+count from 5: 5 6 7 8 9 10 .
+the gray dog sat quietly on the soft warm mat .
+if you add 7 and 9 you get 16 .
+question: what is 4 plus 7 ? answer: 11 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 5 plus 4 ? answer: 9 .
+the black owl sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+count from 2: 2 3 4 5 6 7 .
+if you add 2 and 9 you get 11 .
+the brown cow sat quietly on the soft warm mat .
+the gray dog sat quietly on the soft warm mat .
+the green cat sat quietly on the soft warm mat .
+the gray fox sat quietly on the soft warm mat .
+the number 0 is written as zero .
+the red ant sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+if you add 5 and 8 you get 13 .
+if you add 3 and 2 you get 5 .
+the number 7 is written as seven .
+question: what is 5 plus 2 ? answer: 7 .
+if you add 6 and 9 you get 15 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 2 plus 9 ? answer: 11 .
+count from 4: 4 5 6 7 8 9 .
+the number 1 is written as one .
+count from 1: 1 2 3 4 5 6 .
+the number 0 is written as zero .
+count from 5: 5 6 7 8 9 10 .
+count from 3: 3 4 5 6 7 8 .
+the number 1 is written as one .
+the white owl sat quietly on the soft warm mat .
+if you add 6 and 0 you get 6 .
+if you add 9 and 6 you get 15 .
+the number 0 is written as zero .
+count from 6: 6 7 8 9 10 11 .
+question: what is 6 plus 6 ? answer: 12 .
+the red ant sat quietly on the soft warm mat .
+the green cat sat quietly on the soft warm mat .
+the number 12 is written as twelve .
+the red cat sat quietly on the soft warm mat .
+the blue fox sat quietly on the soft warm mat .
+the number 3 is written as three .
+the number 2 is written as two .
+question: what is 5 plus 8 ? answer: 13 .
+the brown cat sat quietly on the soft warm mat .
+the brown ant sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the number 8 is written as eight .
+if you add 4 and 7 you get 11 .
+the gray owl sat quietly on the soft warm mat .
+the number 12 is written as twelve .
+the amber bee sat quietly on the soft warm mat .
+the gray owl sat quietly on the soft warm mat .
+the white cat sat quietly on the soft warm mat .
+the number 1 is written as one .
+the gray cat sat quietly on the soft warm mat .
+if you add 2 and 5 you get 7 .
+the number 1 is written as one .
+if you add 9 and 3 you get 12 .
+the gray dog sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+the number 2 is written as two .
+the white ant sat quietly on the soft warm mat .
+the brown hen sat quietly on the soft warm mat .
+if you add 7 and 7 you get 14 .
+count from 5: 5 6 7 8 9 10 .
+the blue owl sat quietly on the soft warm mat .
+the number 9 is written as nine .
+the brown dog sat quietly on the soft warm mat .
+question: what is 3 plus 8 ? answer: 11 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 7 plus 4 ? answer: 11 .
+count from 5: 5 6 7 8 9 10 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 2 plus 4 ? answer: 6 .
+if you add 7 and 5 you get 12 .
+the blue ant sat quietly on the soft warm mat .
+the black owl sat quietly on the soft warm mat .
+the green owl sat quietly on the soft warm mat .
+question: what is 7 plus 6 ? answer: 13 .
+count from 0: 0 1 2 3 4 5 .
+count from 4: 4 5 6 7 8 9 .
+if you add 3 and 3 you get 6 .
+the green bee sat quietly on the soft warm mat .
+the amber ant sat quietly on the soft warm mat .
+the amber cow sat quietly on the soft warm mat .
+if you add 3 and 4 you get 7 .
+the number 0 is written as zero .
+if you add 8 and 5 you get 13 .
+the blue bee sat quietly on the soft warm mat .
+question: what is 4 plus 5 ? answer: 9 .
+question: what is 2 plus 9 ? answer: 11 .
+if you add 5 and 7 you get 12 .
+the number 1 is written as one .
+question: what is 7 plus 4 ? answer: 11 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 4 plus 3 ? answer: 7 .
+the number 12 is written as twelve .
+the blue cat sat quietly on the soft warm mat .
+the blue dog sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the green bee sat quietly on the soft warm mat .
+if you add 9 and 9 you get 18 .
+the amber dog sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+if you add 4 and 4 you get 8 .
+count from 0: 0 1 2 3 4 5 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 1 plus 9 ? answer: 10 .
+count from 1: 1 2 3 4 5 6 .
+the number 10 is written as ten .
+if you add 8 and 4 you get 12 .
+the black owl sat quietly on the soft warm mat .
+if you add 9 and 7 you get 16 .
+question: what is 9 plus 6 ? answer: 15 .
+question: what is 5 plus 3 ? answer: 8 .
+if you add 5 and 9 you get 14 .
+question: what is 4 plus 6 ? answer: 10 .
+the blue owl sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+the blue ant sat quietly on the soft warm mat .
+the white fox sat quietly on the soft warm mat .
+if you add 7 and 6 you get 13 .
+the red dog sat quietly on the soft warm mat .
+if you add 8 and 4 you get 12 .
+the number 9 is written as nine .
+the number 0 is written as zero .
+the number 9 is written as nine .
+the number 0 is written as zero .
+the number 9 is written as nine .
+count from 3: 3 4 5 6 7 8 .
+count from 2: 2 3 4 5 6 7 .
+the number 6 is written as six .
+the blue cat sat quietly on the soft warm mat .
+question: what is 4 plus 9 ? answer: 13 .
+the white cow sat quietly on the soft warm mat .
+the number 6 is written as six .
+question: what is 6 plus 1 ? answer: 7 .
+the number 6 is written as six .
+question: what is 1 plus 4 ? answer: 5 .
+question: what is 7 plus 1 ? answer: 8 .
+the number 10 is written as ten .
+question: what is 7 plus 1 ? answer: 8 .
+the red owl sat quietly on the soft warm mat .
+if you add 5 and 9 you get 14 .
+question: what is 2 plus 5 ? answer: 7 .
+count from 2: 2 3 4 5 6 7 .
+question: what is 3 plus 2 ? answer: 5 .
+count from 5: 5 6 7 8 9 10 .
+the amber owl sat quietly on the soft warm mat .
+question: what is 7 plus 4 ? answer: 11 .
+if you add 4 and 1 you get 5 .
+question: what is 9 plus 4 ? answer: 13 .
+the brown cat sat quietly on the soft warm mat .
+question: what is 1 plus 1 ? answer: 2 .
+question: what is 1 plus 9 ? answer: 10 .
+the gray fox sat quietly on the soft warm mat .
+question: what is 4 plus 6 ? answer: 10 .
+the number 12 is written as twelve .
+count from 0: 0 1 2 3 4 5 .
+the blue hen sat quietly on the soft warm mat .
+question: what is 9 plus 9 ? answer: 18 .
+the gray fox sat quietly on the soft warm mat .
+if you add 3 and 7 you get 10 .
+the amber hen sat quietly on the soft warm mat .
+if you add 7 and 4 you get 11 .
+the number 5 is written as five .
+the number 12 is written as twelve .
+the number 6 is written as six .
+the white ant sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+question: what is 2 plus 4 ? answer: 6 .
+the number 6 is written as six .
+count from 3: 3 4 5 6 7 8 .
+count from 0: 0 1 2 3 4 5 .
+the black bee sat quietly on the soft warm mat .
+the number 4 is written as four .
+the number 9 is written as nine .
+the number 10 is written as ten .
+count from 0: 0 1 2 3 4 5 .
+question: what is 8 plus 2 ? answer: 10 .
+count from 4: 4 5 6 7 8 9 .
+the amber cat sat quietly on the soft warm mat .
+question: what is 4 plus 5 ? answer: 9 .
+the gray cat sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+count from 5: 5 6 7 8 9 10 .
+count from 5: 5 6 7 8 9 10 .
+the amber hen sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+the number 11 is written as eleven .
+if you add 0 and 8 you get 8 .
+question: what is 3 plus 9 ? answer: 12 .
+the gray dog sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+count from 1: 1 2 3 4 5 6 .
+if you add 1 and 0 you get 1 .
+if you add 9 and 7 you get 16 .
+if you add 6 and 0 you get 6 .
+question: what is 9 plus 1 ? answer: 10 .
+if you add 4 and 7 you get 11 .
+the number 4 is written as four .
+the white ant sat quietly on the soft warm mat .
+question: what is 2 plus 5 ? answer: 7 .
+the brown owl sat quietly on the soft warm mat .
+if you add 7 and 0 you get 7 .
+if you add 1 and 0 you get 1 .
+if you add 2 and 8 you get 10 .
+the gray cow sat quietly on the soft warm mat .
+the number 8 is written as eight .
+count from 6: 6 7 8 9 10 11 .
+the number 2 is written as two .
+if you add 2 and 4 you get 6 .
+question: what is 4 plus 1 ? answer: 5 .
+the white hen sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+count from 3: 3 4 5 6 7 8 .
+if you add 8 and 6 you get 14 .
+the blue fox sat quietly on the soft warm mat .
+if you add 8 and 0 you get 8 .
+if you add 9 and 5 you get 14 .
+the number 3 is written as three .
+question: what is 6 plus 8 ? answer: 14 .
+the amber owl sat quietly on the soft warm mat .
+the red cow sat quietly on the soft warm mat .
+the green bee sat quietly on the soft warm mat .
+the red owl sat quietly on the soft warm mat .
+question: what is 6 plus 7 ? answer: 13 .
+the amber hen sat quietly on the soft warm mat .
+if you add 3 and 2 you get 5 .
+the green fox sat quietly on the soft warm mat .
+the number 6 is written as six .
+question: what is 9 plus 9 ? answer: 18 .
+the number 4 is written as four .
+the number 6 is written as six .
+the black bee sat quietly on the soft warm mat .
+if you add 3 and 6 you get 9 .
+question: what is 2 plus 1 ? answer: 3 .
+count from 4: 4 5 6 7 8 9 .
+question: what is 3 plus 2 ? answer: 5 .
+if you add 0 and 5 you get 5 .
+question: what is 4 plus 2 ? answer: 6 .
+question: what is 6 plus 8 ? answer: 14 .
+the number 9 is written as nine .
+the number 0 is written as zero .
+the amber bee sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+the number 8 is written as eight .
+the amber owl sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the brown owl sat quietly on the soft warm mat .
+the brown ant sat quietly on the soft warm mat .
+the white dog sat quietly on the soft warm mat .
+the gray bee sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+if you add 5 and 8 you get 13 .
+if you add 3 and 6 you get 9 .
+if you add 6 and 1 you get 7 .
+question: what is 9 plus 5 ? answer: 14 .
+if you add 2 and 3 you get 5 .
+if you add 6 and 6 you get 12 .
+the brown owl sat quietly on the soft warm mat .
+question: what is 9 plus 4 ? answer: 13 .
+the green owl sat quietly on the soft warm mat .
+the white fox sat quietly on the soft warm mat .
+the red ant sat quietly on the soft warm mat .
+the number 1 is written as one .
+question: what is 4 plus 2 ? answer: 6 .
+the brown owl sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+question: what is 7 plus 9 ? answer: 16 .
+the number 4 is written as four .
+the number 9 is written as nine .
+the number 0 is written as zero .
+the number 3 is written as three .
+question: what is 7 plus 7 ? answer: 14 .
+the number 6 is written as six .
+the number 0 is written as zero .
+count from 4: 4 5 6 7 8 9 .
+the gray fox sat quietly on the soft warm mat .
+if you add 3 and 4 you get 7 .
+if you add 5 and 6 you get 11 .
+question: what is 5 plus 2 ? answer: 7 .
+the number 5 is written as five .
+question: what is 5 plus 7 ? answer: 12 .
+the number 9 is written as nine .
+the number 0 is written as zero .
+if you add 8 and 5 you get 13 .
+the blue ant sat quietly on the soft warm mat .
+the number 0 is written as zero .
+the number 6 is written as six .
+question: what is 6 plus 2 ? answer: 8 .
+the number 4 is written as four .
+question: what is 8 plus 4 ? answer: 12 .
+question: what is 7 plus 1 ? answer: 8 .
+the number 2 is written as two .
+the number 5 is written as five .
+the gray cat sat quietly on the soft warm mat .
+question: what is 8 plus 1 ? answer: 9 .
+if you add 1 and 0 you get 1 .
+count from 6: 6 7 8 9 10 11 .
+if you add 8 and 0 you get 8 .
+if you add 9 and 5 you get 14 .
+the number 11 is written as eleven .
+the brown bee sat quietly on the soft warm mat .
+the green dog sat quietly on the soft warm mat .
+the number 3 is written as three .
+the number 1 is written as one .
+if you add 6 and 7 you get 13 .
+question: what is 2 plus 6 ? answer: 8 .
+if you add 9 and 6 you get 15 .
+if you add 2 and 2 you get 4 .
+if you add 5 and 3 you get 8 .
+the number 5 is written as five .
+if you add 9 and 0 you get 9 .
+the white hen sat quietly on the soft warm mat .
+the gray hen sat quietly on the soft warm mat .
+if you add 2 and 0 you get 2 .
+question: what is 1 plus 2 ? answer: 3 .
+the number 12 is written as twelve .
+the number 11 is written as eleven .
+count from 2: 2 3 4 5 6 7 .
+the red fox sat quietly on the soft warm mat .
+the red hen sat quietly on the soft warm mat .
+the number 3 is written as three .
+count from 2: 2 3 4 5 6 7 .
+if you add 2 and 7 you get 9 .
+if you add 7 and 4 you get 11 .
+question: what is 3 plus 9 ? answer: 12 .
+count from 4: 4 5 6 7 8 9 .
+the green ant sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+question: what is 8 plus 5 ? answer: 13 .
+the number 6 is written as six .
+question: what is 4 plus 9 ? answer: 13 .
+the black owl sat quietly on the soft warm mat .
+the number 4 is written as four .
+if you add 8 and 8 you get 16 .
+the brown cat sat quietly on the soft warm mat .
+question: what is 3 plus 6 ? answer: 9 .
+if you add 4 and 3 you get 7 .
+the black cat sat quietly on the soft warm mat .
+the brown ant sat quietly on the soft warm mat .
+if you add 0 and 8 you get 8 .
+if you add 1 and 4 you get 5 .
+count from 6: 6 7 8 9 10 11 .
+if you add 3 and 6 you get 9 .
+count from 2: 2 3 4 5 6 7 .
+the white bee sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+if you add 4 and 9 you get 13 .
+the white cow sat quietly on the soft warm mat .
+the number 10 is written as ten .
+the number 9 is written as nine .
+if you add 8 and 6 you get 14 .
+the number 9 is written as nine .
+the number 11 is written as eleven .
+count from 6: 6 7 8 9 10 11 .
+question: what is 8 plus 4 ? answer: 12 .
+the black cat sat quietly on the soft warm mat .
+question: what is 5 plus 9 ? answer: 14 .
+question: what is 1 plus 9 ? answer: 10 .
+the black bee sat quietly on the soft warm mat .
+the blue ant sat quietly on the soft warm mat .
+if you add 5 and 0 you get 5 .
+if you add 0 and 2 you get 2 .
+count from 5: 5 6 7 8 9 10 .
+the number 9 is written as nine .
+the number 7 is written as seven .
+the number 9 is written as nine .
+if you add 6 and 0 you get 6 .
+question: what is 3 plus 1 ? answer: 4 .
+count from 1: 1 2 3 4 5 6 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 5 plus 6 ? answer: 11 .
+count from 1: 1 2 3 4 5 6 .
+the black fox sat quietly on the soft warm mat .
+if you add 9 and 1 you get 10 .
+if you add 1 and 9 you get 10 .
+count from 0: 0 1 2 3 4 5 .
+count from 6: 6 7 8 9 10 11 .
+the amber hen sat quietly on the soft warm mat .
+the white bee sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the blue cat sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+count from 1: 1 2 3 4 5 6 .
+the number 8 is written as eight .
+count from 4: 4 5 6 7 8 9 .
+question: what is 8 plus 1 ? answer: 9 .
+the white ant sat quietly on the soft warm mat .
+the number 9 is written as nine .
+the brown ant sat quietly on the soft warm mat .
+if you add 2 and 5 you get 7 .
+the green fox sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+if you add 6 and 6 you get 12 .
+question: what is 7 plus 3 ? answer: 10 .
+question: what is 3 plus 8 ? answer: 11 .
+if you add 5 and 6 you get 11 .
+count from 5: 5 6 7 8 9 10 .
+question: what is 3 plus 1 ? answer: 4 .
+count from 4: 4 5 6 7 8 9 .
+count from 1: 1 2 3 4 5 6 .
+the white cat sat quietly on the soft warm mat .
+the gray owl sat quietly on the soft warm mat .
+the number 3 is written as three .
+question: what is 2 plus 2 ? answer: 4 .
+the blue cow sat quietly on the soft warm mat .
+question: what is 3 plus 8 ? answer: 11 .
+the number 3 is written as three .
+if you add 7 and 0 you get 7 .
+question: what is 5 plus 6 ? answer: 11 .
+if you add 0 and 5 you get 5 .
+the red hen sat quietly on the soft warm mat .
+the red fox sat quietly on the soft warm mat .
+the amber hen sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+if you add 6 and 2 you get 8 .
+count from 6: 6 7 8 9 10 11 .
+count from 1: 1 2 3 4 5 6 .
+the number 10 is written as ten .
+the green cat sat quietly on the soft warm mat .
+the brown owl sat quietly on the soft warm mat .
+if you add 4 and 9 you get 13 .
+the number 3 is written as three .
+count from 3: 3 4 5 6 7 8 .
+the green bee sat quietly on the soft warm mat .
+the number 9 is written as nine .
+question: what is 1 plus 6 ? answer: 7 .
+if you add 6 and 4 you get 10 .
+the number 5 is written as five .
+count from 5: 5 6 7 8 9 10 .
+the number 6 is written as six .
+the green bee sat quietly on the soft warm mat .
+the number 6 is written as six .
+the green hen sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the green cat sat quietly on the soft warm mat .
+the number 8 is written as eight .
+question: what is 6 plus 8 ? answer: 14 .
+if you add 5 and 7 you get 12 .
+question: what is 7 plus 4 ? answer: 11 .
+the number 3 is written as three .
+question: what is 1 plus 3 ? answer: 4 .
+the amber cow sat quietly on the soft warm mat .
+the red dog sat quietly on the soft warm mat .
+the number 7 is written as seven .
+the gray cat sat quietly on the soft warm mat .
+if you add 5 and 4 you get 9 .
+the amber hen sat quietly on the soft warm mat .
+the number 4 is written as four .
+count from 5: 5 6 7 8 9 10 .
+the number 7 is written as seven .
+the green cow sat quietly on the soft warm mat .
+question: what is 6 plus 5 ? answer: 11 .
+the number 1 is written as one .
+count from 1: 1 2 3 4 5 6 .
+count from 4: 4 5 6 7 8 9 .
+the gray cow sat quietly on the soft warm mat .
+if you add 1 and 6 you get 7 .
+the black hen sat quietly on the soft warm mat .
+if you add 5 and 0 you get 5 .
+question: what is 2 plus 5 ? answer: 7 .
+if you add 7 and 1 you get 8 .
+the number 6 is written as six .
+the green cow sat quietly on the soft warm mat .
+if you add 6 and 3 you get 9 .
+question: what is 6 plus 7 ? answer: 13 .
+the white dog sat quietly on the soft warm mat .
+the number 9 is written as nine .
+the green fox sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+count from 4: 4 5 6 7 8 9 .
+the green fox sat quietly on the soft warm mat .
+if you add 6 and 1 you get 7 .
+count from 6: 6 7 8 9 10 11 .
+if you add 7 and 2 you get 9 .
+the black cow sat quietly on the soft warm mat .
+the gray owl sat quietly on the soft warm mat .
+if you add 5 and 8 you get 13 .
+question: what is 2 plus 5 ? answer: 7 .
+question: what is 1 plus 3 ? answer: 4 .
+the number 0 is written as zero .
+count from 6: 6 7 8 9 10 11 .
+the amber cow sat quietly on the soft warm mat .
+if you add 1 and 7 you get 8 .
+if you add 6 and 3 you get 9 .
+the blue cat sat quietly on the soft warm mat .
+the blue cat sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+if you add 2 and 3 you get 5 .
+question: what is 2 plus 1 ? answer: 3 .
+the number 8 is written as eight .
+the number 10 is written as ten .
+the red owl sat quietly on the soft warm mat .
+if you add 4 and 8 you get 12 .
+the number 1 is written as one .
+the number 2 is written as two .
+question: what is 9 plus 6 ? answer: 15 .
+count from 0: 0 1 2 3 4 5 .
+count from 1: 1 2 3 4 5 6 .
+the green cat sat quietly on the soft warm mat .
+if you add 0 and 6 you get 6 .
+the number 12 is written as twelve .
+count from 2: 2 3 4 5 6 7 .
+the number 12 is written as twelve .
+count from 4: 4 5 6 7 8 9 .
+question: what is 8 plus 5 ? answer: 13 .
+the number 1 is written as one .
+the number 3 is written as three .
+count from 0: 0 1 2 3 4 5 .
+question: what is 8 plus 5 ? answer: 13 .
+the number 2 is written as two .
+if you add 8 and 4 you get 12 .
+question: what is 3 plus 1 ? answer: 4 .
+count from 2: 2 3 4 5 6 7 .
+if you add 8 and 5 you get 13 .
+if you add 2 and 7 you get 9 .
+the number 12 is written as twelve .
+count from 1: 1 2 3 4 5 6 .
+if you add 3 and 3 you get 6 .
+the number 3 is written as three .
+count from 4: 4 5 6 7 8 9 .
+the number 0 is written as zero .
+if you add 9 and 4 you get 13 .
+the number 5 is written as five .
+question: what is 9 plus 1 ? answer: 10 .
+question: what is 4 plus 8 ? answer: 12 .
+count from 6: 6 7 8 9 10 11 .
+the number 1 is written as one .
+the amber ant sat quietly on the soft warm mat .
+if you add 9 and 6 you get 15 .
+count from 3: 3 4 5 6 7 8 .
+if you add 2 and 5 you get 7 .
+if you add 6 and 3 you get 9 .
+if you add 7 and 0 you get 7 .
+count from 2: 2 3 4 5 6 7 .
+the number 8 is written as eight .
+the brown owl sat quietly on the soft warm mat .
+the white cow sat quietly on the soft warm mat .
+the amber dog sat quietly on the soft warm mat .
+question: what is 3 plus 5 ? answer: 8 .
+if you add 9 and 6 you get 15 .
+if you add 6 and 9 you get 15 .
+the brown cat sat quietly on the soft warm mat .
+question: what is 6 plus 1 ? answer: 7 .
+the number 12 is written as twelve .
+the number 1 is written as one .
+if you add 1 and 7 you get 8 .
+the number 10 is written as ten .
+count from 6: 6 7 8 9 10 11 .
+the number 7 is written as seven .
+question: what is 2 plus 7 ? answer: 9 .
+if you add 9 and 5 you get 14 .
+count from 4: 4 5 6 7 8 9 .
+the brown owl sat quietly on the soft warm mat .
+the number 7 is written as seven .
+question: what is 5 plus 8 ? answer: 13 .
+question: what is 7 plus 3 ? answer: 10 .
+count from 2: 2 3 4 5 6 7 .
+the white cow sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+if you add 6 and 9 you get 15 .
+the blue fox sat quietly on the soft warm mat .
+the blue cow sat quietly on the soft warm mat .
+the number 8 is written as eight .
+the red fox sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+if you add 5 and 2 you get 7 .
+if you add 0 and 6 you get 6 .
+count from 0: 0 1 2 3 4 5 .
+count from 0: 0 1 2 3 4 5 .
+the white fox sat quietly on the soft warm mat .
+the number 6 is written as six .
+the red owl sat quietly on the soft warm mat .
+if you add 2 and 0 you get 2 .
+question: what is 1 plus 8 ? answer: 9 .
+the amber fox sat quietly on the soft warm mat .
+the white dog sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+the number 2 is written as two .
+the amber owl sat quietly on the soft warm mat .
+if you add 8 and 7 you get 15 .
+the number 6 is written as six .
+the number 6 is written as six .
+the number 12 is written as twelve .
+the number 0 is written as zero .
+if you add 4 and 0 you get 4 .
+the black ant sat quietly on the soft warm mat .
+if you add 0 and 1 you get 1 .
+count from 0: 0 1 2 3 4 5 .
+the number 8 is written as eight .
+the blue owl sat quietly on the soft warm mat .
+the number 0 is written as zero .
+if you add 2 and 7 you get 9 .
+the blue cat sat quietly on the soft warm mat .
+the black hen sat quietly on the soft warm mat .
+question: what is 1 plus 8 ? answer: 9 .
+the number 4 is written as four .
+if you add 7 and 8 you get 15 .
+the blue dog sat quietly on the soft warm mat .
+question: what is 6 plus 7 ? answer: 13 .
+the number 5 is written as five .
+count from 6: 6 7 8 9 10 11 .
+the red cat sat quietly on the soft warm mat .
+the number 10 is written as ten .
+question: what is 5 plus 4 ? answer: 9 .
+question: what is 5 plus 7 ? answer: 12 .
+the number 6 is written as six .
+the number 5 is written as five .
+the number 3 is written as three .
+if you add 0 and 3 you get 3 .
+if you add 1 and 1 you get 2 .
+question: what is 3 plus 7 ? answer: 10 .
+the black cat sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+count from 1: 1 2 3 4 5 6 .
+count from 4: 4 5 6 7 8 9 .
+the number 1 is written as one .
+the number 3 is written as three .
+the red cat sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the green cat sat quietly on the soft warm mat .
+the number 7 is written as seven .
+count from 6: 6 7 8 9 10 11 .
+if you add 4 and 4 you get 8 .
+question: what is 9 plus 5 ? answer: 14 .
+count from 2: 2 3 4 5 6 7 .
+count from 5: 5 6 7 8 9 10 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 6 plus 4 ? answer: 10 .
+question: what is 7 plus 4 ? answer: 11 .
+if you add 5 and 9 you get 14 .
+the number 5 is written as five .
+the number 7 is written as seven .
+the number 10 is written as ten .
+the number 3 is written as three .
+the red cow sat quietly on the soft warm mat .
+the number 9 is written as nine .
+the number 10 is written as ten .
+the brown fox sat quietly on the soft warm mat .
+question: what is 4 plus 5 ? answer: 9 .
+count from 5: 5 6 7 8 9 10 .
+the white cat sat quietly on the soft warm mat .
+the number 4 is written as four .
+if you add 4 and 9 you get 13 .
+if you add 9 and 1 you get 10 .
+count from 6: 6 7 8 9 10 11 .
+if you add 6 and 8 you get 14 .
+if you add 1 and 2 you get 3 .
+count from 0: 0 1 2 3 4 5 .
+question: what is 3 plus 6 ? answer: 9 .
+the blue owl sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+count from 3: 3 4 5 6 7 8 .
+count from 4: 4 5 6 7 8 9 .
+the black cat sat quietly on the soft warm mat .
+if you add 7 and 5 you get 12 .
+question: what is 8 plus 8 ? answer: 16 .
+question: what is 8 plus 6 ? answer: 14 .
+the number 6 is written as six .
+the number 8 is written as eight .
+the number 7 is written as seven .
+question: what is 5 plus 6 ? answer: 11 .
+count from 4: 4 5 6 7 8 9 .
+the amber owl sat quietly on the soft warm mat .
+the number 10 is written as ten .
+the number 11 is written as eleven .
+the green hen sat quietly on the soft warm mat .
+question: what is 8 plus 7 ? answer: 15 .
+if you add 6 and 7 you get 13 .
+count from 0: 0 1 2 3 4 5 .
+the number 9 is written as nine .
+if you add 0 and 6 you get 6 .
+the number 0 is written as zero .
+count from 4: 4 5 6 7 8 9 .
+question: what is 1 plus 4 ? answer: 5 .
+if you add 2 and 6 you get 8 .
+the green hen sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+the blue fox sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+question: what is 4 plus 2 ? answer: 6 .
+the brown owl sat quietly on the soft warm mat .
+the white cat sat quietly on the soft warm mat .
+question: what is 2 plus 7 ? answer: 9 .
+question: what is 3 plus 9 ? answer: 12 .
+the red cat sat quietly on the soft warm mat .
+the number 7 is written as seven .
+question: what is 3 plus 1 ? answer: 4 .
+count from 0: 0 1 2 3 4 5 .
+the number 2 is written as two .
+the white hen sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+question: what is 2 plus 8 ? answer: 10 .
+the white cat sat quietly on the soft warm mat .
+the number 3 is written as three .
+the number 2 is written as two .
+question: what is 5 plus 8 ? answer: 13 .
+question: what is 3 plus 8 ? answer: 11 .
+if you add 1 and 9 you get 10 .
+question: what is 5 plus 1 ? answer: 6 .
+count from 1: 1 2 3 4 5 6 .
+the number 8 is written as eight .
+question: what is 4 plus 7 ? answer: 11 .
+the number 5 is written as five .
+question: what is 2 plus 5 ? answer: 7 .
+the green dog sat quietly on the soft warm mat .
+if you add 3 and 7 you get 10 .
+the number 8 is written as eight .
+if you add 3 and 7 you get 10 .
+count from 6: 6 7 8 9 10 11 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 3 plus 7 ? answer: 10 .
+if you add 4 and 9 you get 13 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 4 plus 1 ? answer: 5 .
+the blue hen sat quietly on the soft warm mat .
+question: what is 8 plus 6 ? answer: 14 .
+the number 3 is written as three .
+question: what is 9 plus 6 ? answer: 15 .
+question: what is 5 plus 9 ? answer: 14 .
+question: what is 2 plus 9 ? answer: 11 .
+if you add 0 and 6 you get 6 .
+the number 8 is written as eight .
+if you add 1 and 8 you get 9 .
+if you add 2 and 5 you get 7 .
+the number 9 is written as nine .
+the amber cat sat quietly on the soft warm mat .
+question: what is 7 plus 6 ? answer: 13 .
+question: what is 7 plus 9 ? answer: 16 .
+the number 4 is written as four .
+the number 2 is written as two .
+the number 6 is written as six .
+if you add 7 and 8 you get 15 .
+the amber dog sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+question: what is 3 plus 3 ? answer: 6 .
+the number 10 is written as ten .
+the white bee sat quietly on the soft warm mat .
+the number 4 is written as four .
+if you add 0 and 6 you get 6 .
+the number 10 is written as ten .
+the number 8 is written as eight .
+count from 5: 5 6 7 8 9 10 .
+count from 4: 4 5 6 7 8 9 .
+the number 8 is written as eight .
+count from 3: 3 4 5 6 7 8 .
+the gray fox sat quietly on the soft warm mat .
+if you add 6 and 5 you get 11 .
+the number 9 is written as nine .
+the gray owl sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+question: what is 8 plus 5 ? answer: 13 .
+question: what is 8 plus 7 ? answer: 15 .
+question: what is 9 plus 2 ? answer: 11 .
+count from 4: 4 5 6 7 8 9 .
+the brown cat sat quietly on the soft warm mat .
+the number 5 is written as five .
+if you add 8 and 3 you get 11 .
+the black ant sat quietly on the soft warm mat .
+the number 10 is written as ten .
+the number 3 is written as three .
+question: what is 5 plus 8 ? answer: 13 .
+the number 3 is written as three .
+the number 9 is written as nine .
+the brown cat sat quietly on the soft warm mat .
+the white bee sat quietly on the soft warm mat .
+the white ant sat quietly on the soft warm mat .
+question: what is 9 plus 7 ? answer: 16 .
+count from 0: 0 1 2 3 4 5 .
+if you add 5 and 1 you get 6 .
+the number 8 is written as eight .
+the number 7 is written as seven .
+the amber fox sat quietly on the soft warm mat .
+if you add 8 and 6 you get 14 .
+the white owl sat quietly on the soft warm mat .
+if you add 1 and 6 you get 7 .
+the blue bee sat quietly on the soft warm mat .
+if you add 2 and 4 you get 6 .
+question: what is 9 plus 1 ? answer: 10 .
+count from 6: 6 7 8 9 10 11 .
+if you add 2 and 8 you get 10 .
+count from 5: 5 6 7 8 9 10 .
+the number 10 is written as ten .
+count from 3: 3 4 5 6 7 8 .
+the number 2 is written as two .
+the blue cat sat quietly on the soft warm mat .
+question: what is 5 plus 5 ? answer: 10 .
+the number 0 is written as zero .
+the number 6 is written as six .
+count from 0: 0 1 2 3 4 5 .
+the red owl sat quietly on the soft warm mat .
+if you add 5 and 7 you get 12 .
+the number 6 is written as six .
+the number 2 is written as two .
+question: what is 5 plus 6 ? answer: 11 .
+if you add 1 and 7 you get 8 .
+question: what is 9 plus 4 ? answer: 13 .
+count from 0: 0 1 2 3 4 5 .
+if you add 6 and 2 you get 8 .
+if you add 4 and 6 you get 10 .
+count from 1: 1 2 3 4 5 6 .
+the amber cow sat quietly on the soft warm mat .
+question: what is 1 plus 2 ? answer: 3 .
+the number 2 is written as two .
+question: what is 2 plus 1 ? answer: 3 .
+if you add 1 and 7 you get 8 .
+count from 1: 1 2 3 4 5 6 .
+if you add 4 and 7 you get 11 .
+the number 3 is written as three .
+the number 12 is written as twelve .
+if you add 9 and 8 you get 17 .
+the white bee sat quietly on the soft warm mat .
+question: what is 7 plus 4 ? answer: 11 .
+count from 5: 5 6 7 8 9 10 .
+the number 1 is written as one .
+the number 0 is written as zero .
+the red bee sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+count from 5: 5 6 7 8 9 10 .
+if you add 9 and 5 you get 14 .
+the number 10 is written as ten .
+count from 5: 5 6 7 8 9 10 .
+the number 9 is written as nine .
+count from 2: 2 3 4 5 6 7 .
+count from 2: 2 3 4 5 6 7 .
+count from 5: 5 6 7 8 9 10 .
+if you add 5 and 1 you get 6 .
+count from 2: 2 3 4 5 6 7 .
+if you add 0 and 8 you get 8 .
+the number 4 is written as four .
+if you add 1 and 3 you get 4 .
+count from 2: 2 3 4 5 6 7 .
+if you add 6 and 5 you get 11 .
+question: what is 6 plus 6 ? answer: 12 .
+if you add 0 and 5 you get 5 .
+if you add 1 and 0 you get 1 .
+the number 7 is written as seven .
+the gray hen sat quietly on the soft warm mat .
+question: what is 1 plus 4 ? answer: 5 .
+count from 4: 4 5 6 7 8 9 .
+if you add 3 and 6 you get 9 .
+the black dog sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+if you add 3 and 1 you get 4 .
+count from 1: 1 2 3 4 5 6 .
+the white ant sat quietly on the soft warm mat .
+question: what is 3 plus 7 ? answer: 10 .
+if you add 7 and 7 you get 14 .
+count from 1: 1 2 3 4 5 6 .
+the blue hen sat quietly on the soft warm mat .
+question: what is 4 plus 5 ? answer: 9 .
+the number 6 is written as six .
+the number 7 is written as seven .
+question: what is 1 plus 7 ? answer: 8 .
+if you add 2 and 7 you get 9 .
+question: what is 3 plus 5 ? answer: 8 .
+count from 5: 5 6 7 8 9 10 .
+count from 2: 2 3 4 5 6 7 .
+if you add 3 and 8 you get 11 .
+count from 6: 6 7 8 9 10 11 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 3 plus 1 ? answer: 4 .
+count from 4: 4 5 6 7 8 9 .
+if you add 5 and 6 you get 11 .
+if you add 7 and 6 you get 13 .
+the number 10 is written as ten .
+the number 12 is written as twelve .
+the number 8 is written as eight .
+count from 2: 2 3 4 5 6 7 .
+question: what is 3 plus 9 ? answer: 12 .
+if you add 6 and 1 you get 7 .
+the black ant sat quietly on the soft warm mat .
+the number 6 is written as six .
+the number 5 is written as five .
+the number 2 is written as two .
+the black bee sat quietly on the soft warm mat .
+if you add 9 and 5 you get 14 .
+count from 5: 5 6 7 8 9 10 .
+count from 4: 4 5 6 7 8 9 .
+question: what is 1 plus 2 ? answer: 3 .
+the red cat sat quietly on the soft warm mat .
+question: what is 9 plus 7 ? answer: 16 .
+the black hen sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+if you add 3 and 7 you get 10 .
+count from 0: 0 1 2 3 4 5 .
+the red cat sat quietly on the soft warm mat .
+if you add 3 and 7 you get 10 .
+if you add 6 and 6 you get 12 .
+count from 5: 5 6 7 8 9 10 .
+if you add 4 and 4 you get 8 .
+question: what is 9 plus 1 ? answer: 10 .
+if you add 8 and 1 you get 9 .
+the number 3 is written as three .
+the number 7 is written as seven .
+question: what is 8 plus 4 ? answer: 12 .
+the number 4 is written as four .
+count from 5: 5 6 7 8 9 10 .
+question: what is 6 plus 8 ? answer: 14 .
+count from 3: 3 4 5 6 7 8 .
+the amber owl sat quietly on the soft warm mat .
+question: what is 1 plus 8 ? answer: 9 .
+count from 4: 4 5 6 7 8 9 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 7 plus 2 ? answer: 9 .
+if you add 0 and 1 you get 1 .
+question: what is 9 plus 3 ? answer: 12 .
+the red bee sat quietly on the soft warm mat .
+question: what is 9 plus 2 ? answer: 11 .
+the white fox sat quietly on the soft warm mat .
+question: what is 3 plus 5 ? answer: 8 .
+question: what is 1 plus 7 ? answer: 8 .
+the blue cat sat quietly on the soft warm mat .
+if you add 4 and 8 you get 12 .
+the red bee sat quietly on the soft warm mat .
+the red fox sat quietly on the soft warm mat .
+question: what is 9 plus 7 ? answer: 16 .
+the red dog sat quietly on the soft warm mat .
+if you add 1 and 8 you get 9 .
+count from 3: 3 4 5 6 7 8 .
+the number 4 is written as four .
+question: what is 8 plus 1 ? answer: 9 .
+if you add 5 and 5 you get 10 .
+count from 4: 4 5 6 7 8 9 .
+count from 4: 4 5 6 7 8 9 .
+the number 7 is written as seven .
+count from 6: 6 7 8 9 10 11 .
+count from 1: 1 2 3 4 5 6 .
+count from 4: 4 5 6 7 8 9 .
+the green ant sat quietly on the soft warm mat .
+question: what is 1 plus 5 ? answer: 6 .
+the number 5 is written as five .
+count from 0: 0 1 2 3 4 5 .
+if you add 2 and 7 you get 9 .
+question: what is 8 plus 3 ? answer: 11 .
+the number 8 is written as eight .
+count from 5: 5 6 7 8 9 10 .
+if you add 5 and 1 you get 6 .
+the black hen sat quietly on the soft warm mat .
+if you add 6 and 1 you get 7 .
+question: what is 3 plus 2 ? answer: 5 .
+question: what is 1 plus 1 ? answer: 2 .
+if you add 1 and 8 you get 9 .
+the brown bee sat quietly on the soft warm mat .
+the blue bee sat quietly on the soft warm mat .
+if you add 3 and 8 you get 11 .
+if you add 2 and 6 you get 8 .
+the red cat sat quietly on the soft warm mat .
+question: what is 2 plus 3 ? answer: 5 .
+the gray cat sat quietly on the soft warm mat .
+the number 7 is written as seven .
+if you add 8 and 3 you get 11 .
+count from 0: 0 1 2 3 4 5 .
+if you add 2 and 0 you get 2 .
+count from 3: 3 4 5 6 7 8 .
+the number 12 is written as twelve .
+question: what is 3 plus 6 ? answer: 9 .
+count from 5: 5 6 7 8 9 10 .
+the green cow sat quietly on the soft warm mat .
+question: what is 7 plus 4 ? answer: 11 .
+the number 0 is written as zero .
+if you add 4 and 5 you get 9 .
+count from 2: 2 3 4 5 6 7 .
+if you add 8 and 7 you get 15 .
+the black owl sat quietly on the soft warm mat .
+the brown owl sat quietly on the soft warm mat .
+if you add 8 and 4 you get 12 .
+count from 1: 1 2 3 4 5 6 .
+the number 1 is written as one .
+count from 0: 0 1 2 3 4 5 .
+question: what is 2 plus 2 ? answer: 4 .
+question: what is 8 plus 2 ? answer: 10 .
+if you add 6 and 9 you get 15 .
+question: what is 9 plus 7 ? answer: 16 .
+the number 4 is written as four .
+question: what is 8 plus 4 ? answer: 12 .
+if you add 3 and 0 you get 3 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 4 plus 4 ? answer: 8 .
+the number 12 is written as twelve .
+question: what is 6 plus 2 ? answer: 8 .
+the amber cat sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+question: what is 8 plus 2 ? answer: 10 .
+if you add 6 and 5 you get 11 .
+question: what is 9 plus 3 ? answer: 12 .
+the gray bee sat quietly on the soft warm mat .
+if you add 2 and 3 you get 5 .
+question: what is 8 plus 9 ? answer: 17 .
+question: what is 1 plus 1 ? answer: 2 .
+the number 3 is written as three .
+question: what is 3 plus 7 ? answer: 10 .
+if you add 6 and 0 you get 6 .
+if you add 3 and 9 you get 12 .
+the number 6 is written as six .
+the number 5 is written as five .
+if you add 2 and 8 you get 10 .
+if you add 7 and 1 you get 8 .
+the number 6 is written as six .
+the number 7 is written as seven .
+count from 5: 5 6 7 8 9 10 .
+question: what is 4 plus 1 ? answer: 5 .
+question: what is 4 plus 8 ? answer: 12 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 3 plus 9 ? answer: 12 .
+if you add 9 and 0 you get 9 .
+question: what is 2 plus 2 ? answer: 4 .
+question: what is 2 plus 8 ? answer: 10 .
+if you add 0 and 4 you get 4 .
+question: what is 8 plus 7 ? answer: 15 .
+the black cat sat quietly on the soft warm mat .
+question: what is 7 plus 7 ? answer: 14 .
+the brown cat sat quietly on the soft warm mat .
+question: what is 2 plus 9 ? answer: 11 .
+the number 1 is written as one .
+count from 3: 3 4 5 6 7 8 .
+if you add 6 and 9 you get 15 .
+if you add 0 and 7 you get 7 .
+the number 10 is written as ten .
+if you add 0 and 1 you get 1 .
+question: what is 4 plus 8 ? answer: 12 .
+question: what is 3 plus 3 ? answer: 6 .
+the amber hen sat quietly on the soft warm mat .
+if you add 9 and 1 you get 10 .
+question: what is 4 plus 4 ? answer: 8 .
+count from 4: 4 5 6 7 8 9 .
+if you add 9 and 2 you get 11 .
+question: what is 1 plus 9 ? answer: 10 .
+the number 5 is written as five .
+if you add 1 and 3 you get 4 .
+count from 3: 3 4 5 6 7 8 .
+if you add 2 and 2 you get 4 .
+if you add 0 and 6 you get 6 .
+if you add 6 and 1 you get 7 .
+if you add 7 and 8 you get 15 .
+question: what is 5 plus 2 ? answer: 7 .
+question: what is 4 plus 6 ? answer: 10 .
+the number 6 is written as six .
+the green owl sat quietly on the soft warm mat .
+question: what is 5 plus 7 ? answer: 12 .
+count from 5: 5 6 7 8 9 10 .
+the number 10 is written as ten .
+if you add 6 and 8 you get 14 .
+the white bee sat quietly on the soft warm mat .
+if you add 7 and 3 you get 10 .
+the black owl sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+question: what is 2 plus 2 ? answer: 4 .
+the number 0 is written as zero .
+the blue hen sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the number 5 is written as five .
+count from 5: 5 6 7 8 9 10 .
+count from 2: 2 3 4 5 6 7 .
+the number 4 is written as four .
+the number 10 is written as ten .
+if you add 6 and 8 you get 14 .
+if you add 1 and 0 you get 1 .
+count from 4: 4 5 6 7 8 9 .
+if you add 7 and 1 you get 8 .
+if you add 2 and 8 you get 10 .
+question: what is 6 plus 3 ? answer: 9 .
+question: what is 4 plus 8 ? answer: 12 .
+the number 4 is written as four .
+the gray fox sat quietly on the soft warm mat .
+the number 5 is written as five .
+the number 3 is written as three .
+the number 3 is written as three .
+the number 6 is written as six .
+question: what is 6 plus 8 ? answer: 14 .
+if you add 5 and 0 you get 5 .
+question: what is 5 plus 7 ? answer: 12 .
+if you add 7 and 3 you get 10 .
+question: what is 5 plus 7 ? answer: 12 .
+question: what is 7 plus 1 ? answer: 8 .
+count from 1: 1 2 3 4 5 6 .
+the red fox sat quietly on the soft warm mat .
+the number 12 is written as twelve .
+if you add 9 and 1 you get 10 .
+the black owl sat quietly on the soft warm mat .
+the brown fox sat quietly on the soft warm mat .
+the number 9 is written as nine .
+the number 9 is written as nine .
+question: what is 5 plus 4 ? answer: 9 .
+if you add 9 and 1 you get 10 .
+count from 1: 1 2 3 4 5 6 .
+if you add 9 and 0 you get 9 .
+the number 1 is written as one .
+question: what is 4 plus 9 ? answer: 13 .
+the red cow sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+the brown ant sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+count from 5: 5 6 7 8 9 10 .
+if you add 7 and 3 you get 10 .
+if you add 1 and 8 you get 9 .
+question: what is 9 plus 8 ? answer: 17 .
+the brown cow sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+if you add 7 and 3 you get 10 .
+count from 6: 6 7 8 9 10 11 .
+if you add 5 and 0 you get 5 .
+the number 10 is written as ten .
+if you add 8 and 6 you get 14 .
+the black fox sat quietly on the soft warm mat .
+if you add 3 and 2 you get 5 .
+the white owl sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the number 0 is written as zero .
+the amber bee sat quietly on the soft warm mat .
+if you add 5 and 5 you get 10 .
+the number 1 is written as one .
+if you add 9 and 1 you get 10 .
+question: what is 6 plus 5 ? answer: 11 .
+if you add 6 and 8 you get 14 .
+the green ant sat quietly on the soft warm mat .
+the brown cow sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 4 plus 5 ? answer: 9 .
+if you add 5 and 6 you get 11 .
+the black bee sat quietly on the soft warm mat .
+question: what is 7 plus 7 ? answer: 14 .
+count from 4: 4 5 6 7 8 9 .
+the number 2 is written as two .
+the brown dog sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+the number 7 is written as seven .
+the number 3 is written as three .
+question: what is 8 plus 8 ? answer: 16 .
+the number 9 is written as nine .
+question: what is 4 plus 3 ? answer: 7 .
+count from 2: 2 3 4 5 6 7 .
+the number 4 is written as four .
+count from 6: 6 7 8 9 10 11 .
+count from 6: 6 7 8 9 10 11 .
+count from 2: 2 3 4 5 6 7 .
+count from 0: 0 1 2 3 4 5 .
+if you add 0 and 1 you get 1 .
+question: what is 4 plus 1 ? answer: 5 .
+the number 7 is written as seven .
+the gray bee sat quietly on the soft warm mat .
+question: what is 6 plus 6 ? answer: 12 .
+the amber ant sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+the number 9 is written as nine .
+count from 5: 5 6 7 8 9 10 .
+the number 8 is written as eight .
+the number 4 is written as four .
+the number 5 is written as five .
+question: what is 7 plus 6 ? answer: 13 .
+question: what is 9 plus 1 ? answer: 10 .
+the red hen sat quietly on the soft warm mat .
+question: what is 7 plus 4 ? answer: 11 .
+question: what is 6 plus 9 ? answer: 15 .
+if you add 3 and 0 you get 3 .
+the number 5 is written as five .
+question: what is 9 plus 8 ? answer: 17 .
+the gray cat sat quietly on the soft warm mat .
+the black dog sat quietly on the soft warm mat .
+the blue hen sat quietly on the soft warm mat .
+question: what is 2 plus 1 ? answer: 3 .
+count from 0: 0 1 2 3 4 5 .
+the amber bee sat quietly on the soft warm mat .
+if you add 1 and 6 you get 7 .
+count from 3: 3 4 5 6 7 8 .
+the blue dog sat quietly on the soft warm mat .
+the blue cat sat quietly on the soft warm mat .
+the number 5 is written as five .
+if you add 4 and 5 you get 9 .
+question: what is 4 plus 3 ? answer: 7 .
+question: what is 7 plus 8 ? answer: 15 .
+the brown cat sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+the amber bee sat quietly on the soft warm mat .
+question: what is 2 plus 2 ? answer: 4 .
+if you add 6 and 6 you get 12 .
+the red cat sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the blue fox sat quietly on the soft warm mat .
+the black hen sat quietly on the soft warm mat .
+the red dog sat quietly on the soft warm mat .
+the number 1 is written as one .
+the amber owl sat quietly on the soft warm mat .
+question: what is 9 plus 1 ? answer: 10 .
+count from 4: 4 5 6 7 8 9 .
+question: what is 7 plus 6 ? answer: 13 .
+the amber bee sat quietly on the soft warm mat .
+the green hen sat quietly on the soft warm mat .
+if you add 1 and 7 you get 8 .
+the number 11 is written as eleven .
+the number 2 is written as two .
+count from 0: 0 1 2 3 4 5 .
+count from 0: 0 1 2 3 4 5 .
+the number 12 is written as twelve .
+the number 10 is written as ten .
+question: what is 4 plus 7 ? answer: 11 .
+the number 2 is written as two .
+question: what is 7 plus 4 ? answer: 11 .
+the blue ant sat quietly on the soft warm mat .
+the number 6 is written as six .
+the brown cat sat quietly on the soft warm mat .
+the brown fox sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+if you add 6 and 9 you get 15 .
+if you add 6 and 7 you get 13 .
+the number 12 is written as twelve .
+the number 10 is written as ten .
+the number 7 is written as seven .
+count from 5: 5 6 7 8 9 10 .
+if you add 5 and 5 you get 10 .
+question: what is 5 plus 1 ? answer: 6 .
+the amber owl sat quietly on the soft warm mat .
+question: what is 5 plus 1 ? answer: 6 .
+if you add 2 and 6 you get 8 .
+if you add 0 and 0 you get 0 .
+if you add 8 and 9 you get 17 .
+the number 7 is written as seven .
+the number 7 is written as seven .
+question: what is 5 plus 7 ? answer: 12 .
+the green cat sat quietly on the soft warm mat .
+the number 5 is written as five .
+the blue owl sat quietly on the soft warm mat .
+if you add 5 and 7 you get 12 .
+the number 0 is written as zero .
+question: what is 6 plus 4 ? answer: 10 .
+question: what is 6 plus 6 ? answer: 12 .
+question: what is 2 plus 9 ? answer: 11 .
+the number 8 is written as eight .
+the number 0 is written as zero .
+the amber bee sat quietly on the soft warm mat .
+question: what is 8 plus 9 ? answer: 17 .
+count from 0: 0 1 2 3 4 5 .
+question: what is 2 plus 8 ? answer: 10 .
+the gray cat sat quietly on the soft warm mat .
+question: what is 7 plus 5 ? answer: 12 .
+the number 0 is written as zero .
+if you add 1 and 8 you get 9 .
+question: what is 6 plus 4 ? answer: 10 .
+question: what is 2 plus 3 ? answer: 5 .
+if you add 4 and 1 you get 5 .
+the black cat sat quietly on the soft warm mat .
+the number 10 is written as ten .
+if you add 6 and 1 you get 7 .
+question: what is 8 plus 2 ? answer: 10 .
+count from 0: 0 1 2 3 4 5 .
+the gray owl sat quietly on the soft warm mat .
+if you add 3 and 4 you get 7 .
+if you add 1 and 5 you get 6 .
+the number 10 is written as ten .
+count from 4: 4 5 6 7 8 9 .
+the number 11 is written as eleven .
+count from 6: 6 7 8 9 10 11 .
+count from 1: 1 2 3 4 5 6 .
+if you add 3 and 1 you get 4 .
+the number 8 is written as eight .
+the brown owl sat quietly on the soft warm mat .
+the number 2 is written as two .
+the number 2 is written as two .
+the number 4 is written as four .
+the black bee sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+question: what is 2 plus 1 ? answer: 3 .
+if you add 9 and 1 you get 10 .
+question: what is 6 plus 1 ? answer: 7 .
+the number 1 is written as one .
+the number 12 is written as twelve .
+if you add 1 and 1 you get 2 .
+if you add 1 and 6 you get 7 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 2 plus 2 ? answer: 4 .
+count from 6: 6 7 8 9 10 11 .
+the red owl sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+if you add 3 and 6 you get 9 .
+the red fox sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+the number 7 is written as seven .
+if you add 8 and 2 you get 10 .
+count from 6: 6 7 8 9 10 11 .
+count from 1: 1 2 3 4 5 6 .
+the number 3 is written as three .
+question: what is 6 plus 1 ? answer: 7 .
+the number 11 is written as eleven .
+count from 0: 0 1 2 3 4 5 .
+the number 3 is written as three .
+if you add 7 and 9 you get 16 .
+the number 7 is written as seven .
+if you add 7 and 0 you get 7 .
+question: what is 9 plus 7 ? answer: 16 .
+question: what is 5 plus 3 ? answer: 8 .
+count from 6: 6 7 8 9 10 11 .
+the brown cow sat quietly on the soft warm mat .
+if you add 5 and 2 you get 7 .
+the blue hen sat quietly on the soft warm mat .
+question: what is 5 plus 7 ? answer: 12 .
+if you add 7 and 8 you get 15 .
+if you add 0 and 7 you get 7 .
+the red bee sat quietly on the soft warm mat .
+the amber cow sat quietly on the soft warm mat .
+the number 11 is written as eleven .
+if you add 4 and 8 you get 12 .
+question: what is 5 plus 2 ? answer: 7 .
+count from 5: 5 6 7 8 9 10 .
+the gray cow sat quietly on the soft warm mat .
+if you add 5 and 2 you get 7 .
+count from 1: 1 2 3 4 5 6 .
+the number 11 is written as eleven .
+if you add 5 and 9 you get 14 .
+the number 12 is written as twelve .
+the number 7 is written as seven .
+count from 1: 1 2 3 4 5 6 .
+count from 1: 1 2 3 4 5 6 .
+the number 6 is written as six .
+the red bee sat quietly on the soft warm mat .
+if you add 3 and 1 you get 4 .
+the number 1 is written as one .
+count from 3: 3 4 5 6 7 8 .
+question: what is 5 plus 2 ? answer: 7 .
+if you add 1 and 1 you get 2 .
+the blue cat sat quietly on the soft warm mat .
+the amber fox sat quietly on the soft warm mat .
+the white bee sat quietly on the soft warm mat .
+the number 3 is written as three .
+if you add 7 and 2 you get 9 .
+the amber owl sat quietly on the soft warm mat .
+if you add 4 and 6 you get 10 .
+question: what is 6 plus 5 ? answer: 11 .
+the number 0 is written as zero .
+count from 4: 4 5 6 7 8 9 .
+count from 6: 6 7 8 9 10 11 .
+the blue cow sat quietly on the soft warm mat .
+if you add 1 and 0 you get 1 .
+the number 10 is written as ten .
+question: what is 9 plus 3 ? answer: 12 .
+the number 0 is written as zero .
+question: what is 4 plus 8 ? answer: 12 .
+question: what is 6 plus 4 ? answer: 10 .
+the black hen sat quietly on the soft warm mat .
+question: what is 9 plus 3 ? answer: 12 .
+question: what is 3 plus 3 ? answer: 6 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 1 plus 6 ? answer: 7 .
+the number 5 is written as five .
+question: what is 1 plus 5 ? answer: 6 .
+count from 2: 2 3 4 5 6 7 .
+count from 1: 1 2 3 4 5 6 .
+the black owl sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+count from 6: 6 7 8 9 10 11 .
+count from 3: 3 4 5 6 7 8 .
+count from 4: 4 5 6 7 8 9 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 4 plus 5 ? answer: 9 .
+count from 0: 0 1 2 3 4 5 .
+the number 0 is written as zero .
+the green ant sat quietly on the soft warm mat .
+if you add 9 and 0 you get 9 .
+if you add 3 and 8 you get 11 .
+question: what is 1 plus 6 ? answer: 7 .
+question: what is 3 plus 6 ? answer: 9 .
+if you add 8 and 1 you get 9 .
+if you add 3 and 8 you get 11 .
+count from 5: 5 6 7 8 9 10 .
+count from 0: 0 1 2 3 4 5 .
+the brown fox sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+question: what is 1 plus 2 ? answer: 3 .
+if you add 9 and 3 you get 12 .
+if you add 6 and 9 you get 15 .
+the number 10 is written as ten .
+count from 1: 1 2 3 4 5 6 .
+if you add 1 and 7 you get 8 .
+count from 6: 6 7 8 9 10 11 .
+if you add 2 and 4 you get 6 .
+count from 1: 1 2 3 4 5 6 .
+the number 11 is written as eleven .
+the brown owl sat quietly on the soft warm mat .
+the brown bee sat quietly on the soft warm mat .
+the gray hen sat quietly on the soft warm mat .
+the number 6 is written as six .
+count from 6: 6 7 8 9 10 11 .
+the green fox sat quietly on the soft warm mat .
+question: what is 6 plus 7 ? answer: 13 .
+the amber fox sat quietly on the soft warm mat .
+if you add 6 and 4 you get 10 .
+the number 2 is written as two .
+the green dog sat quietly on the soft warm mat .
+the brown hen sat quietly on the soft warm mat .
+the number 0 is written as zero .
+the red owl sat quietly on the soft warm mat .
+question: what is 7 plus 7 ? answer: 14 .
+count from 6: 6 7 8 9 10 11 .
+the number 7 is written as seven .
+if you add 7 and 4 you get 11 .
+the number 11 is written as eleven .
+count from 6: 6 7 8 9 10 11 .
+count from 0: 0 1 2 3 4 5 .
+the brown fox sat quietly on the soft warm mat .
+question: what is 9 plus 2 ? answer: 11 .
+question: what is 7 plus 5 ? answer: 12 .
+the gray cat sat quietly on the soft warm mat .
+count from 1: 1 2 3 4 5 6 .
+count from 0: 0 1 2 3 4 5 .
+if you add 2 and 7 you get 9 .
+count from 4: 4 5 6 7 8 9 .
+the number 5 is written as five .
+question: what is 6 plus 7 ? answer: 13 .
+the amber cat sat quietly on the soft warm mat .
+question: what is 2 plus 1 ? answer: 3 .
+question: what is 3 plus 6 ? answer: 9 .
+count from 5: 5 6 7 8 9 10 .
+if you add 5 and 4 you get 9 .
+question: what is 1 plus 9 ? answer: 10 .
+count from 4: 4 5 6 7 8 9 .
+count from 3: 3 4 5 6 7 8 .
+question: what is 1 plus 1 ? answer: 2 .
+count from 5: 5 6 7 8 9 10 .
+if you add 0 and 9 you get 9 .
+the white cow sat quietly on the soft warm mat .
+the number 12 is written as twelve .
+count from 5: 5 6 7 8 9 10 .
+the number 4 is written as four .
+the green hen sat quietly on the soft warm mat .
+the number 4 is written as four .
+if you add 4 and 6 you get 10 .
+if you add 3 and 5 you get 8 .
+the number 0 is written as zero .
+the number 5 is written as five .
+count from 1: 1 2 3 4 5 6 .
+the number 6 is written as six .
+if you add 0 and 1 you get 1 .
+if you add 7 and 7 you get 14 .
+if you add 5 and 5 you get 10 .
+the number 2 is written as two .
+the number 9 is written as nine .
+if you add 9 and 7 you get 16 .
+the blue owl sat quietly on the soft warm mat .
+the white cow sat quietly on the soft warm mat .
+the number 8 is written as eight .
+question: what is 4 plus 7 ? answer: 11 .
+question: what is 1 plus 9 ? answer: 10 .
+the black cat sat quietly on the soft warm mat .
+the red owl sat quietly on the soft warm mat .
+the amber bee sat quietly on the soft warm mat .
+the number 3 is written as three .
+if you add 8 and 3 you get 11 .
+question: what is 4 plus 7 ? answer: 11 .
+the blue ant sat quietly on the soft warm mat .
+the gray hen sat quietly on the soft warm mat .
+question: what is 8 plus 1 ? answer: 9 .
+the number 9 is written as nine .
+if you add 3 and 1 you get 4 .
+the brown cat sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+if you add 6 and 1 you get 7 .
+the number 4 is written as four .
+the number 9 is written as nine .
+the number 7 is written as seven .
+count from 4: 4 5 6 7 8 9 .
+the blue owl sat quietly on the soft warm mat .
+question: what is 6 plus 9 ? answer: 15 .
+the green cat sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the number 10 is written as ten .
+the blue fox sat quietly on the soft warm mat .
+the amber ant sat quietly on the soft warm mat .
+the number 9 is written as nine .
+count from 1: 1 2 3 4 5 6 .
+if you add 2 and 5 you get 7 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 3 plus 9 ? answer: 12 .
+the number 11 is written as eleven .
+the brown fox sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the number 0 is written as zero .
+the number 10 is written as ten .
+count from 2: 2 3 4 5 6 7 .
+the brown fox sat quietly on the soft warm mat .
+the number 9 is written as nine .
+if you add 4 and 4 you get 8 .
+if you add 1 and 7 you get 8 .
+question: what is 8 plus 1 ? answer: 9 .
+the amber ant sat quietly on the soft warm mat .
+the number 0 is written as zero .
+the number 11 is written as eleven .
+count from 2: 2 3 4 5 6 7 .
+question: what is 4 plus 6 ? answer: 10 .
+question: what is 1 plus 1 ? answer: 2 .
+count from 5: 5 6 7 8 9 10 .
+the number 7 is written as seven .
+question: what is 4 plus 4 ? answer: 8 .
+the red fox sat quietly on the soft warm mat .
+count from 5: 5 6 7 8 9 10 .
+if you add 2 and 1 you get 3 .
+count from 3: 3 4 5 6 7 8 .
+if you add 5 and 0 you get 5 .
+question: what is 9 plus 3 ? answer: 12 .
+question: what is 9 plus 4 ? answer: 13 .
+if you add 1 and 9 you get 10 .
+the number 1 is written as one .
+count from 0: 0 1 2 3 4 5 .
+question: what is 6 plus 2 ? answer: 8 .
+question: what is 7 plus 2 ? answer: 9 .
+the number 7 is written as seven .
+question: what is 2 plus 8 ? answer: 10 .
+if you add 3 and 8 you get 11 .
+the gray cat sat quietly on the soft warm mat .
+the white ant sat quietly on the soft warm mat .
+count from 3: 3 4 5 6 7 8 .
+the amber ant sat quietly on the soft warm mat .
+question: what is 5 plus 4 ? answer: 9 .
+question: what is 2 plus 6 ? answer: 8 .
+count from 4: 4 5 6 7 8 9 .
+the number 7 is written as seven .
+question: what is 6 plus 3 ? answer: 9 .
+the number 5 is written as five .
+the number 5 is written as five .
+if you add 0 and 3 you get 3 .
+question: what is 6 plus 6 ? answer: 12 .
+question: what is 9 plus 7 ? answer: 16 .
+if you add 9 and 2 you get 11 .
+if you add 8 and 9 you get 17 .
+question: what is 7 plus 6 ? answer: 13 .
+question: what is 6 plus 5 ? answer: 11 .
+count from 4: 4 5 6 7 8 9 .
+the number 3 is written as three .
+the green cat sat quietly on the soft warm mat .
+the red dog sat quietly on the soft warm mat .
+if you add 7 and 9 you get 16 .
+if you add 8 and 6 you get 14 .
+if you add 6 and 5 you get 11 .
+count from 5: 5 6 7 8 9 10 .
+the number 6 is written as six .
+if you add 5 and 5 you get 10 .
+question: what is 1 plus 4 ? answer: 5 .
+if you add 0 and 2 you get 2 .
+question: what is 3 plus 9 ? answer: 12 .
+if you add 1 and 5 you get 6 .
+question: what is 5 plus 4 ? answer: 9 .
+count from 0: 0 1 2 3 4 5 .
+if you add 7 and 0 you get 7 .
+count from 5: 5 6 7 8 9 10 .
+count from 2: 2 3 4 5 6 7 .
+if you add 6 and 7 you get 13 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 5 plus 6 ? answer: 11 .
+the brown cow sat quietly on the soft warm mat .
+the black ant sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+if you add 8 and 1 you get 9 .
+the gray hen sat quietly on the soft warm mat .
+question: what is 1 plus 3 ? answer: 4 .
+count from 2: 2 3 4 5 6 7 .
+the number 12 is written as twelve .
+if you add 9 and 5 you get 14 .
+the blue ant sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+the number 2 is written as two .
+question: what is 4 plus 3 ? answer: 7 .
+the number 8 is written as eight .
+question: what is 1 plus 8 ? answer: 9 .
+if you add 8 and 8 you get 16 .
+if you add 4 and 5 you get 9 .
+the brown fox sat quietly on the soft warm mat .
+question: what is 1 plus 6 ? answer: 7 .
+the red bee sat quietly on the soft warm mat .
+count from 2: 2 3 4 5 6 7 .
+the gray owl sat quietly on the soft warm mat .
+the black ant sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+count from 1: 1 2 3 4 5 6 .
+question: what is 8 plus 7 ? answer: 15 .
+count from 5: 5 6 7 8 9 10 .
+the number 2 is written as two .
+count from 3: 3 4 5 6 7 8 .
+count from 4: 4 5 6 7 8 9 .
+the number 3 is written as three .
+question: what is 3 plus 6 ? answer: 9 .
+question: what is 1 plus 2 ? answer: 3 .
+count from 6: 6 7 8 9 10 11 .
+the gray dog sat quietly on the soft warm mat .
+the number 3 is written as three .
+count from 1: 1 2 3 4 5 6 .
+the number 12 is written as twelve .
+the number 3 is written as three .
+count from 1: 1 2 3 4 5 6 .
+count from 4: 4 5 6 7 8 9 .
+count from 3: 3 4 5 6 7 8 .
+count from 6: 6 7 8 9 10 11 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 1 plus 2 ? answer: 3 .
+the gray ant sat quietly on the soft warm mat .
+question: what is 2 plus 6 ? answer: 8 .
+the number 0 is written as zero .
+question: what is 5 plus 4 ? answer: 9 .
+question: what is 8 plus 4 ? answer: 12 .
+the number 8 is written as eight .
+question: what is 5 plus 9 ? answer: 14 .
+the number 11 is written as eleven .
+question: what is 7 plus 8 ? answer: 15 .
+the green hen sat quietly on the soft warm mat .
+question: what is 9 plus 2 ? answer: 11 .
+count from 1: 1 2 3 4 5 6 .
+the amber owl sat quietly on the soft warm mat .
+if you add 6 and 1 you get 7 .
+if you add 9 and 3 you get 12 .
+question: what is 6 plus 9 ? answer: 15 .
+count from 4: 4 5 6 7 8 9 .
+the gray ant sat quietly on the soft warm mat .
+the number 1 is written as one .
+the amber dog sat quietly on the soft warm mat .
+if you add 7 and 2 you get 9 .
+the black ant sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+count from 4: 4 5 6 7 8 9 .
+if you add 5 and 0 you get 5 .
+the brown hen sat quietly on the soft warm mat .
+count from 6: 6 7 8 9 10 11 .
+the white fox sat quietly on the soft warm mat .
+if you add 9 and 3 you get 12 .
+the green owl sat quietly on the soft warm mat .
+count from 4: 4 5 6 7 8 9 .
+count from 2: 2 3 4 5 6 7 .
+if you add 8 and 9 you get 17 .
+question: what is 1 plus 5 ? answer: 6 .
+the white fox sat quietly on the soft warm mat .
+the number 12 is written as twelve .
+question: what is 7 plus 4 ? answer: 11 .
+count from 6: 6 7 8 9 10 11 .
+question: what is 8 plus 2 ? answer: 10 .
+if you add 3 and 9 you get 12 .
+the gray hen sat quietly on the soft warm mat .
+count from 0: 0 1 2 3 4 5 .
+if you add 6 and 5 you get 11 .
+the number 1 is written as one .
+the number 0 is written as zero .
+the green ant sat quietly on the soft warm mat .
+question: what is 9 plus 6 ? answer: 15 .
+the number 10 is written as ten .
+if you add 2 and 0 you get 2 .
+if you add 2 and 5 you get 7 .
+question: what is 1 plus 3 ? answer: 4 .
+count from 0: 0 1 2 3 4 5 .
+the green cat sat quietly on the soft warm mat .
+the gray dog sat quietly on the soft warm mat .
+if you add 8 and 0 you get 8 .
+the number 8 is written as eight .
+count from 2: 2 3 4 5 6 7 .
+the number 6 is written as six .
+question: what is 2 plus 1 ? answer: 3 .
+if you add 9 and 8 you get 17 .
+if you add 1 and 7 you get 8 .

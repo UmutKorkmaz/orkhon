@@ -1,0 +1,12 @@
+{
+  "task": "arc_easy",
+  "checkpoint": "models/istemi-20260614/checkpoint",
+  "tokenizer": "models/istemi-20260614/tokenizer",
+  "tag": "last",
+  "limit": 20,
+  "device": "cpu",
+  "acc": 0.3,
+  "acc_norm": 0.2,
+  "n": 20,
+  "timestamp": "2026-06-16T08:31:05"
+}

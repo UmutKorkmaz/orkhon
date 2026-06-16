@@ -1,0 +1,7 @@
+# Bilingual EN+TR byte-level BPE, vocab 32768. Trained on the mixed corpus so
+# Turkish diacritics (ı/İ/ş/ğ/ç/ö/ü) and frequent agglutinative suffixes win
+# merges — the fertility win from docs/turkic-languages.md.
+corpus: data/bilingual/train.txt
+out: artifacts/tokenizer/bilingual
+vocab_size: 32768
+min_frequency: 2

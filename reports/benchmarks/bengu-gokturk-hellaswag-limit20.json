@@ -1,0 +1,12 @@
+{
+  "task": "hellaswag",
+  "checkpoint": "models/bengu-gokturk-20260615/checkpoint",
+  "tokenizer": "models/bengu-gokturk-20260615/tokenizer",
+  "tag": "last",
+  "limit": 20,
+  "device": "cpu",
+  "acc": 0.25,
+  "acc_norm": 0.3,
+  "n": 20,
+  "timestamp": "2026-06-16T08:32:20"
+}

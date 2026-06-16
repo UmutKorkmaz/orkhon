@@ -1,0 +1,8 @@
+# Pre-R3 freeze tokenizer candidate.
+# Train on an EN + code + Turkish + Old Turkic-rune seed corpus, then run:
+#   orkhon tokenizer fertility --tokenizer artifacts/tokenizer/multilingual_48k \
+#     --baseline artifacts/tokenizer/fineweb --strict
+corpus: data/multilingual_48k/train.txt
+out: artifacts/tokenizer/multilingual_48k
+vocab_size: 48000
+min_frequency: 2

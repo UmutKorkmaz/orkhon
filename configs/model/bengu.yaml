@@ -1,0 +1,17 @@
+# ~57M params, vocab 32768 — the bigger bilingual (EN+TR) bengu model.
+# Larger than tiny_bilingual (34M) for noticeably better Turkish at the cost of
+# slower training. Still laptop-trainable on MPS.
+vocab_size: 32768
+block_size: 512
+n_layers: 8
+d_model: 640
+n_heads: 10
+n_kv_heads: 5
+intermediate_size: 1728
+norm_eps: 1.0e-5
+rope_theta: 10000.0
+dropout: 0.0
+init_std: 0.02
+use_bias: false
+tie_word_embeddings: true
+attn_impl: auto

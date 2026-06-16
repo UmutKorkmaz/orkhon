@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.cache/
+
+# uv
+# (uv.lock IS committed)
+
+# Orkhon artifacts
+runs/
+checkpoints/
+exports/
+artifacts/
+data/cache/
+data/prepared/
+data/tinystories/
+data/fineweb/
+data/multilingual_48k/
+data/raw/
+data/shards/
+*.bin
+*.idx
+*.safetensors
+*.pt
+wandb/
+tensorboard/
+
+# Model zoo: keep the metadata (cards/manifests/samples/index), not the heavy binaries.
+models/**/checkpoint/
+models/**/tokenizer/
+models/**/code_snapshot.tgz
+
+# OS
+.DS_Store
+
+# large/generated corpora + transient research
+data/turkish/
+data/bilingual/
+data/old_turkic/*.jsonl
+.remember/tmp/
+.remember/logs/
+.grok/
+.claude/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.secret
+*.token

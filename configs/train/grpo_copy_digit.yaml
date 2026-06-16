@@ -1,0 +1,16 @@
+arch_path: configs/model/smoke_6m.yaml
+init_from: runs/pretrain_smoke
+ref_from: runs/pretrain_smoke
+tokenizer: {dir: artifacts/tokenizer/smoke}
+data: {rlvr_path: data/rlvr/copy_digit_binary.jsonl}
+optim: {lr: 3.0e-4, warmup_steps: 0, schedule: constant, weight_decay: 0.0, grad_clip: 1.0}
+train: {device: auto, dtype: float32, seed: 1337, batch_size: 4, max_steps: 100, seq_len: 64, log_interval: 10, eval_interval: 100, ckpt_interval: 100, out_dir: runs/grpo_copy_digit}
+group_size: 48
+beta: 0.001
+advantage_eps: 1.0e-6
+max_new_tokens: 1
+temperature: 1.2
+top_k: null
+top_p: null
+repetition_penalty: 1.0
+reward_kind: copy_digit

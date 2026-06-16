@@ -1,0 +1,33 @@
+# Preference-tune the instruction-following SFT model with DPO.
+# init_from (and the frozen reference, ref_from) is the SFT checkpoint.
+# A strong KL anchor (beta) + few steps keeps generation coherent; the synthetic
+# 'rejected' responses are degraded stories (truncated / shuffled / mismatched).
+arch_path: configs/model/tiny_24m.yaml
+init_from: runs/tinystories_sft
+ref_from: runs/tinystories_sft       # frozen reference == SFT model
+beta: 0.3
+tokenizer:
+  dir: artifacts/tokenizer/tinystories
+data:
+  dpo_path: data/instruct/tinystories_dpo.jsonl
+  val_dpo_path: data/instruct/tinystories_dpo_val.jsonl
+optim:
+  lr: 5.0e-6
+  min_lr_ratio: 0.1
+  weight_decay: 0.0
+  grad_clip: 1.0
+  warmup_steps: 10
+  schedule: cosine
+train:
+  device: auto
+  dtype: auto          # bf16 on cuda, float32 on mps/cpu
+  seed: 1337
+  batch_size: 8
+  grad_accum_steps: 1
+  max_steps: 100
+  seq_len: 512
+  log_interval: 10
+  eval_interval: 50
+  eval_iters: 50
+  ckpt_interval: 50
+  out_dir: runs/tinystories_dpo

@@ -1,0 +1,6 @@
+# Smoke tokenizer config (consumed by `orkhon tokenizer train --config`).
+# Flat keys map to train_tokenizer(corpus_paths, out_dir, vocab_size, min_frequency).
+corpus: data/smoke/pretrain.txt
+out: artifacts/tokenizer/smoke
+vocab_size: 4096
+min_frequency: 2

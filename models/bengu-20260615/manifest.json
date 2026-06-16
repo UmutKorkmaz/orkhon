@@ -1,0 +1,42 @@
+{
+  "name": "bengu",
+  "date": "20260615",
+  "kind": "base",
+  "lineage": "The Turkish-speaking Orkhon model \u2014 a 57M bilingual (EN+TR) base trained from scratch on 136M tokens (~75%% Turkish Wikipedia + 25%% English) with a 32k bilingual tokenizer that cuts Turkish token count ~64%. 14000 steps, val loss 3.88. Fluent, grammatical Wikipedia-register Turkish (correct morphology/agglutination); facts confabulated and some repetition (no repetition penalty yet) \u2014 expected at this scale. First step of the 'bengu' (Bengu Tas, eternal stone) Turkic branch; the real one is tengri-350M + Old-Turkic. See docs/turkic-languages.md.",
+  "params_m": 57.35488,
+  "vocab_size": 32768,
+  "n_layers": 8,
+  "d_model": 640,
+  "n_heads": 10,
+  "n_kv_heads": 5,
+  "block_size": 512,
+  "arch": {
+    "vocab_size": 32768,
+    "block_size": 512,
+    "n_layers": 8,
+    "d_model": 640,
+    "n_heads": 10,
+    "n_kv_heads": 5,
+    "head_dim": null,
+    "intermediate_size": 1728,
+    "ffn_multiple": 64,
+    "norm_eps": 1e-05,
+    "rope_theta": 10000.0,
+    "dropout": 0.0,
+    "init_std": 0.02,
+    "use_bias": false,
+    "tie_word_embeddings": true,
+    "attn_impl": "auto"
+  },
+  "metrics": {
+    "val_loss": 3.8523,
+    "perplexity": 47.102,
+    "eval_tokens": 163840
+  },
+  "n_samples": 4,
+  "source_checkpoint": "runs/bengu",
+  "generate_mode": "complete",
+  "code_snapshot": "code_snapshot.tgz",
+  "run_hint": "uv run orkhon generate --checkpoint models/bengu-20260615/checkpoint --tokenizer models/bengu-20260615/tokenizer -p \"Once upon a time\"",
+  "orkhon_version": "0.1.0"
+}

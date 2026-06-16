@@ -1,0 +1,6 @@
+# Pack FineWeb-Edu into train.bin / val.bin. One document per line; <eos> separates docs.
+corpus: data/fineweb/train.txt
+tokenizer_dir: artifacts/tokenizer/fineweb
+out: data/prepared/fineweb
+val_fraction: 0.005
+seed: 1337

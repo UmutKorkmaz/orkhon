@@ -1,0 +1,29 @@
+# Fine-tune the bilingual bengu base into a Göktürk-rune transliterator.
+# The data is deterministic + correct-by-construction (runes -> Latin from the
+# Unicode block), so even a tiny SFT teaches the script reliably.
+arch_path: configs/model/bengu.yaml
+init_from: runs/bengu
+tokenizer:
+  dir: artifacts/tokenizer/bilingual
+data:
+  sft_path: data/old_turkic/translit_sft.jsonl
+optim:
+  lr: 1.0e-4
+  min_lr_ratio: 0.1
+  weight_decay: 0.0
+  grad_clip: 1.0
+  warmup_steps: 20
+  schedule: cosine
+train:
+  device: auto
+  dtype: float32
+  seed: 1337
+  batch_size: 16
+  grad_accum_steps: 1
+  max_steps: 1500
+  seq_len: 96
+  log_interval: 50
+  eval_interval: 500
+  eval_iters: 20
+  ckpt_interval: 500
+  out_dir: runs/gokturk

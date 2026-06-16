@@ -1,0 +1,45 @@
+# Pretrain the ~125M model on FineWeb-Edu on a cloud GPU box (1-8x A100/H100).
+#
+# Global batch math (per optimizer step):
+#   tokens/step = batch_size * grad_accum_steps * seq_len * WORLD_SIZE
+#   single-GPU : 24 * 20 * 1024 * 1   ≈ 0.49M tokens/step
+#   8x GPU     : 24 * 20 * 1024 * 8   ≈ 3.9M  tokens/step
+#   (torchrun multiplies the effective batch by WORLD_SIZE; lower grad_accum_steps
+#    proportionally to keep the SAME global batch across different GPU counts.)
+#
+# Token budget: 24 * 20 * 1024 * 50000 ≈ 24.6B tokens on a single GPU.
+#   That is ~200 tok/param (heavy overtrain, Chinchilla-optimal is ~2.5B / 20x).
+#   Overtraining a small model on FineWeb-Edu is the right call for a usable base.
+#   On 8 GPUs you reach the same 24.6B tokens in 1/8 the wall-clock.
+#
+# Launch (DDP, default): see scripts/train_cloud.sh, or:
+#   ORKHON_DISTRIBUTED=ddp torchrun --standalone --nproc_per_node=$NUM_GPUS \
+#     -m orkhon train pretrain --config configs/train/pretrain_125m_cloud.yaml
+# Switch to sharding for memory: ORKHON_DISTRIBUTED=fsdp (see docs/scaling.md).
+arch_path: configs/model/small_125m.yaml
+tokenizer:
+  dir: artifacts/tokenizer/fineweb
+data:
+  prepared_dir: data/prepared/fineweb
+optim:
+  lr: 6.0e-4
+  min_lr_ratio: 0.1
+  weight_decay: 0.1
+  beta1: 0.9
+  beta2: 0.95
+  grad_clip: 1.0
+  warmup_steps: 2000
+  schedule: cosine
+train:
+  device: auto
+  dtype: auto          # bf16 on cuda (A100/H100), float32 fallback elsewhere
+  seed: 1337
+  batch_size: 24       # per-device micro-batch (fits ~40GB at seq 1024)
+  grad_accum_steps: 20 # global batch ≈ 0.49M tokens/GPU; halve when adding GPUs
+  max_steps: 50000
+  seq_len: 1024
+  log_interval: 50
+  eval_interval: 2000
+  eval_iters: 200
+  ckpt_interval: 2000
+  out_dir: runs/fineweb_125m

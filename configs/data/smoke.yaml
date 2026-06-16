@@ -1,0 +1,7 @@
+# Smoke data-prepare config (consumed by `orkhon data prepare --config`).
+# Flat keys map to prepare_pretrain(corpus_path, tokenizer_dir, out_dir, val_fraction, seed).
+corpus: data/smoke/pretrain.txt
+tokenizer_dir: artifacts/tokenizer/smoke
+out: data/prepared/smoke
+val_fraction: 0.1
+seed: 1337

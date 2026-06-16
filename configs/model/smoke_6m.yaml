@@ -1,0 +1,15 @@
+# Smoke model (~6-10M params). Trains end-to-end on MPS/CPU in minutes.
+vocab_size: 4096
+block_size: 256
+n_layers: 4
+d_model: 256
+n_heads: 4
+n_kv_heads: 2
+intermediate_size: 768
+norm_eps: 1.0e-5
+rope_theta: 10000.0
+dropout: 0.0
+init_std: 0.02
+use_bias: false
+tie_word_embeddings: true
+attn_impl: auto

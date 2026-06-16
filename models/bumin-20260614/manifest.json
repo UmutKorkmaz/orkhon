@@ -1,0 +1,42 @@
+{
+  "name": "bumin",
+  "date": "20260614",
+  "kind": "instruct",
+  "lineage": "The first Orkhon model \u2014 a 4M from-scratch transformer SFT'd on synthetic arithmetic Q&A. Learns the 'Answer: N.' chat format end-to-end.",
+  "params_m": 4.196608,
+  "vocab_size": 4096,
+  "n_layers": 4,
+  "d_model": 256,
+  "n_heads": 4,
+  "n_kv_heads": 2,
+  "block_size": 256,
+  "arch": {
+    "vocab_size": 4096,
+    "block_size": 256,
+    "n_layers": 4,
+    "d_model": 256,
+    "n_heads": 4,
+    "n_kv_heads": 2,
+    "head_dim": null,
+    "intermediate_size": 768,
+    "ffn_multiple": 64,
+    "norm_eps": 1e-05,
+    "rope_theta": 10000.0,
+    "dropout": 0.0,
+    "init_std": 0.02,
+    "use_bias": false,
+    "tie_word_embeddings": true,
+    "attn_impl": "auto"
+  },
+  "metrics": {
+    "val_loss": 1.6348,
+    "perplexity": 5.128,
+    "eval_tokens": 20480
+  },
+  "n_samples": 2,
+  "source_checkpoint": "runs/sft_smoke",
+  "generate_mode": "chat",
+  "code_snapshot": "code_snapshot.tgz",
+  "run_hint": "uv run orkhon chat --checkpoint models/bumin-20260614/checkpoint --tokenizer models/bumin-20260614/tokenizer",
+  "orkhon_version": "0.1.0"
+}

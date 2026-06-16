@@ -1,0 +1,23 @@
+{
+  "candidate": {
+    "tokenizer": "artifacts/tokenizer/fineweb",
+    "english_bytes_per_token": 4.25,
+    "turkish_bytes_per_token": 1.9036144578313252,
+    "old_turkic_tokens_per_rune": 4.208333333333333,
+    "english_tokens": 36,
+    "turkish_tokens": 83,
+    "old_turkic_tokens": 101,
+    "old_turkic_runes": 24
+  },
+  "baseline": null,
+  "passed": false,
+  "checks": {
+    "turkish_target": false,
+    "old_turkic_target": false
+  },
+  "targets": {
+    "min_turkish_bytes_per_token": 3.5,
+    "max_old_turkic_tokens_per_rune": 1.5,
+    "max_english_regression": 0.0
+  }
+}

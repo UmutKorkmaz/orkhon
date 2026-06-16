@@ -1,0 +1,6 @@
+{
+  "dim": 256,
+  "embed_model": "hashing",
+  "n_chunks": 150,
+  "created": "2026-06-16T01:39:08"
+}

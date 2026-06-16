@@ -1,0 +1,6 @@
+# Pack TinyStories into train.bin / val.bin. One story per line; <eos> separates docs.
+corpus: data/tinystories/train.txt
+tokenizer_dir: artifacts/tokenizer/tinystories
+out: data/prepared/tinystories
+val_fraction: 0.02
+seed: 1337

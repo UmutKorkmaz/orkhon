@@ -1,0 +1,26 @@
+arch_path: configs/model/bengu.yaml
+tokenizer:
+  dir: artifacts/tokenizer/bilingual
+data:
+  prepared_dir: data/prepared/bilingual
+optim:
+  lr: 6.0e-4
+  min_lr_ratio: 0.1
+  weight_decay: 0.1
+  beta2: 0.95
+  grad_clip: 1.0
+  warmup_steps: 200
+  schedule: cosine
+train:
+  device: auto
+  dtype: float32
+  seed: 1337
+  batch_size: 24
+  grad_accum_steps: 1
+  max_steps: 14000
+  seq_len: 512
+  log_interval: 50
+  eval_interval: 1000
+  eval_iters: 50
+  ckpt_interval: 500
+  out_dir: runs/bengu

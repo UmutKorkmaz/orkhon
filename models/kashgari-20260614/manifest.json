@@ -1,0 +1,20 @@
+{
+  "name": "kashgari",
+  "date": "20260614",
+  "kind": "imported",
+  "lineage": "A real 135M Llama-architecture open base loaded into Orkhon's hand-written Transformer with EXACT logit parity vs transformers. Re-importable on demand; weights not re-stored.",
+  "params_m": 135.0,
+  "vocab_size": null,
+  "n_layers": null,
+  "d_model": null,
+  "n_heads": null,
+  "n_kv_heads": null,
+  "block_size": null,
+  "arch": null,
+  "metrics": {},
+  "n_samples": 1,
+  "source_repo": "HuggingFaceTB/SmolLM2-135M",
+  "code_snapshot": "code_snapshot.tgz",
+  "run_hint": "uv run orkhon import-hf --repo HuggingFaceTB/SmolLM2-135M --out runs/kashgari",
+  "orkhon_version": "0.1.0"
+}

@@ -1,0 +1,37 @@
+# Pretrain the ~51M model on FineWeb-Edu, sized for a SINGLE device.
+#
+# Token budget (one device): batch_size 16 * seq_len 512 * max_steps 20000
+#   ≈ 164M tokens with grad_accum 1. At ~20 tok/param (Chinchilla) a 51M model
+#   wants ~1.0B tokens, so bump max_steps (or grad_accum) on faster hardware.
+#   This config is the "fits-on-my-laptop / one consumer GPU overnight" baseline.
+#
+# Multi-GPU: launch with torchrun (see scripts/train_cloud.sh). WORLD_SIZE>1
+#   multiplies the effective batch by the number of ranks automatically; no
+#   config change needed (data is sharded by a rank-seeded sampler).
+arch_path: configs/model/tiny_50m.yaml
+tokenizer:
+  dir: artifacts/tokenizer/fineweb
+data:
+  prepared_dir: data/prepared/fineweb
+optim:
+  lr: 6.0e-4
+  min_lr_ratio: 0.1
+  weight_decay: 0.1
+  beta1: 0.9
+  beta2: 0.95
+  grad_clip: 1.0
+  warmup_steps: 500
+  schedule: cosine
+train:
+  device: auto
+  dtype: auto          # bf16 on cuda, float32 on mps/cpu
+  seed: 1337
+  batch_size: 16       # per-device micro-batch
+  grad_accum_steps: 1
+  max_steps: 20000
+  seq_len: 512
+  log_interval: 25
+  eval_interval: 1000
+  eval_iters: 100
+  ckpt_interval: 1000
+  out_dir: runs/fineweb_50m

@@ -1,0 +1,12 @@
+{
+  "task": "builtin",
+  "checkpoint": "models/istemi-20260614/checkpoint",
+  "tokenizer": "models/istemi-20260614/tokenizer",
+  "tag": "last",
+  "limit": null,
+  "device": "cpu",
+  "acc": 0.375,
+  "acc_norm": 0.5,
+  "n": 8,
+  "timestamp": "2026-06-16T08:30:00"
+}

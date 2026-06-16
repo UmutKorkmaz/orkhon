@@ -1,0 +1,16 @@
+# ~34M params, vocab 32768 — a bilingual (English + Turkish) small model.
+# Bigger vocab than the English-only configs to give Turkish good fertility.
+vocab_size: 32768
+block_size: 512
+n_layers: 6
+d_model: 512
+n_heads: 8
+n_kv_heads: 4
+intermediate_size: 1408
+norm_eps: 1.0e-5
+rope_theta: 10000.0
+dropout: 0.0
+init_std: 0.02
+use_bias: false
+tie_word_embeddings: true
+attn_impl: auto

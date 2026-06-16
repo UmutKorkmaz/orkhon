@@ -1,0 +1,5 @@
+# Tokenizer for TinyStories. Vocab 8192 byte-level BPE (8 specials + bytes + merges).
+corpus: data/tinystories/train.txt
+out: artifacts/tokenizer/tinystories
+vocab_size: 8192
+min_frequency: 2

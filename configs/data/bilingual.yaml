@@ -1,0 +1,6 @@
+# Pack the mixed EN+TR corpus with the bilingual tokenizer.
+corpus: data/bilingual/train.txt
+tokenizer_dir: artifacts/tokenizer/bilingual
+out: data/prepared/bilingual
+val_fraction: 0.01
+seed: 1337
