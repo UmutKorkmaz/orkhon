@@ -126,10 +126,9 @@ Any config value can be overridden on the command line with `--set dotted.key=va
 Every trained model is archived into a named, dated, self-contained folder under `models/`. The codenames are
 not random release labels: they form a Turkic-history lineage that mirrors the technical ladder.
 
-- **Founders:** `bumin`, `istemi` — first working models, proving the stack can learn.
-- **Inscription-era wisdom:** `tonyukuk`, `kultigin`, `bilge` — story, instruction, and the next cloud rung.
-- **Language scholars and stones:** `kashgari`, `bengü`, `bengü-göktürk` — imported open base, Turkish base, Old Turkic transliteration.
-- **Scale ladder:** `tengri`, `otuken`, `balasagun`, `kutadgu` — 350M → 7B.
+- **Clean current line:** `bumin-mini`, `tonyuk`, `tegin`, `istem`, `kashgar`, `bunghu`, `tangri`.
+- **Unified rule:** every normal public model is expected to handle English, Turkish, and Kokturk/Old Turkic transliteration; there is no separate `-gokturk` product branch.
+- **Next scale rung:** `qaghan`, then `otuken`, `balasagun`, `kutadgu`.
 - **Frontier reserve:** `oguz`, `manas`, `tarkan`, `ergenekon`, `atilla`, `timur`, `korkut`.
 
 The full naming story is in [**`docs/lineage.md`**](docs/lineage.md).
@@ -147,13 +146,13 @@ so future models slot in automatically.
 
 | Name | Namesake | What it is | Metric / status |
 |------|----------|------------|-----------------|
-| `bumin` | Bumin Qaghan, founder of the first Göktürk Khaganate | 4M arithmetic/chat smoke model | ppl 5.1 |
-| `tonyukuk` | Tonyukuk, Orkhon-era strategist and inscription author | 22M TinyStories base | ppl 4.8 |
-| `kultigin` | Kül Tigin, Göktürk prince commemorated by an Orkhon inscription | 22M story-instruction SFT | format proof |
-| `istemi` | Istemi Qaghan, westward-expanding co-founder | 51M FineWeb-Edu base, 162.8M tokens | ppl 46.5; benchmark reports in `reports/` |
-| `kashgari` | Mahmud al-Kashgari, author of the first major Turkic dictionary | imported SmolLM2-135M parity proof | re-importable; weights not archived |
-| `bengü` | *Bengü Taş*, “eternal stone” inscription monument | 57M EN/TR bilingual base | ppl 47.1; Turkish morphology proof |
-| `bengü-göktürk` | the Old Turkic branch of `bengü` | deterministic rune → Latin transliterator SFT | transliteration only, not translation |
+| `bumin-mini` | Bumin Qaghan, founder of the first Göktürk Khaganate | 4M compact unified assistant | backport target |
+| `tonyuk` | Tonyukuk, Orkhon-era strategist and inscription author | 22M unified assistant from the story base | backport target |
+| `tegin` | Kül Tigin, Göktürk prince commemorated by an Orkhon inscription | 22M unified assistant from the old story-instruct model | backport target |
+| `istem` | Istemi Qaghan, westward-expanding co-founder | 51M unified assistant from FineWeb-Edu base | backport target |
+| `kashgar` | Mahmud al-Kashgari, author of the first major Turkic dictionary | imported/open-base slot | weights pending |
+| `bunghu` | *Bengü Taş*, eternal inscription stone, ASCII product spelling | 57M unified EN/TR/Kokturk assistant from bilingual branch | backport target |
+| `tangri` | Tengri/Tangri, sky-scale rung | 100M unified EN/TR/Kokturk assistant from mixed base | training/eval target |
 
 ## Model sizes
 

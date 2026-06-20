@@ -41,22 +41,37 @@ from orkhon.eval.perplexity import evaluate
 from orkhon.tokenizer import load_tokenizer
 from orkhon.train.checkpoint import load_model_from_checkpoint
 
-# Codenames from Turkic history, handed out in pool order to new models.
-# Ordered to read as an escalating epic: founders -> counselors/princes -> sky &
-# homeland -> the wisdom text -> epic ancestors, conquerors, and the eternal sage.
+# Clean ASCII model names, handed out in pool order to new models.
 NAME_POOL: list[str] = [
-    # already trained
-    "bumin", "istemi", "tonyukuk", "kultigin", "kashgari",
-    # the climb: 125M -> 7B
-    "bilge", "tengri", "otuken", "balasagun", "kutadgu",
-    # the frontier: 13B -> ~1T
-    "oguz", "manas", "tarkan", "ergenekon", "atilla", "timur", "korkut",
-    # the language branch: bengu = "Bengu Tas" (the eternal stone) — the Turkish
-    # + Old-Turkic inscription specialist (see docs/turkic-languages.md)
-    "bengu",
-    # reserve / alternates
-    "umay", "yenisei", "alp", "asena", "ulugbeg", "selcuk", "bozok",
-    "caghan", "altan", "koroglu", "alpamis", "yabgu",
+    "bumin-mini",
+    "tonyuk",
+    "tegin",
+    "istem",
+    "kashgar",
+    "bunghu",
+    "tangri",
+    "qaghan",
+    "otuken",
+    "balasagun",
+    "kutadgu",
+    "oguz",
+    "manas",
+    "tarkan",
+    "ergenekon",
+    "atilla",
+    "timur",
+    "korkut",
+    "umay",
+    "yenisei",
+    "alp",
+    "asena",
+    "ulugbeg",
+    "selcuk",
+    "bozok",
+    "altan",
+    "koroglu",
+    "alpamis",
+    "yabgu",
 ]
 
 DEFAULT_ROOT = "models"

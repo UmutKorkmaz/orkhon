@@ -39,19 +39,19 @@ def test_register_model_writes_full_archive(tmp_path):
     root = tmp_path / "models"
 
     dest = register_model(
-        "bumin", ckpt, tok_dir, kind="base", lineage="a tiny test model",
+        "bumin-mini", ckpt, tok_dir, kind="base", lineage="a tiny test model",
         sample_prompts=["the cat"], generate_mode="complete",
         device="cpu", dest_root=str(root), date="20260614",
     )
 
-    assert dest.name == "bumin-20260614"
+    assert dest.name == "bumin-mini-20260614"
     for f in ["manifest.json", "model_card.md", "samples.txt", "run.sh",
               "code_snapshot.tgz", "checkpoint/ckpt_last.pt", "checkpoint/model_config.json",
               "tokenizer/tokenizer.json"]:
         assert (dest / f).exists(), f"missing {f}"
 
     man = json.loads((dest / "manifest.json").read_text())
-    assert man["name"] == "bumin" and man["kind"] == "base"
+    assert man["name"] == "bumin-mini" and man["kind"] == "base"
     assert man["params_m"] > 0 and man["n_layers"] == 2
 
     # The archived checkpoint reloads through the normal path.
@@ -60,13 +60,13 @@ def test_register_model_writes_full_archive(tmp_path):
     assert c2.n_layers == 2
 
     index = build_index(root)
-    assert "bumin" in index.read_text()
+    assert "bumin-mini" in index.read_text()
 
 
 def test_register_imported_records_repro_without_weights(tmp_path):
     root = tmp_path / "models"
     dest = register_imported(
-        "kashgari", repo="HuggingFaceTB/SmolLM2-135M", params_m=135.0,
+        "kashgar", repo="HuggingFaceTB/SmolLM2-135M", params_m=135.0,
         lineage="imported open base", sample={"prompt": "The capital of France is",
         "output": " the capital of the country."}, dest_root=str(root), date="20260614",
     )
@@ -78,5 +78,5 @@ def test_register_imported_records_repro_without_weights(tmp_path):
 
 def test_next_name_skips_used(tmp_path):
     root = tmp_path / "models"
-    (root / "bumin-20260101").mkdir(parents=True)
-    assert next_name(root) == "istemi"  # bumin taken -> next in pool
+    (root / "bumin-mini-20260101").mkdir(parents=True)
+    assert next_name(root) == "tonyuk"  # bumin-mini taken -> next in pool

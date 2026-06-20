@@ -1,0 +1,29 @@
+# Fine-tune the Tengri/Tangri base into the unified EN/TR/Kokturk assistant.
+arch_path: configs/model/small_125m.yaml
+init_from: runs/tengri125_mixed_600m
+tokenizer:
+  dir: artifacts/tokenizer/bilingual
+data:
+  sft_path: data/instruct/unified_assistant_train.jsonl
+  val_sft_path: data/instruct/unified_assistant_val.jsonl
+optim:
+  lr: 8.0e-5
+  min_lr_ratio: 0.1
+  weight_decay: 0.0
+  grad_clip: 1.0
+  warmup_steps: 100
+  schedule: cosine
+train:
+  device: mps
+  dtype: float32
+  seed: 1337
+  batch_size: 8
+  grad_accum_steps: 2
+  max_steps: 3000
+  seq_len: 256
+  log_interval: 25
+  eval_interval: 300
+  eval_iters: 40
+  ckpt_interval: 500
+  out_dir: runs/tangri_unified
+  compile: false

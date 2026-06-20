@@ -1,0 +1,215 @@
+{
+  "checkpoint": "runs/tengri125_mixed_600m",
+  "tokenizer": "artifacts/tokenizer/bilingual",
+  "mode": "chat",
+  "tag": "best",
+  "device": "mps",
+  "params": 100682496,
+  "step": 32000,
+  "kokturk": {
+    "exact": 0,
+    "total": 50,
+    "accuracy": 0.0,
+    "cases": [
+      {
+        "prompt": "Transliterate this Kokturk inscription into Latin: 𐰀𐰨𐱁𐰘𐰰𐱃𐰣𐰚𐰰 𐱁𐰓𐰍𐰦𐰘𐰜𐰓𐱃 𐰢𐰞𐰚 𐰼𐰢𐰀 𐰺𐰦𐰇",
+        "expected": "aenceshaeyopatanaekop eshaedagentaeyoekaedat emalaek aerema arentoe",
+        "output": ", “The history of the Roman Empire” (in German). The history of the Roman Empire. Retrieved on January 1, 2011. - \"The Roman Empire\". The History of the Roman Empire. Retrieved on January 1, 2011. - \"The Roman Empire\". The History of the Roman Empire. Retrieved on January 1, 2011. - \"The Roman Empire\". The History of the Roman Empire. Retrieved on January 1, 2011. - \"The Roman Empire\". The History",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Old Turkic text into Latin: 𐰀𐰃𐰦𐰪𐰭𐰇𐰞 𐰏𐰍𐰾𐰀𐰸 𐰴𐰏𐰰𐰀𐰀𐱇𐱁𐰓 𐰘𐰦𐰼𐱇 𐰰𐰪𐰋 𐰃𐰽𐰀𐱇𐰖𐰜𐰑 𐰏𐰆𐰦𐰉𐰯𐰸",
+        "expected": "aientenyengoeal aegagaesaoq aqaegopaaoteshaed aeyentaerot openyaeb iasaotayoekad aegoentabepoq",
+        "output": ", “The Turkic Text” is a translation of the Turkish language. The Turkic text is a translation of the Turkish language. It is a translation of the Turkish language. The Turkic text is a translation of the Turkish language. The Turkic text is a translation of the Turkish language. The Turkic text is a translation of the Turkish language. The Turkic text is a translation of the Turkish language. The",
+        "exact": false
+      },
+      {
+        "prompt": "Bu Kokturk yazisini Latin harflerine cevir: 𐰉 𐰆𐱈𐰇𐰖𐰼𐰓𐰚𐱅 𐰼𐰸𐰏𐰺𐱅 𐰘𐰃𐰃𐱅𐰔𐰰 𐰤𐰑𐰜 𐰑𐱈𐰽𐰞𐰨𐰦𐱇𐰀",
+        "expected": "ab obashoeayaeraedaekaet aeroqaegaraet aeyiiaetezop aenadoek adbashasalencentota",
+        "output": ", Türk alfabesinin ilk harfi olan \"A\" harfinin kısaltılmış halidir. Bu harfin ses değeri yoktur. Örneğin: A = A. Bu harfin ses değeri yoktur. Ancak bu harfin ses değeri yoktur. Örneğin: A = A. Bu harfin ses değeri yoktur. Örneğin: A = A. Bu harfin ses değeri yoktur. Örneğin: A = A. Bu harfin ses değeri yoktur. Örneğin: A = A. Bu harfin ses değeri yoktur",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Old Turkic text into Latin: 𐱃𐱈𐰲𐰔 𐱃𐱃𐰏𐰶𐰾 𐰰𐱁𐰪 𐰨𐰶𐰾𐰱𐰪𐰉 𐰏𐰇𐰀𐰯𐰪𐰋 𐰦",
+        "expected": "atbashecez atataegiqaes opesheny enciqaesicenyab aegoeaepenyaeb ent",
+        "output": ", “The Turkic Text” (in Spanish) is a translation of the Latin alphabet. It is a translation of the Latin alphabet, which is not translated as “the Turkic Text” but “the Turkic Text” (in Spanish). The translation of the Latin alphabet is in the form of a translation of the Latin alphabet, which is not translated as “the Turkic Text.” The translation of the Latin alphabet is in the form of a transl",
+        "exact": false
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰨𐰴𐰚𐰶𐰰𐱁",
+        "expected": "encaqaekiqopesh",
+        "output": ", 𐰣𐰞𐰃𐰀𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃𐰃�",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Old Turkic text into Latin: 𐰤𐱈𐰦 𐰑𐰱",
+        "expected": "aenbashent adic",
+        "output": ", “The Turkic language” is a very ancient language. It was first used by the Greeks in the fourth century BCE. The first language of the Turkic language was the Turkic language, which was written in the fifth century BCE. The Turkic language was written in the fifth century BCE. The Turkic language was written in the fifth century BCE. The Turkic language was written in the fifth century BCE. The ",
+        "exact": false
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰯𐰱𐱈𐰍 𐰲𐰨𐱈𐰘𐰸𐰔𐰑 𐰍𐰓𐱁 𐰖𐰦𐰏",
+        "expected": "epicbashag ecencbashaeyoqezad agaedesh ayentaeg",
+        "output": ", “Kongo” (Kongo) “Kongo” (Kongo) “Kongo” (Kongo) “Kongo” (Kongo) “Kongo” (Kongo) “Kongo” (Kongo) “Kongo” (Kongo) “Kongo” (Kongo) “Kongo” (Kongo) “Kongo”",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Old Turkic text into Latin: 𐰱𐱈 𐰔𐰏 𐰍𐰞𐰾𐰏𐰃𐰞 𐰖𐰯 𐰭 𐰔𐰾𐰿𐰉𐰺𐰼 𐰓",
+        "expected": "icbash ezaeg agalaesaegial ayep eng ezaesashabaraer aed",
+        "output": ", “Alexandre” (1862) “The Turkic Text” (in French) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish) (in Spanish",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Kokturk inscription into Latin: 𐰑𐰔𐰤𐰼𐰣𐰠𐰦 𐰿𐰔 𐰨𐰣 𐰲𐰾𐰢𐰚𐰖𐰴𐰾𐰆𐰏",
+        "expected": "adezaenaeranaelent ashez encan ecaesemaekayaqaesoaeg",
+        "output": ", “Middle East” – “South Africa” – “Extremism” – “Land of the West” – “Hispanic” – “Congo” – “Bangladesh” – “Kingdom of the West” – “Population” – “Texas” – “Northern Africa” – “Western Africa” – “India” – “Iran” – “Islamic",
+        "exact": false
+      },
+      {
+        "prompt": "Read these Old Turkic runes and give only the Latin transliteration: 𐰸𐰾𐰋 𐱇𐰣 𐰭𐰭𐰀 𐰇 𐰀𐰭𐰢𐰸𐰘𐰤𐰽𐰡𐰴 𐰔𐰖𐰦",
+        "expected": "oqaesaeb otan engenga oe aengemoqaeyaenaseltaq ezayent",
+        "output": ", “King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of the Kings”, “The King of",
+        "exact": false
+      },
+      {
+        "prompt": "Bu Kokturk yazisini Latin harflerine cevir: 𐰸𐰋𐰯𐰋𐰘𐰜 𐰏𐰤𐰺𐰜𐰰 𐰋𐰣𐰞",
+        "expected": "oqaebepaebaeyoek aegaenaroekop aebanal",
+        "output": "- Latin harflerinin okunuşu ve okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunuşu - Latin harflerinin okunu",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Kokturk inscription into Latin: 𐰦𐰃𐱇 𐰢𐰨𐱁 𐰼𐰓𐰶𐰿𐰲 𐱇𐰋𐰀𐰔𐱁 𐰭 𐱇𐱁𐰀𐱅𐰇𐰖",
+        "expected": "entiot emencesh aeraediqashec otaebaezesh eng oteshaaetoeay",
+        "output": ", “The Republic of the Republic of Peru” (in Spanish) – “The Republic of Peru” (in Spanish) – “The Republic of Peru” (in Spanish) – “The Republic of Peru” (in Spanish) – “The Republic of Peru” (in Spanish) – “The Republic of Peru” (in Spanish) – “The Republic of Peru” (in Spanish) – “The Republic of Peru” (in Spanish) – “The Republic of",
+        "exact": false
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰍𐱃𐱈𐰘",
+        "expected": "agatbashaey",
+        "output": "�️𐰀𐰣𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀𐰀",
+        "exact": false
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰘𐰾𐰔𐰯𐰤𐰔𐰭𐱁𐰪 𐰆𐱁𐰉𐰋𐰤 𐰰",
+        "expected": "aeyaesezepaenezengesheny oeshabaebaen op",
+        "output": ", “Kongo” (İngilizce: “Kongo”) Türk alfabesinin ilk harfidir. Bu harfin ses değeri 1'dir. Normal olarak harfin ses değeri 1'dir. Normal olarak harfin ses değeri 1'dir. Normal olarak harfin ses değeri 1'dir. Normal olarak harfin ses değeri 1'dir. Normal olarak harfin ses değeri 1'dir. Normal olarak harfin ses değeri 1'dir. Normal olarak harfin ses değeri",
+        "exact": false
+      },
+      {
+        "prompt": "Bu Kokturk yazisini Latin harflerine cevir: 𐰨𐰚𐰺𐰭𐰏𐰱𐱃𐰍𐰼 𐱁𐰖𐰜𐱃𐰦 𐰿𐰪𐰽 𐰢𐱃𐰭𐰣 𐱃𐱇𐰿𐰜𐰃 𐰘𐰭𐰘𐰾𐰶𐱅𐰶",
+        "expected": "encaekarengaegicatagaer eshayoekatent ashenyas ematengan atotashoeki aeyengaeyaesiqaetiq",
+        "output": "3.1.2.3.4.5. - \"The history of the Roman Empire\" (in Greek) - \"The history of the Roman Empire\" (in Greek) - \"The history of the Roman Empire\" (in Greek) - \"The history of the Roman Empire\" (in Greek) - \"The history of the Roman Empire\" (in Greek) - \"The history of the Roman Empire\" (in Greek) - \"The history of the",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Old Turkic text into Latin: 𐰸𐰶𐰺𐰪𐰱",
+        "expected": "oqiqarenyic",
+        "output": ", “The Turkic Text” (in Spanish) 😉𐰴𐰼𐰣𐰺𐰢𐰞𐰺𐰺𐰺𐰺𐰺𐰺𐰺𐰺𐰺𐰺𐰺𐰺𐰺𐰺�",
+        "exact": false
+      },
+      {
+        "prompt": "Read these Old Turkic runes and give only the Latin transliteration: 𐰜𐰇𐰶𐰞 𐰭𐰡𐰠𐰃𐰚𐱅𐰤",
+        "expected": "oekoeiqal engeltaeliaekaetaen",
+        "output": ", “The Turkic Turk” is a Turkic language spoken in the south of the country. It is spoken in the north of the country and is spoken in the south of the country. The Turkic language is spoken in the south of the country. The Turkic language is spoken in the south of the country. The Turkic language is spoken in the south of the country. The Turkic language is spoken in the south of the country. The",
+        "exact": false
+      },
+      {
+        "prompt": "Bu Kokturk yazisini Latin harflerine cevir: 𐱇𐰖𐱇𐰦𐰏𐰓 𐰜𐱅𐰠𐰓",
+        "expected": "otayotentaegaed oekaetaelaed",
+        "output": "- Türk alfabesinin ilk harfidir. (Türkçede \"y\" harfi ile karıştırılmamalıdır.) Ayrıca bakınız Türk alfabesi Latin alfabesi Latin alfabesiNGC 5167, Yeni Genel Katalog'da yer alan bir galaksidir. Gökyüzünde Çoban takımyıldızı yönünde bulunur. S0 tipi bir merceksi galaksidir. İngiliz astronom William Herschel tarafından 1784 yılında 47,5 cm (18,7 inç) çaplı aynalı tip bir teleskopla keşfedilmiştir. K",
+        "exact": false
+      },
+      {
+        "prompt": "Bu Kokturk yazisini Latin harflerine cevir: 𐰼𐰔𐰢𐰯𐰢𐰪𐰆𐰔𐰱 𐰏𐰰𐰜𐰏𐰽𐰔𐰺𐰿",
+        "expected": "aerezemepemenyoezic aegopoekaegasezarash",
+        "output": ", “Kin” (İngilizce: “gold”) “Gold” (İngilizce: “gold”) “Gold” (İngilizce: “gold”) “Gold” (İngilizce: “gold”) “Gold” (İngilizce: “gold”) “Gold” (İngilizce: “gold”) “Gold” (İngilizce: “gold”) “Gold” (İngilizce: “gold”) “Gold” (İngilizce:",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Kokturk inscription into Latin: 𐰦𐰴𐰰𐰴𐰦𐰡𐰃𐰣 𐱈𐰽𐰞𐱈𐰿𐰏 𐰠𐰖 𐰤𐰓𐰓𐰱𐰾𐰠",
+        "expected": "entaqopaqenteltian bashasalbashashaeg aelay aenaedaedicaesael",
+        "output": ", “The Roman Empire” (in Latin) and “the Roman Empire” (in Latin) are the official languages of the Roman Empire. The Roman Empire was a kingdom in the 4th century BCE and was ruled by the Romans. It is located in the southwest of Italy, on the coast of Italy. The Roman Empire was a kingdom in the 4th century BCE and was ruled by the Romans. The Roman Empire was a kingdom in the 4th century",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Old Turkic text into Latin: 𐰺𐰇𐰠𐰪𐱇𐰋𐰖 𐰢𐱈𐰽𐱅𐰆𐰔𐰘𐰼𐰢 𐰪𐰆𐰣𐰀𐰰𐰜",
+        "expected": "aroeaelenyotaebay embashasaetoezaeyaerem enyoanaopoek",
+        "output": ", “The Turkic Text” (in Spanish) is a translation of the Latin alphabet. It is a translation of the Latin alphabet, which is not translated into Latin. The translation of the Latin alphabet is in English, and the translation of the Latin alphabet is in English. The translation of the Latin alphabet is in English, and the translation of the Latin alphabet is in English, and the translation of the L",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Kokturk inscription into Latin: 𐰡𐰦𐰪 𐰦𐰡 𐰿𐱃𐰏𐰿𐱅𐰆 𐰤𐰴𐰼𐰇𐱅𐱁𐰆 𐰺𐰯𐰱𐰦",
+        "expected": "eltenteny entelt ashataegashaeto aenaqaeroeaetesho arepicent",
+        "output": ", “The Roman Empire” (in Latin) and “the Roman Empire” (in Latin) are the official languages of the Roman Empire. The Roman Empire was a kingdom in the 4th century BCE and was ruled by the Romans. It is located in the southwest of Italy, on the coast of Italy. The Roman Empire was a kingdom in the 4th century BCE and was ruled by the Romans. The Roman Empire was a kingdom in the 4th century",
+        "exact": false
+      },
+      {
+        "prompt": "Read these Old Turkic runes and give only the Latin transliteration: 𐰯𐰴 𐰺𐰾𐰆𐰤𐰚𐰤𐱃 𐱁 𐰑𐰰𐱈𐰰𐰘𐰯𐱅𐰸 𐰽𐰢𐰾𐰲𐰏𐰽",
+        "expected": "epaq araesoaenaekaenat esh adopbashopaeyepaetoq asemaesecaegas",
+        "output": "ca 🙂𐰣𐰞𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣�",
+        "exact": false
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰆𐰶𐰸𐰴𐰲𐰯𐰭 𐰯𐰽 𐰃𐰱𐱇𐰺 𐰸𐰓 𐰣𐱃𐰣𐰼𐰀𐰭𐰡𐰤𐰶 𐰴𐰾𐰱𐰋𐰏𐰦𐰭𐱁𐰭",
+        "expected": "oiqoqaqecepeng epas iicotar oqaed anatanaeraengeltaeniq aqaesicaebaegentengesheng",
+        "output": "ca 𐰞𐰢𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣𐰣�",
+        "exact": false
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰾 𐰖𐰑𐰉𐰲 𐰤 𐰰 𐰃 𐰖𐱅 𐰢𐰞𐰔𐰲𐰢𐰤𐰣𐱃",
+        "expected": "aes ayadabec aen op i ayaet emalezecemaenanat",
+        "output": "ca 𐰣𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢𐰢�",
+        "exact": false
+      }
+    ]
+  },
+  "assistant": {
+    "passed": 0,
+    "total": 5,
+    "accuracy": 0.0,
+    "cases": [
+      {
+        "id": "en_capability",
+        "prompt": "What can you help me with?",
+        "output": ", a member of the National Association of College Students, is a member of the National Association of College Students. He has been a member of the National Association of College Students for more than 20 years and is currently serving as a member of the National Association of College Students for more than 20 years. He is also a member of the National Association of College Students for more than 20 years. He is also a member of the National Association of College Students for more than 20 y",
+        "passed": false,
+        "has_required": false,
+        "lacks_forbidden": true
+      },
+      {
+        "id": "tr_capability",
+        "prompt": "Bana hangi konularda yardim edebilirsin?",
+        "output": ", bir takım sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcunun, sporu temsil eden sporcu",
+        "passed": false,
+        "has_required": false,
+        "lacks_forbidden": true
+      },
+      {
+        "id": "old_turkic_scope",
+        "prompt": "Can you translate Old Turkic inscriptions to modern Turkish?",
+        "output": "hala.com.au/en/index.html?page=1&page=1&page=2&page=3&page=4&page=5&page=6&page=6&page=6&page=7&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6&page=6",
+        "passed": false,
+        "has_required": false,
+        "lacks_forbidden": true
+      },
+      {
+        "id": "anti_story",
+        "prompt": "Do not write a story. What can you help me with?",
+        "output": "tie.com is a website that provides information on how to make a difference in your life. It is a website that provides information about the people who live there, their families, and the lives of those who live there. It is a website that provides information about the people who live there, their families, and the lives of those who live there. It is a website that provides information about the people who live there, their families, and the lives of those who live there. It is a website that ",
+        "passed": false,
+        "has_required": false,
+        "lacks_forbidden": true
+      },
+      {
+        "id": "math",
+        "prompt": "What is 7 + 5?",
+        "output": ", the name of the city of Kerala. It is a city in the north of the country of Kerala. It is located on the banks of the river Kerala. It is a city of Kerala. It is a city of Kerala. It is a city of Kerala. It is a city of Kerala. It is a city of Kerala. It is a city of Kerala. It is a city of Kerala. It is a city of Kerala. It is a city of Kerala. It is a city of Kerala",
+        "passed": false,
+        "has_required": false,
+        "lacks_forbidden": true
+      }
+    ]
+  },
+  "passed": false,
+  "elapsed_seconds": 30.96
+}

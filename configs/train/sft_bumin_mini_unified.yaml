@@ -1,0 +1,29 @@
+# Keep Bumin as the tiny smoke/dev assistant for the unified behavior contract.
+arch_path: configs/model/smoke_6m.yaml
+init_from: models/bumin-20260614/checkpoint
+tokenizer:
+  dir: models/bumin-20260614/tokenizer
+data:
+  sft_path: data/instruct/unified_assistant_train.jsonl
+  val_sft_path: data/instruct/unified_assistant_val.jsonl
+optim:
+  lr: 1.0e-4
+  min_lr_ratio: 0.1
+  weight_decay: 0.0
+  grad_clip: 1.0
+  warmup_steps: 40
+  schedule: cosine
+train:
+  device: mps
+  dtype: float32
+  seed: 1337
+  batch_size: 16
+  grad_accum_steps: 1
+  max_steps: 800
+  seq_len: 192
+  log_interval: 25
+  eval_interval: 200
+  eval_iters: 30
+  ckpt_interval: 400
+  out_dir: runs/bumin_mini_unified
+  compile: false

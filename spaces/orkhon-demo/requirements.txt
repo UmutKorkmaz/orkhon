@@ -1,0 +1,5 @@
+gradio>=4.0
+huggingface_hub>=0.23
+torch
+safetensors
+git+https://github.com/UmutKorkmaz/orkhon.git

@@ -1,0 +1,29 @@
+# Upgrade the Kultigin/Tegin story-instruction model into a general assistant.
+arch_path: configs/model/tiny_24m.yaml
+init_from: models/kultigin-20260614/checkpoint
+tokenizer:
+  dir: models/kultigin-20260614/tokenizer
+data:
+  sft_path: data/instruct/unified_assistant_train.jsonl
+  val_sft_path: data/instruct/unified_assistant_val.jsonl
+optim:
+  lr: 1.0e-4
+  min_lr_ratio: 0.1
+  weight_decay: 0.0
+  grad_clip: 1.0
+  warmup_steps: 60
+  schedule: cosine
+train:
+  device: mps
+  dtype: float32
+  seed: 1337
+  batch_size: 16
+  grad_accum_steps: 1
+  max_steps: 1600
+  seq_len: 256
+  log_interval: 25
+  eval_interval: 200
+  eval_iters: 40
+  ckpt_interval: 400
+  out_dir: runs/tegin_unified
+  compile: false

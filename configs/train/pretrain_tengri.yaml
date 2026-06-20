@@ -1,0 +1,33 @@
+# Tengri — the ~350M Turkic base model (the "real" Bengü lineage step).
+# Scales Bengü's bilingual recipe up to base_350m.yaml (24L / d1024 / block 2048).
+#
+# This file is set up to be MPS-trainable on a laptop for a smoke/throughput
+# measurement (seq_len 1024, fp32, modest batch). For a REAL run you want either
+# many days on MPS (see measured sec/step) or — far better — a cloud GPU where
+# the same config trains in hours (bf16 + activation checkpointing, bigger batch).
+arch_path: configs/model/base_350m.yaml
+tokenizer:
+  dir: artifacts/tokenizer/bilingual
+data:
+  prepared_dir: data/prepared/bilingual
+optim:
+  lr: 4.0e-4
+  min_lr_ratio: 0.1
+  weight_decay: 0.1
+  beta2: 0.95
+  grad_clip: 1.0
+  warmup_steps: 500
+  schedule: cosine
+train:
+  device: auto            # resolves to MPS on Apple Silicon
+  dtype: float32          # MPS bf16 is uneven; fp32 is the safe baseline
+  seed: 1337
+  batch_size: 8
+  grad_accum_steps: 4     # global batch 32 sequences
+  max_steps: 25           # SMOKE / throughput probe — bump for a real run
+  seq_len: 1024
+  log_interval: 1
+  eval_interval: 100000   # skip during the timing run
+  eval_iters: 10
+  ckpt_interval: 100000   # skip during the timing run
+  out_dir: runs/tengri_smoke

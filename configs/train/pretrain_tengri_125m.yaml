@@ -1,0 +1,65 @@
+# Tengri-125M MPS pretrain plan.
+#
+# Corpus:
+#   data/prepared/tengri125_mixed
+#   Built from data/bilingual/train.txt + data/turkish/train.txt +
+#   data/fineweb/train.txt, exact-deduped/decontaminated, then tokenized with
+#   artifacts/tokenizer/bilingual (32k vocab). TinyStories is intentionally left
+#   out: it is mostly simple English and is a weaker use of this Turkish-focused
+#   1-2 day budget.
+#
+# Prepared size:
+#   train_tokens = 244,771,274
+#   val_tokens   =     649,100
+#
+# Training budget:
+#   tokens/step = 12 batch * 2 grad_accum * 768 seq = 18,432 tokens
+#   max_steps   = 32,500
+#   total input tokens ~= 599,040,000
+#   epochs over prepared train ~= 2.45
+#   expected wall-time @ 3,900 tok/s ~= 42.7 hours
+#
+# Chinchilla note:
+#   20 tok/param for 125M would be ~2.5B tokens and ~178 hours at 3,900 tok/s,
+#   so this config uses the largest practical token budget inside the 36-48h
+#   MPS window instead.
+#
+# Eval target:
+#   Bengu 57M reached val ppl ~47 on the old 136M-token bilingual corpus.
+#   Target for this 125M mixed-corpus run: <=35 ppl on this validation set, with
+#   a stretch target around <=32. Anything near/above 40 is not a meaningful win.
+#
+# MPS efficiency:
+#   dtype stays float32 because this stack already treats MPS reduced precision
+#   as fragile. torch.compile and activation checkpointing are disabled: compile
+#   is not proven faster/stable on this path, and checkpointing trades speed for
+#   memory while batch=12 seq=768 already fits.
+arch_path: configs/model/small_125m.yaml
+tokenizer:
+  dir: artifacts/tokenizer/bilingual
+data:
+  prepared_dir: data/prepared/tengri125_mixed
+optim:
+  lr: 5.0e-4
+  min_lr_ratio: 0.1
+  weight_decay: 0.1
+  beta1: 0.9
+  beta2: 0.95
+  eps: 1.0e-8
+  grad_clip: 1.0
+  warmup_steps: 1500
+  schedule: cosine
+train:
+  device: mps
+  dtype: float32
+  seed: 1337
+  batch_size: 12
+  grad_accum_steps: 2
+  max_steps: 32500
+  seq_len: 768
+  log_interval: 50
+  eval_interval: 1000
+  eval_iters: 100
+  ckpt_interval: 1000
+  out_dir: runs/tengri125_mixed_600m
+  compile: false

@@ -134,10 +134,9 @@ Her config değeri komut satırında `--set dotted.key=value` ile değiştirileb
 Eğitilen her model `models/` altında isimli, tarihli ve kendi kendine yeten bir klasöre arşivlenir. Kod adları
 rastgele release etiketleri değildir; teknik büyüme merdivenini Türk tarihinden gelen bir hatla anlatır.
 
-- **Kurucular:** `bumin`, `istemi` — yığının öğrenebildiğini kanıtlayan ilk çalışan modeller.
-- **Yazıt çağı bilgeliği:** `tonyukuk`, `kultigin`, `bilge` — hikaye, instruction ve sıradaki cloud basamağı.
-- **Dil bilginleri ve taşlar:** `kashgari`, `bengü`, `bengü-göktürk` — açık base import, Türkçe base, Eski Türkçe transliterasyon.
-- **Ölçek merdiveni:** `tengri`, `otuken`, `balasagun`, `kutadgu` — 350M → 7B.
+- **Temiz mevcut hat:** `bumin-mini`, `tonyuk`, `tegin`, `istem`, `kashgar`, `bunghu`, `tangri`.
+- **Birlesik kural:** normal public modellerin tamami Ingilizce, Turkce ve Kokturk/Eski Turkce transliterasyon bilmeli; ayri bir `-gokturk` urun dali yoktur.
+- **Siradaki olcek basamagi:** `qaghan`, sonra `otuken`, `balasagun`, `kutadgu`.
 - **Frontier rezervi:** `oguz`, `manas`, `tarkan`, `ergenekon`, `atilla`, `timur`, `korkut`.
 
 Tam isim hikayesi [`docs/lineage.tr.md`](docs/lineage.tr.md) içinde.
@@ -154,13 +153,13 @@ Her `models/<name>-<YYYYMMDD>/` klasörü **weights** (`checkpoint/`, `run.sh` i
 
 | İsim | Kaynak isim | Nedir | Metrik / durum |
 |------|-------------|-------|----------------|
-| `bumin` | Bumin Kağan, Birinci Göktürk Kağanlığı'nın kurucusu | 4M arithmetic/chat smoke modeli | ppl 5.1 |
-| `tonyukuk` | Tonyukuk, Orhun dönemi stratejisti ve yazıt sahibi | 22M TinyStories base | ppl 4.8 |
-| `kultigin` | Kül Tigin, Orhun yazıtlarında anılan Göktürk prensi | 22M story-instruction SFT | format proof |
-| `istemi` | İstemi Kağan, batıya açılan kurucu ortak | 51M FineWeb-Edu base, 162.8M token | ppl 46.5; benchmark raporları `reports/` içinde |
-| `kashgari` | Mahmud el-Kaşgari, ilk büyük Türk dili sözlüğünün yazarı | import edilmiş SmolLM2-135M parity proof | yeniden import edilebilir; weights arşivlenmedi |
-| `bengü` | *Bengü Taş*, ebedi yazıt taşı | 57M EN/TR bilingual base | ppl 47.1; Türkçe morfoloji proof |
-| `bengü-göktürk` | `bengü` modelinin Eski Türkçe dalı | deterministik rune → Latin transliterasyon SFT | yalnız transliterasyon, çeviri değil |
+| `bumin-mini` | Bumin Kagan, Birinci Gokturk Kaganligi'nin kurucusu | 4M kompakt birlesik asistan | backport hedefi |
+| `tonyuk` | Tonyukuk, Orhun donemi stratejisti ve yazit sahibi | hikaye base'inden 22M birlesik asistan | backport hedefi |
+| `tegin` | Kul Tigin, Orhun yazitlarinda anilan Gokturk prensi | eski story-instruct modelinden 22M birlesik asistan | backport hedefi |
+| `istem` | Istemi Kagan, batiya acilan kurucu ortak | FineWeb-Edu base'inden 51M birlesik asistan | backport hedefi |
+| `kashgar` | Mahmud el-Kashgari, ilk buyuk Turk dili sozlugunun yazari | imported/open-base slot | weights bekliyor |
+| `bunghu` | *Bengu Tas*, ebedi yazit tasi icin ASCII urun yazimi | bilingual hattan 57M EN/TR/Kokturk asistan | backport hedefi |
+| `tangri` | Tengri/Tangri, gok olcegi basamagi | mixed base'den 100M EN/TR/Kokturk asistan | egitim/eval hedefi |
 
 ## Model boyutları
 

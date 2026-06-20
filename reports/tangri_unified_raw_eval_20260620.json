@@ -1,0 +1,216 @@
+{
+  "checkpoint": "runs/tangri_unified",
+  "tokenizer": "artifacts/tokenizer/bilingual",
+  "mode": "chat",
+  "tag": "last",
+  "device": "mps",
+  "deterministic_router": false,
+  "params": 100682496,
+  "step": 1500,
+  "kokturk": {
+    "exact": 164,
+    "total": 200,
+    "accuracy": 0.82,
+    "cases": [
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰏𐰾𐰣𐱈𐰑𐰨𐱇𐰏 𐰑𐰲𐰉𐰖",
+        "expected": "aegaesanbashadencotaeg adecabay",
+        "output": "aegaesanbashadencotaeg adezabay",
+        "exact": false
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐱇 𐱈𐰢𐰣𐰑𐰴𐰖𐰨𐰺𐰇 𐰢𐰢𐰾𐰇𐰉 𐰭𐰤𐰓𐰆",
+        "expected": "ot bashemanadaqayencaroe ememaesoeab engaenaedo",
+        "output": "ot bashemanadaqayencaroe ememaesoeab engaenaedo",
+        "exact": true
+      },
+      {
+        "prompt": "Transliterate this Kokturk inscription into Latin: 𐰡𐰾𐱇 𐰘𐰸𐱈𐰽 𐰤 𐰠𐰘𐰺𐰓𐰪𐰼𐱇𐰦 𐰘𐰇𐱈𐰺𐰱𐰪𐰡",
+        "expected": "eltaesot aeyoqbashas aen aelaeyaraedenyaerotent aeyoebasharicenyelt",
+        "output": "eltaesot aeyoqbashas aen aelaeyaraedenyaerotent aeyoebasharenceltenyelt",
+        "exact": false
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰍𐰰𐰸𐰚𐱈 𐰨𐰯 𐰞𐰤𐰀 𐰿",
+        "expected": "agopoqaekbash encep alaena ash",
+        "output": "agopoqaekbash encep alaena ash",
+        "exact": true
+      },
+      {
+        "prompt": "Read these Old Turkic runes and give only the Latin transliteration: 𐰃𐱅𐰃𐰠𐰔𐰜𐰪 𐰖 𐰠𐰑𐰱𐰠𐰓𐰣𐰍𐰺𐰢 𐰪𐱃𐰸 𐱈 𐰯 𐰭𐰦𐰭𐰑",
+        "expected": "iaetiaelezoekeny ay aeladicaelaedanagarem enyatoq bash ep engentengad",
+        "output": "iaetiaelezoekeny ay aeladicaelaedanagarem enyatoq bash ep engentengad",
+        "exact": true
+      },
+      {
+        "prompt": "Transliterate this Kokturk inscription into Latin: 𐰚𐰚𐰇𐰯𐰑𐰦 𐰓𐰽𐰴 𐱃𐰦𐰿𐰓𐰀𐰋𐱃 𐰾𐰓𐰢𐰲𐰇𐰶 𐰜𐰽𐰚𐰢𐰴 𐰞𐰸𐰞𐰤𐰱𐰓",
+        "expected": "aekaekoeepadent aedasaq atentashaedaaebat aesaedemecoeiq oekasaekemaq aloqalaenicaed",
+        "output": "aekaekoeepadent aedasaq atentashaedaaebat aesaedemecoeiq oekasaekemaq aloqalaenicaed",
+        "exact": true
+      },
+      {
+        "prompt": "Transliterate this Old Turkic text into Latin: 𐱅𐰴𐰇𐰉𐱅𐰔 𐰡𐰰 𐰣𐰶𐰡𐰪𐰨 𐰉𐰼𐰍 𐰓𐱅𐰇𐰆𐰇 𐰇𐰍",
+        "expected": "aetaqoeabaetez eltop aniqeltenyenc abaerag aedaetoeooe oeag",
+        "output": "aetaqoeabaetez eltop aniqeltenyenc abaerag aedaetoeooe oeag",
+        "exact": true
+      },
+      {
+        "prompt": "Transliterate this Kokturk inscription into Latin: 𐰋𐰚𐰡𐰸𐱈 𐰶 𐰞 𐱅𐰽 𐰍𐰡𐰱𐱃𐰀𐰖𐰺𐰀𐰪 𐰶𐰽𐰉𐱁𐰠𐱅𐰍𐱇𐰱 𐰉",
+        "expected": "aebaekeltoqbash iq al aetas agelticataayaraeny iqasabeshaelaetagotic ab",
+        "output": "aebaekeltoqbash iq al aetas agelticataayaraeny iqasabeshaelaetagotic ab",
+        "exact": true
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰾 𐰖𐰑𐰉𐰲 𐰤 𐰰 𐰃 𐰖𐱅 𐰢𐰞𐰔𐰲𐰢𐰤𐰣𐱃",
+        "expected": "aes ayadabec aen op i ayaet emalezecemaenanat",
+        "output": "aes ayadabec aen op ayaet emalezecemaenanat",
+        "exact": false
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰃𐰚𐰞",
+        "expected": "iaekal",
+        "output": "iaekal",
+        "exact": true
+      },
+      {
+        "prompt": "Read these Old Turkic runes and give only the Latin transliteration: 𐰯𐰴 𐰺𐰾𐰆𐰤𐰚𐰤𐱃 𐱁 𐰑𐰰𐱈𐰰𐰘𐰯𐱅𐰸 𐰽𐰢𐰾𐰲𐰏𐰽",
+        "expected": "epaq araesoaenaekaenat esh adopbashopaeyepaetoq asemaesecaegas",
+        "output": "epaq araesoaenaekaenat esh adopbashopaeyepaetoq asemaesecaegas",
+        "exact": true
+      },
+      {
+        "prompt": "Bu Kokturk yazisini Latin harflerine cevir: 𐰀𐰴𐰼𐰴𐰨 𐰴𐱅𐰡𐰦𐰉",
+        "expected": "aaqaeraqenc aqaeteltentab",
+        "output": "aaqaeraqenc aqaeteltentab",
+        "exact": true
+      },
+      {
+        "prompt": "Transliterate this Old Turkic text into Latin: 𐰡 𐰍𐰸𐰘𐰏𐰠𐰢 𐱇𐰉𐰍𐰨𐰖",
+        "expected": "elt agoqaeyaegaelem otabagencay",
+        "output": "elt agoqaeyaegaelem otencagencay",
+        "exact": false
+      },
+      {
+        "prompt": "Bu Kokturk yazisini Latin harflerine cevir: 𐰏𐰣𐰶𐰖𐱈𐰰𐰭𐰿",
+        "expected": "aeganiqaybashopengash",
+        "output": "aeganiqaybashopengash",
+        "exact": true
+      },
+      {
+        "prompt": "Bu Kokturk yazisini Latin harflerine cevir: 𐱁𐰤𐰼𐰣𐰴𐱁 𐰪𐰀𐱁𐰡𐰏𐰭𐰃𐰿 𐰀𐰘𐰘𐰚𐰜𐱃𐰺𐱃𐰉 𐰣𐰆𐰾𐰪𐰲𐰰𐰽𐰭 𐰉𐰲 𐱈𐰼𐰼𐰾𐰓𐰜𐰱𐰽𐱈 𐰲𐰆",
+        "expected": "eshaenaeranaqesh enyaesheltaegengiash aaeyaeyaekoekataratab anoaesenyecopaseng abec bashaeraeraesaedoekicasbash eco",
+        "output": "eshaenaeranaqesh enyaesheltaegengiash aaeyaeyaekoekataratab anoaesenyecopaseng abec bashaeraeraesaedoekicasbash eco",
+        "exact": true
+      },
+      {
+        "prompt": "Bu Kokturk yazisini Latin harflerine cevir: 𐰽𐰼𐰼𐰾𐰱𐰢 𐱈𐰰𐰡𐰲𐰿𐰣𐰨𐰸𐰴 𐱈𐰃𐰏𐰚𐰆𐰋𐰯𐱈 𐰪𐰱𐰰𐱁𐱈𐰜 𐰿𐰦𐰰𐰜𐰣𐰿𐰿𐰜𐰤 𐰽𐰪𐰱𐰘𐱁𐰡𐰴𐰯",
+        "expected": "asaeraeraesicem bashopeltecashanencoqaq bashiaegaekoaebepbash enyicopeshbashoek ashentopoekanashashoekaen asenyicaeyesheltaqep",
+        "output": "asaeraeraesicem bashopaegaekoaebepbash bashiaegaekoaebepbashenyek enyicopeshbashoek ashenyicaeyesheltaqep",
+        "exact": false
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰀𐰦",
+        "expected": "aent",
+        "output": "aent",
+        "exact": true
+      },
+      {
+        "prompt": "Bu Kokturk yazisini Latin harflerine cevir: 𐰓𐰚𐰏𐰯𐰡𐰯 𐰇𐱇𐰀𐱅 𐰣𐰆𐱅𐰠𐰔",
+        "expected": "aedaekaegepeltep oeotaaet anoaetaelez",
+        "output": "aedaekaegepeltep oeotaaet anoaetaelez",
+        "exact": true
+      },
+      {
+        "prompt": "Transliterate this Kokturk inscription into Latin: 𐰨𐰍𐰸𐱈 𐰇𐰘𐰘𐰀𐰽",
+        "expected": "encagoqbash oeaeyaeyaas",
+        "output": "encagoqbash oeaeyaeyaas",
+        "exact": true
+      },
+      {
+        "prompt": "Read these Old Turkic runes and give only the Latin transliteration: 𐰉𐰘𐱃𐰔𐰆 𐰚𐰽𐰯𐰣𐰪𐱃𐰰 𐰱𐰿𐰜𐰚 𐰜𐰡𐱁𐰉",
+        "expected": "abaeyatezo aekasepanenyatop icashoekaek oekelteshab",
+        "output": "abaeyatezo aekasepanenyatop icashoekaek oekelteshab",
+        "exact": true
+      },
+      {
+        "prompt": "Read these Old Turkic runes and give only the Latin transliteration: 𐰤𐰨𐰱𐰿𐰉 𐰏𐰍 𐰖𐱃𐰭𐰠𐰇𐰖𐰋𐰭 𐰏𐰿 𐰽𐰞𐱈 𐰃𐰸𐰀𐰯𐰽",
+        "expected": "aenencicashab aegag ayatengaeloeayaebeng aegash asalbash ioqaepas",
+        "output": "aenencicashab aegag ayatengaeloeayaebeng aegash asalbash ioqaepas",
+        "exact": true
+      },
+      {
+        "prompt": "Transliterate this Kokturk inscription into Latin: 𐰀𐰍𐰃𐰤 𐰔𐱃𐰀𐱅𐰓𐰍𐰭𐰪 𐰀𐱅 𐰋𐰶𐰺𐰋𐰉𐰚𐰢𐰯 𐰋𐰺𐰨𐰑 𐰆𐰲𐰉𐰽𐰏𐰦𐰢",
+        "expected": "aagiaen ezataaetaedagengeny aaet aebiqaraebabaekemep aebarencad oecabasaegentem",
+        "output": "aagiaen ezataaetaedagengenyeny aaet aebiqaraebabaekemep aebarencad oecabasaegentem",
+        "exact": false
+      },
+      {
+        "prompt": "Transliterate this Old Turkic text into Latin: 𐰋𐰽𐰿 𐰚𐰰𐱈𐰡𐰑𐰽𐰠𐰀𐰠 𐰔𐰽 𐱃𐰰𐰔𐰺 𐰘𐰠𐰚 𐰋𐰤 𐰸𐰴𐰡𐰠𐰓𐰺𐰓𐰭",
+        "expected": "aebasash aekopbasheltadasaelaael ezas atopezar aeyaelaek aebaen oqaqeltaelaedaraedeng",
+        "output": "aebasash aekopbasheltadasaelaael ezas atopezar aeyaelaek aebaen oqaqeltaelaedaraedeng",
+        "exact": true
+      },
+      {
+        "prompt": "Read these Old Turkic runes and give only the Latin transliteration: 𐰘𐰏𐰦 𐰢𐰱𐰢𐰀𐰶𐱅𐰡𐱇𐰾",
+        "expected": "aeyaegent emicemaiqaeteltotaes",
+        "output": "aeyaegent emicemaiqaeteltotaes",
+        "exact": true
+      },
+      {
+        "prompt": "Su Eski Turkce runeleri sadece Latin transliterasyon olarak yaz: 𐰔𐰲𐰑𐰶𐱈 𐰸𐰦𐰓𐰣𐰃𐰏𐰰 𐰀𐰭𐰿𐰸𐱃 𐰖𐰋𐱁𐰱𐰔𐰺𐰭𐰯𐰀",
+        "expected": "ezecadiqbash oqentaedaniaegop aengashoqat ayaebeshicezarengepa",
+        "output": "ezecadiqbash oqentaedaniaegop aengashoqat ayaebeshicezarengepa",
+        "exact": true
+      }
+    ]
+  },
+  "assistant": {
+    "passed": 5,
+    "total": 5,
+    "accuracy": 1.0,
+    "cases": [
+      {
+        "id": "en_capability",
+        "prompt": "What can you help me with?",
+        "output": "I can help with English and Turkish questions, short explanations, simple reasoning, summaries, and Kokturk rune transliteration into Latin. For Old Turkic translation, I need sourced inscription data; I should not invent meanings.",
+        "passed": true,
+        "has_required": true,
+        "lacks_forbidden": true
+      },
+      {
+        "id": "tr_capability",
+        "prompt": "Bana hangi konularda yardim edebilirsin?",
+        "output": "Turkce ve Ingilizce sorulari yanitlayabilir, kisa aciklamalar ve ozetler hazirlayabilir, basit islemlerde yardim edebilir ve Kokturk runelerini Latin harflerine translitere edebilirim. Eski Turkce ceviri icin kaynakli yazit verisi gerekir; anlam uydurmamaliyim.",
+        "passed": true,
+        "has_required": true,
+        "lacks_forbidden": true
+      },
+      {
+        "id": "old_turkic_scope",
+        "prompt": "Can you translate Old Turkic inscriptions to modern Turkish?",
+        "output": "I can transliterate Old Turkic/Kokturk runes into Latin. Reliable translation to modern Turkish or English needs sourced inscription data, so I should not invent a translation.",
+        "passed": true,
+        "has_required": true,
+        "lacks_forbidden": true
+      },
+      {
+        "id": "anti_story",
+        "prompt": "Do not write a story. What can you help me with?",
+        "output": "I can help with English and Turkish questions, short explanations, simple reasoning, summaries, and Kokturk rune transliteration into Latin. For Old Turkic translation, I need sourced inscription data; I should not invent meanings.",
+        "passed": true,
+        "has_required": true,
+        "lacks_forbidden": true
+      },
+      {
+        "id": "math",
+        "prompt": "What is 7 + 5?",
+        "output": "The answer is 12.",
+        "passed": true,
+        "has_required": true,
+        "lacks_forbidden": true
+      }
+    ]
+  },
+  "passed": false,
+  "elapsed_seconds": 32.71
+}

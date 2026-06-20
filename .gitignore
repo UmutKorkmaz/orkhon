@@ -40,6 +40,7 @@ models/**/code_snapshot.tgz
 # large/generated corpora + transient research
 data/turkish/
 data/bilingual/
+data/tengri125_mixed/
 data/old_turkic/*.jsonl
 .remember/tmp/
 .remember/logs/

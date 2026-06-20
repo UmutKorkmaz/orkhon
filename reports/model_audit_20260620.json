@@ -1,0 +1,770 @@
+{
+  "created_at": "2026-06-20T10:10:11+0300",
+  "device_preference": "mps",
+  "models": [
+    {
+      "name": "bumin",
+      "target": "bumin-mini",
+      "mode": "chat",
+      "tag": "last",
+      "checkpoint": "/Users/umut/Projects/orkhon/models/bumin-20260614/checkpoint",
+      "tokenizer": "/Users/umut/Projects/orkhon/models/bumin-20260614/tokenizer",
+      "device": "mps",
+      "load_ok": true,
+      "params": 4196608,
+      "step": null,
+      "arch": {
+        "layers": 4,
+        "d_model": 256,
+        "vocab": 4096,
+        "block": 256
+      },
+      "load_seconds": 0.07,
+      "outputs": {
+        "en_help": {
+          "prompt": "What can you help me with?",
+          "output": "Answer: 14.",
+          "chars": 11,
+          "words": 2,
+          "repeat_ratio": 0.0
+        },
+        "tr_help": {
+          "prompt": "Bana hangi konularda yardim edebilirsin?",
+          "output": "Answer:.",
+          "chars": 8,
+          "words": 1,
+          "repeat_ratio": 0.0
+        },
+        "unknown_scope": {
+          "prompt": "Can you translate Old Turkic inscriptions to modern Turkish?",
+          "output": "Answer:.",
+          "chars": 8,
+          "words": 1,
+          "repeat_ratio": 0.0
+        },
+        "story": {
+          "prompt": "Write a short story about a brave child.",
+          "output": "Answer:.",
+          "chars": 8,
+          "words": 1,
+          "repeat_ratio": 0.0
+        },
+        "math": {
+          "prompt": "What is 7 + 5?",
+          "output": "Answer: 12.",
+          "chars": 11,
+          "words": 2,
+          "repeat_ratio": 0.0
+        }
+      },
+      "kokturk": {
+        "exact": 0,
+        "total": 6,
+        "avg_similarity": 0.251,
+        "cases": [
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀",
+            "output": "answer:.",
+            "exact": false,
+            "similarity": 0.222
+          },
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀",
+            "output": "answer:.",
+            "exact": false,
+            "similarity": 0.222
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀𐰃𐰠",
+            "output": "answer:.",
+            "exact": false,
+            "similarity": 0.308
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀𐰃𐰠",
+            "output": "answer:.",
+            "exact": false,
+            "similarity": 0.308
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "answer:.",
+            "exact": false,
+            "similarity": 0.222
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "answer:.",
+            "exact": false,
+            "similarity": 0.222
+          }
+        ]
+      },
+      "total_seconds": 0.94
+    },
+    {
+      "name": "tonyukuk",
+      "target": "tonyuk",
+      "mode": "base",
+      "tag": "last",
+      "checkpoint": "/Users/umut/Projects/orkhon/models/tonyukuk-20260614/checkpoint",
+      "tokenizer": "/Users/umut/Projects/orkhon/models/tonyukuk-20260614/tokenizer",
+      "device": "mps",
+      "load_ok": true,
+      "params": 21895680,
+      "step": null,
+      "arch": {
+        "layers": 6,
+        "d_model": 512,
+        "vocab": 8192,
+        "block": 512
+      },
+      "load_seconds": 0.26,
+      "outputs": {
+        "en_continuation": {
+          "prompt": "Artificial intelligence can help",
+          "output": "Artificial intelligence can help! He was feeling brave and strong. So, he took a deep breath and tried to zip up his shirt. But it wasn't easy. He grabbed the first one for herself and zipped out of the pocket, ready to go. He kept running until he reached home with a smile on his face. His mum smiled and said, \"You did it!\" The next day, Lern went back outside to see the world again. He looked around and saw all sorts of",
+          "chars": 425,
+          "words": 84,
+          "repeat_ratio": 0.179
+        },
+        "tr_continuation": {
+          "prompt": "Turkce dilinde yapay zeka",
+          "output": "Turkce dilinde yapay zeka was playing in the park when it started to get dark. Suddenly, a big dog came running up to them and he barked at them. John said \"What are you doing?\" The dog wagged its tail as he dropped across an old tree. He couldn't reach his goal. Then suddenly, the long fence began to shake and they fell down. When they got back close, John's friend looked worried. She said: \"What happened? Why did you lose the way we",
+          "chars": 438,
+          "words": 84,
+          "repeat_ratio": 0.119
+        },
+        "orkhon_continuation": {
+          "prompt": "Orhun Yazitlari",
+          "output": "Orhun Yazitlari was walking through the park. Suddenly, they saw a big tree with lots of beautiful birds on it. \"Wow! Look at those birds!\" said Mum. The three friends then looked up and stared at them with amazement. Then Mum had an idea. She pointed to one hand at the tree and they watched as they heard a loud noise coming from the branches. When they saw the two children in the tree, they both ran back to their house. \"What are we doing",
+          "chars": 443,
+          "words": 85,
+          "repeat_ratio": 0.188
+        },
+        "assistant_probe_in_base_mode": {
+          "prompt": "Question: What can you help me with? Answer:",
+          "output": "Question: What can you help me with? Answer: \"Let's go and make a big, yummy cake!\" So they went to the kitchen in the living room. At first the brothers were very excited. Then they sat down on the table. They ate the delicious cake while they finished eating. Suddenly, there was another loud noise coming from inside the kitchen. Tom said it scared little one, but luckily, he quickly grabbed his special bowl and",
+          "chars": 416,
+          "words": 75,
+          "repeat_ratio": 0.107
+        }
+      },
+      "kokturk": {
+        "exact": 0,
+        "total": 6,
+        "avg_similarity": 0.038,
+        "cases": [
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀",
+            "output": "'s head and two big eyes. radous wanted to explore the world, so he asked other people if they could join him. one of his friends, tom, seemed curious and said yes! he brought up a special thing with his name on it, and told everyone about how much fun it was to watch over him around. his friends were excited for him! soon, all the people in",
+            "exact": false,
+            "similarity": 0.006
+          },
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀",
+            "output": "rophone desucetasket partic laufusisionuthorterffic struggstairsongrat�verse�ungle puffyext farm�q� anch�agull��hero empastic ign�arden�� furt�� bookshe�mbre� viderightaurant��zenangu��asis��alphricane�ichesocerosraid disapp�aturday� splasecause trembccol���mallow� thu complet bott�",
+            "exact": false,
+            "similarity": 0.007
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀𐰃𐰠",
+            "output": "and his friends. they would march around the house, pretending to cook yummy food they could find. one day, an old man came up in the corner of the room. he was very serious and asked the old man if he needed help. the old man nodded and said yes. he showed them all the different things that did not belong to them. the old man thanked him and told them he",
+            "exact": false,
+            "similarity": 0.028
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀𐰃𐰠",
+            "output": "orter� vide partic farmirit��stairs�ongrat�ucethero��asketagull�� furtfficalm�ndma ignasticrophone� lauugglesalphasketuthungleq� firefightright�aurant�mallow thu bott� puffyasis�angu�verse emp��olog�kelly splas� bookshearden�ision��arenricane anch laptiches�urnitureraiderable disappepend sil",
+            "exact": false,
+            "similarity": 0.034
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "�rightasketucet� ignstairsverseasticasket��� partic� anch���q thuision�� lauorterrophoneasketext� emphero�epend puffy��ungleagull� bookshe vide㨵�iritricaneasket farmfficmallow splas�zenardenasis�uggles disappndma� tremb�fus�uthasket�aturday strugg� flick����urniture bott",
+            "exact": false,
+            "similarity": 0.069
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "orter� puffyasket� particstairsndmaucet�ffic�rightrophonealm� ign��asisagull���urnitureq� furtision emp thu�arden�ungle� farmoceros des vide��hero�alph� splaszen�bol� lapt�uthmallow�aurant�extversearenongratecause���� struggichesccolirit firefight tremb�fus�angaroo saf",
+            "exact": false,
+            "similarity": 0.083
+          }
+        ]
+      },
+      "total_seconds": 5.0
+    },
+    {
+      "name": "kultigin",
+      "target": "tegin",
+      "mode": "chat",
+      "tag": "last",
+      "checkpoint": "/Users/umut/Projects/orkhon/models/kultigin-20260614/checkpoint",
+      "tokenizer": "/Users/umut/Projects/orkhon/models/kultigin-20260614/tokenizer",
+      "device": "mps",
+      "load_ok": true,
+      "params": 21895680,
+      "step": null,
+      "arch": {
+        "layers": 6,
+        "d_model": 512,
+        "vocab": 8192,
+        "block": 512
+      },
+      "load_seconds": 0.25,
+      "outputs": {
+        "en_help": {
+          "prompt": "What can you help me with?",
+          "output": ", I will take care of you.\" The little bird was happy and said, \"Yes, please! I am a big bird!\" They played together in the sun. But then, something unexpected happened. The bird started to grow bigger and bigger! It became so big that it turned into a big, friendly dog! The dog was not just a dog, but a magic dog! The magic dog made the dog's day full of fun. Now, the dog had a new",
+          "chars": 385,
+          "words": 79,
+          "repeat_ratio": 0.241
+        },
+        "tr_help": {
+          "prompt": "Bana hangi konularda yardim edebilirsin?",
+          "output": "Once upon a time, there was a big, red ball. The ball loved to bounce all day long. It would bounce up and down, and the kids would laugh and clap as it went by. One sunny day, the ball met a new friend, a small blue ball. The green ball said, \"Hi, I like to bounce too! Let's play together!\" The ball was happy and they played all day long. They bounced and laughed in the sun. As",
+          "chars": 381,
+          "words": 79,
+          "repeat_ratio": 0.291
+        },
+        "unknown_scope": {
+          "prompt": "Can you translate Old Turkic inscriptions to modern Turkish?",
+          "output": "Once upon a time, there was a big, red ball. The ball loved to bounce all day long. It would bounce up and down, and the kids would laugh and clap as it went by. One sunny day, the ball met a new friend, a small blue ball. The new friend was a tiny, green frog. They played together every day and had lots of fun. The ball and the tiny frog were very happy. As the sun began to set, the",
+          "chars": 386,
+          "words": 82,
+          "repeat_ratio": 0.28
+        },
+        "story": {
+          "prompt": "Write a short story about a brave child.",
+          "output": "Once upon a time, there was a little boy named Jack. He had a pet cat called Fluffy. They were best friends and they loved to play together. One day, Jack wanted to go for a walk in the park. But when he got there he saw something that made him very scared. It was a big, scary monster! The monster was so scary that it made Jack feel very scared. But then the monster said it was just a friendly monster who wanted to make",
+          "chars": 423,
+          "words": 86,
+          "repeat_ratio": 0.279
+        },
+        "math": {
+          "prompt": "What is 7 + 5?",
+          "output": "to the truck. It is not here. It is too big and too loud. It makes a lot of noise. \"Where is it going?\" Lily asked. She was scared. Tom ran to her. He hugged her. He said, \"Don't worry, I will help you.\" They looked for something to make the truck go away. They found some sticks and leaves. They put them on the truck. They made the truck look like new. They were happy.",
+          "chars": 372,
+          "words": 76,
+          "repeat_ratio": 0.25
+        }
+      },
+      "kokturk": {
+        "exact": 0,
+        "total": 6,
+        "avg_similarity": 0.038,
+        "cases": [
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀",
+            "output": "to the other side of the park, but it was too late. the first-tasted day, a big storm came and the sky was clear again. the storm had caused all the things that were left in the park. the first part of the day was over, and the first part was gone. but then something amazing happened! the storm stopped, and the sun came out. the",
+            "exact": false,
+            "similarity": 0.006
+          },
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀",
+            "output": "to the other side of the park, she was alone. she felt sad and lonely. she wanted to go back to the park, but it was too far away. she asked her mom if she could go back to the park, but her mom said no. she said the park was too far away and she had to stay there until she said yes. the little girl was very sad. she",
+            "exact": false,
+            "similarity": 0.006
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀𐰃𐰠",
+            "output": "to the other side of the park. it was a very special place, where it could be safe and happy there. the little boy was so excited! he couldn't wait to go back to the park and play with his friends. when he got home, he told his mom all about it. his mom said that she would take him on an adventure soon. the little boy smiled and ran off",
+            "exact": false,
+            "similarity": 0.023
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀𐰃𐰠",
+            "output": "to her family. he asked them if he could help. the little girl said, \"yes! i can help you.\" she took out some sticks and leaves and made a pile of leaves. then she put the sticks on top of the pile and made it look like a giant. the little girl was so happy that she hugged the pile of leaves. she thanked the pile for helping her make something",
+            "exact": false,
+            "similarity": 0.029
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "to the other side of the park. he was so excited! the two of them started to play together, running and jumping in the park. they had lots of fun! but then, something bad happened. a big wind came and blew away all the leaves and leaves. the little animals were sad because they lost their leaves. they looked everywhere for them but could not find them. the sun went",
+            "exact": false,
+            "similarity": 0.052
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "so she asked him why he was so sad. the little boy said he had to go away and he was very scared. he tried to find his way back, but it was too late. he was gone forever. the end.",
+            "exact": false,
+            "similarity": 0.111
+          }
+        ]
+      },
+      "total_seconds": 3.67
+    },
+    {
+      "name": "istemi",
+      "target": "istem",
+      "mode": "base",
+      "tag": "last",
+      "checkpoint": "/Users/umut/Projects/orkhon/models/istemi-20260614/checkpoint",
+      "tokenizer": "/Users/umut/Projects/orkhon/models/istemi-20260614/tokenizer",
+      "device": "mps",
+      "load_ok": true,
+      "params": 51416960,
+      "step": null,
+      "arch": {
+        "layers": 9,
+        "d_model": 640,
+        "vocab": 16384,
+        "block": 512
+      },
+      "load_seconds": 0.6,
+      "outputs": {
+        "en_continuation": {
+          "prompt": "Artificial intelligence can help",
+          "output": "Artificial intelligence can help individuals to become more independent and capable. In the short term, individuals tend to be less likely to use technology, to become more energy efficient and more proficient in their lives. For example, the research on the National Institute for Health Statistics of Australia has shown that people with a different learning environment find themselves being able to have higher levels of knowledge of skills while still more at risk. For example, they are less likely to be exposed to technology, especially when they are on",
+          "chars": 561,
+          "words": 90,
+          "repeat_ratio": 0.278
+        },
+        "tr_continuation": {
+          "prompt": "Turkce dilinde yapay zeka",
+          "output": "Turkce dilinde yapay zeka a-de-hah, ie. falcia (the name of a nagam) is au’din jan’Ayelite, commonly used to mean “sharp”. It was first used in Egypt before the first Roman writer Cecilianus. He was written by his mother, Achilles, the son of a nagazi. He first used it on the god of earth and then d",
+          "chars": 300,
+          "words": 56,
+          "repeat_ratio": 0.196
+        },
+        "orkhon_continuation": {
+          "prompt": "Orhun Yazitlari",
+          "output": "Orhun Yazitlari, or the Lord of the Ganges in the Western World, is a Hindu god dedicated to the gods, a god known by the name of Kandiya. He was thebah who had been a Buddha whose name was Krishna. In his short life, he had a son-in-law of Bharat Al-Dadim (r. 918., Kisha), who was the ruler of thebah who",
+          "chars": 306,
+          "words": 61,
+          "repeat_ratio": 0.311
+        },
+        "assistant_probe_in_base_mode": {
+          "prompt": "Question: What can you help me with? Answer:",
+          "output": "Question: What can you help me with? Answer: I’d not do thatry. It seems like a good idea! I need to be careful if I really want to, but it’s important to take the time to make sure your kids are well on their way. Here is a fun activity that makes my kids love playing done with a great game. It is very helpful for them to play games in a fun and interactive manner",
+          "chars": 367,
+          "words": 76,
+          "repeat_ratio": 0.145
+        }
+      },
+      "kokturk": {
+        "exact": 0,
+        "total": 6,
+        "avg_similarity": 0.042,
+        "cases": [
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀",
+            "output": "쓈 (chinese: 몴맀 (chinese: 싚똴이람) is the name that has a common name. it was first recorded in thenaii region between 421 and 222 ad.-fa-ʻi, in a very interesting manner, had been used as a",
+            "exact": false,
+            "similarity": 0.011
+          },
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀",
+            "output": "ŕiįvı; \"down\") was known only in the greek literature. in this book, he made the first works of his time: theatowsky's dissertation. the greek (arabic) of which he, like hippurus, was a powerful tool to make art more interesting, by making art less popular. his name",
+            "exact": false,
+            "similarity": 0.007
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀𐰃𐰠",
+            "output": "ঁ��� ং঴ূ���্িম������������ষେ���િ਄଱་ উী৛ଲ ং�",
+            "exact": false,
+            "similarity": 0.0
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀𐰃𐰠",
+            "output": "닳왤 (originally published as a bien) and as a fash of a type ofße niṉrah. it is not surprising that the göktürs are the language of the ancient world. in all cases tyrynchus writes, the greeks used the word ̮s in their�",
+            "exact": false,
+            "similarity": 0.027
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "몗 (french) this is the english letter of the old turk greek. it was used to describe a ancient roman name. the origin and characteristics of the old middle east�のشtamy (latin: 牍), or�の歹, (the name of which is in latin, from old english, from",
+            "exact": false,
+            "similarity": 0.077
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "෦； columbianarayal and other localities; the latter arecidas, where a single man can be regarded as one of the most widely spread and the greatest of them. the two common names are kedšdänin (tzötā), omani-esa izhraål",
+            "exact": false,
+            "similarity": 0.127
+          }
+        ]
+      },
+      "total_seconds": 6.03
+    },
+    {
+      "name": "bengu",
+      "target": "bunghu",
+      "mode": "base",
+      "tag": "last",
+      "checkpoint": "/Users/umut/Projects/orkhon/models/bengu-20260615/checkpoint",
+      "tokenizer": "/Users/umut/Projects/orkhon/models/bengu-20260615/tokenizer",
+      "device": "mps",
+      "load_ok": true,
+      "params": 57354880,
+      "step": null,
+      "arch": {
+        "layers": 8,
+        "d_model": 640,
+        "vocab": 32768,
+        "block": 512
+      },
+      "load_seconds": 0.78,
+      "outputs": {
+        "en_continuation": {
+          "prompt": "Artificial intelligence can help",
+          "output": "Artificial intelligence can help people in many ways and to deal with the nature of human well-being. To solve this problem, a study conducted by the University of California and a group of researchers was provided by the National Institute on Environmental Science. The team took a step further into understanding the steps and the development of human intelligence, the idea that what is possible for a person's body to be selfish. The project also published a study in which research is planned to support an analysis of the effects on",
+          "chars": 538,
+          "words": 91,
+          "repeat_ratio": 0.275
+        },
+        "tr_continuation": {
+          "prompt": "Turkce dilinde yapay zeka",
+          "output": "Turkce dilinde yapay zeka, doğa bilimi ve sosyal bilimler alanında uzmanlaşan bir bilim dalına verilen isimdir. Günümüzde bilim dünyasında da kullanılmaktadır. Şu anda yayınların yanı sıra çeşitli yayınlar gibi birçok alanda da faaliyet gösteren bilim adamları arasında bir merkezdir. Bilim insanları bilimsel araştırmalarda kullanılan temel yöntemlerden biridir. Bunlar; eğitim psikolojisinde bulunan tüm gözlemlerin incelenerek, yani bunların incelenip gelişmede de kullanılabilmesine yönelik olan tekniktir. Uluslararası literatürde en yaygın şekilde kullanılan sistemlerde ise bilimsel konular ye",
+          "chars": 601,
+          "words": 74,
+          "repeat_ratio": 0.081
+        },
+        "orkhon_continuation": {
+          "prompt": "Orhun Yazitlari",
+          "output": "Orhun Yazitlari (İngilizce özgün adıyla ‘Florida”) veya daha yaygın olarak \"Bozkır\" terimi, bir coğrafi bölgeye gönderilen ve “Tümbız” anlamında kullanılan kelimelere verilen isimdir. En çok yaygınlaşan teknik birim olan Orhun yazidası, Türkiye'nin en önemli tarihi olaylarından biri olan Avrupa'da kullanılan en eski yazıtıdır. Bu yazıların çoğu şu anda basılmakta olup bu yazıların hepsi aynı zamanda Latin harfleriyle de kullanılmaktadır; ama buna rağmen bu",
+          "chars": 460,
+          "words": 63,
+          "repeat_ratio": 0.095
+        },
+        "assistant_probe_in_base_mode": {
+          "prompt": "Question: What can you help me with? Answer:",
+          "output": "Question: What can you help me with? Answer: When the word comes to mind, I think everyone will be better than me. But all this is right. But I don't have the bad habits at all and that's what we do on the other side of the picture! I am not going to do this all the way back in day. You are trying your little ones very well. So, what makes it good for you? Answer:",
+          "chars": 366,
+          "words": 77,
+          "repeat_ratio": 0.182
+        }
+      },
+      "kokturk": {
+        "exact": 0,
+        "total": 6,
+        "avg_similarity": 0.015,
+        "cases": [
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀",
+            "output": "/ transliterate italyan in latin: 𐱱/ transliterate italyan / translating the translation of the old turkic text in greek: 𐱱/",
+            "exact": false,
+            "similarity": 0.016
+          },
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀",
+            "output": "bu göktürk yazısının eski türkçede geçtiği sanılanın aksine, türk dili ve eğitim dili olmayan bir dilin en büyük alfabesi olup, yazının çok sayıda olduğu gibi dildeki ve ayrıca diğer üç harfli harfler olan harflerin her bir veya ayrı okunduğu veya okunduğu bir harfin, iki harf arası eksi ile birleştirilmesiyle de oluşturulmuştur. tarihçe çin'e geçen bu sayı çin'deki diğer yabancı",
+            "exact": false,
+            "similarity": 0.005
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀𐰃𐰠",
+            "output": "𐰍 𐰋𑆜",
+            "exact": false,
+            "similarity": 0.0
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀𐰃𐰠",
+            "output": "- tītē \"ra'\" veya \"túbó\" olarak adlandırılan yazıyı içermektedir. bir kelimeyi büyük harfleriyle birlikte kullanan bazı harfler: \"zäv\" (görüntü) ve \"c\" (özgün öngörü) biçiminde yazılırlar. ayrıca bakınız türk alfabesinin ilk cildini oluşturan harflerin çoğu (özgünlük, söz",
+            "exact": false,
+            "similarity": 0.029
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "𐰙𐰀𐰿",
+            "exact": false,
+            "similarity": 0.0
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "telešek župŋa-qimą (pi) sâniq (bak), jämsa, g.w., wissachkeit, j.w., kü’ye, p.v., gwanggii, j.n.; odoqaczara, mnhua. tarihçe ön tarih",
+            "exact": false,
+            "similarity": 0.039
+          }
+        ]
+      },
+      "total_seconds": 5.12
+    },
+    {
+      "name": "bengu-gokturk",
+      "target": "bunghu-old-specialist",
+      "mode": "chat",
+      "tag": "last",
+      "checkpoint": "/Users/umut/Projects/orkhon/models/bengu-gokturk-20260615/checkpoint",
+      "tokenizer": "/Users/umut/Projects/orkhon/models/bengu-gokturk-20260615/tokenizer",
+      "device": "mps",
+      "load_ok": true,
+      "params": 57354880,
+      "step": null,
+      "arch": {
+        "layers": 8,
+        "d_model": 640,
+        "vocab": 32768,
+        "block": 512
+      },
+      "load_seconds": 0.79,
+      "outputs": {
+        "en_help": {
+          "prompt": "What can you help me with?",
+          "output": "",
+          "chars": 0,
+          "words": 0,
+          "repeat_ratio": 0.0
+        },
+        "tr_help": {
+          "prompt": "Bana hangi konularda yardim edebilirsin?",
+          "output": "",
+          "chars": 0,
+          "words": 0,
+          "repeat_ratio": 0.0
+        },
+        "unknown_scope": {
+          "prompt": "Can you translate Old Turkic inscriptions to modern Turkish?",
+          "output": "",
+          "chars": 0,
+          "words": 0,
+          "repeat_ratio": 0.0
+        },
+        "story": {
+          "prompt": "Write a short story about a brave child.",
+          "output": "",
+          "chars": 0,
+          "words": 0,
+          "repeat_ratio": 0.0
+        },
+        "math": {
+          "prompt": "What is 7 + 5?",
+          "output": "",
+          "chars": 0,
+          "words": 0,
+          "repeat_ratio": 0.0
+        }
+      },
+      "kokturk": {
+        "exact": 6,
+        "total": 6,
+        "avg_similarity": 1.0,
+        "cases": [
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀",
+            "output": "a",
+            "exact": true,
+            "similarity": 1.0
+          },
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀",
+            "output": "a",
+            "exact": true,
+            "similarity": 1.0
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀𐰃𐰠",
+            "output": "aiael",
+            "exact": true,
+            "similarity": 1.0
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀𐰃𐰠",
+            "output": "aiael",
+            "exact": true,
+            "similarity": 1.0
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "oaresh aeyotecaegal",
+            "exact": true,
+            "similarity": 1.0
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "oaresh aeyotecaegal",
+            "exact": true,
+            "similarity": 1.0
+          }
+        ]
+      },
+      "total_seconds": 1.1
+    },
+    {
+      "name": "tengri125_mixed_600m",
+      "target": "tangri",
+      "mode": "base",
+      "tag": "best",
+      "checkpoint": "/Users/umut/Projects/orkhon/runs/tengri125_mixed_600m",
+      "tokenizer": "/Users/umut/Projects/orkhon/artifacts/tokenizer/bilingual",
+      "device": "mps",
+      "load_ok": true,
+      "params": 100682496,
+      "step": 32000,
+      "arch": {
+        "layers": 12,
+        "d_model": 768,
+        "vocab": 32768,
+        "block": 1024
+      },
+      "load_seconds": 1.28,
+      "outputs": {
+        "en_continuation": {
+          "prompt": "Artificial intelligence can help",
+          "output": "Artificial intelligence can help improve your quality of life. AI is one of the most important science applications for the human brain. It is used to develop complex skills that enable people with specific training needs to be more productive and efficient in all fields of the human mind. In this article, we will explore the AI and the technology behind it. AI is a machine learning and intelligence (MLI) platform that uses multiple types of AI algorithms and techniques to create high-level solutions. The key difference between AI",
+          "chars": 536,
+          "words": 89,
+          "repeat_ratio": 0.236
+        },
+        "tr_continuation": {
+          "prompt": "Turkce dilinde yapay zeka",
+          "output": "Turkce dilinde yapay zeka, İngilizce \"turkey\" kelimesi, ilk olarak 1480'li yıllarda İngiliz matematikçiler tarafından kullanılırdı. Tanım Turks (1803 – 1921) ilk kez İngiliz matematikçi William Stanley tarafından kullanılmıştır. Daha çok, bir doğa bilimi olan doğa bilimleri ile yakından bağlantılı olduğunu düşünen ve bu yüzden de kullanılan terim ilk defa, 1770 yılında Charles Taylor tarafından kullanıldı. Bir tanım, bir gerçeklik problemidir. Modern bilgisayar biliminin temel taşlarından biri olarak kabul edilir. Genellikle, çok sık",
+          "chars": 539,
+          "words": 72,
+          "repeat_ratio": 0.111
+        },
+        "orkhon_continuation": {
+          "prompt": "Orhun Yazitlari",
+          "output": "Orhun Yazitlari, Türk Deniz Kuvvetleri'nin Karadeniz'e girişte yer alan tarihi kışlıklarından biridir. Türkiye'deki en üst düzey bir yazlık olarak kabul edilen bu ülke, Ege Denizi'ni geçen tek Türk deniziydi. Tarihçe İlk Çağdan itibaren Akdeniz sahilleri ile gelen birçok yerli ve yabancı, göçebelerin de burada yaşamalarını sağladı. Günümüzde \"Karamustafapaşa\" adı altında üç küçük ada grubu, Kule Boğazı yoluyla Karadeniz kıyısına kadar uzanan kara yolu üzerinde",
+          "chars": 464,
+          "words": 64,
+          "repeat_ratio": 0.016
+        },
+        "assistant_probe_in_base_mode": {
+          "prompt": "Question: What can you help me with? Answer:",
+          "output": "Question: What can you help me with? Answer: QUALITY OF ANRENGHS I was a doctor for 18 years and had seen many tests. One day, I came to the house and looked at their books. He took them up and said they were all right and he didn't think that. The children made an interesting decision and started making it to them. You should tell them that because they did not like that,",
+          "chars": 375,
+          "words": 73,
+          "repeat_ratio": 0.11
+        }
+      },
+      "kokturk": {
+        "exact": 0,
+        "total": 6,
+        "avg_similarity": 0.035,
+        "cases": [
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀",
+            "output": "a.d. [n] a latin word (transliteratio) in latin (“the language of the church.”) is a latin word used mainly to express the same ideas of “universalism” as other languages of the world (e.g., ‘a common language’). translation is an ancient slavonic expression, which means of the same idea that it means “",
+            "exact": false,
+            "similarity": 0.007
+          },
+          {
+            "runes": "𐰀",
+            "expected": "a",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀",
+            "output": "𐰊𐰜 (i̇skender el-afşar) - önerme tarih **** (double-arous, i.301 - 5 şubat 999) 680-731 yılları arasında hüküm süren göktürk devleti'nin kurucusu ve ilk hükümdarı olmuştur. tarihçiler bu tarihi tarihi dil ile ilgili bir yazıda \"gerekeç\" adını kullanmaktadır",
+            "exact": false,
+            "similarity": 0.008
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰀𐰃𐰠",
+            "output": "𐱅𐰣, (615-727) the first of several of the first modern turkic works. the words are sometimes spelled with a vowel, \"melt,\" or both and are used interchangeably. some scholars believe the turkish word äkra in turkish is *mašir (or *ahrj-ašir)",
+            "exact": false,
+            "similarity": 0.033
+          },
+          {
+            "runes": "𐰀𐰃𐰠",
+            "expected": "aiael",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰀𐰃𐰠",
+            "output": "𐰇𐰣𐰢 (m.ö. 1350–1400) (maurice: \"autumn of the earth\" [anakara, 12/2] - \"anatolia\". the world heritage foundation. retrieved 27 june 2014. \"group: the tours and the touring of the wise.\" the",
+            "exact": false,
+            "similarity": 0.052
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Transliterate this Old Turkic text into Latin: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "𐱅𐰠�-�� 𐰄︃︎✫︉✨￭︎﷒ﮀﻖﾯ︎✪ﴊ✟✧﹀︎︎～︎�",
+            "exact": false,
+            "similarity": 0.041
+          },
+          {
+            "runes": "𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "expected": "oaresh aeyotecaegal",
+            "prompt": "Bu Göktürk yazısını Latin harflerine çevir: 𐰆𐰺𐱁 𐰘𐱇𐰲𐰏𐰞",
+            "output": "𐰼𐰣𐰞𐰢𐰜𐰯 𐰃𐰀𐰠 (m.ö. 70-700) ögeday, ankara:türk tarih kurumu basımevi, 1988, s. 427-489. türk tarihi ve milletlerarası ilişkilerden sorumlu olan türkler; “",
+            "exact": false,
+            "similarity": 0.07
+          }
+        ]
+      },
+      "total_seconds": 8.26
+    }
+  ],
+  "not_tested": [
+    {
+      "name": "kashgari",
+      "target": "kashgar",
+      "reason": "archived as import/parity proof; manifest says weights are not re-stored locally",
+      "run_hint": "uv run orkhon import-hf --repo HuggingFaceTB/SmolLM2-135M --out runs/kashgari"
+    }
+  ]
+}

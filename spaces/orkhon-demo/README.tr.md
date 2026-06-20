@@ -1,27 +1,54 @@
-# Orkhon demosu (Hugging Face Space)
+# Orkhon model ailesi demosu
 
-[English](README.md) | [Türkçe](README.tr.md)
+[English](README.md) | [Turkce](README.tr.md)
 
-Bir Orkhon checkpoint'i üzerinde tek dosyalık Gradio chat/agent UI. HF Space içine koyun (SDK: Gradio, hardware:
-CPU veya ZeroGPU) ve aşağıdaki secret/env değerlerini ayarlayın.
+Orkhon model ailesi icin Gradio Space. Uygulama
+`scripts/prepare_hf_family.py` ile hazirlanan HF model repolarini yukler:
+
+- `orkhon-tangri`
+- `orkhon-bunghu`
+- `orkhon-tegin`
+- `orkhon-tonyuk`
+- `orkhon-istem`
+- `orkhon-bumin-mini`
+
+`tangri` varsayilan demodur. Normal public uyelerin tamami birlesik asistandir:
+Ingilizce, Turkce ve Kokturk/Eski Turkce rune -> Latin transliterasyon ayni
+model hattindadir; ayri bir `-gokturk` dali yoktur.
+
+## Space ayarlari
+
+| Ayar | Deger |
+| --- | --- |
+| SDK | Gradio |
+| Donanim | Ilk demo icin CPU basic yeterlidir; gecikme kotuyse yukseltin |
+| App file | `app.py` |
 
 ## Ortam
 
-| Değişken | Zorunlu | Anlamı |
-|---|---|---|
-| `ORKHON_CHECKPOINT` | evet | checkpoint dizini veya yayınlandıktan sonra HF repo id |
-| `ORKHON_TOKENIZER` | evet | tokenizer dizini |
-| `ORKHON_TOOLS` | hayır | virgülle ayrılmış liste, örn. `calculator,read_file`; agent mode'u açar |
-| `ORKHON_RAG_INDEX` | hayır | RAG index dizini; `retrieve` aracını açar |
-| `ORKHON_DEVICE` | hayır | `cpu` (varsayılan) / `cuda` / `mps` |
+| Degisken | Zorunlu | Anlam |
+| --- | --- | --- |
+| `ORKHON_HF_OWNER` | hayir | Model repolari icin HF kullanici/org; varsayilan `korkmazumut` |
+| `ORKHON_DEVICE` | hayir | Varsayilan `cpu`; GPU donanimda `cuda` kullanilabilir |
+| `ORKHON_FAMILY_LOCAL_ROOT` | sadece yerel | Hazirlanan export kok dizini, orn. `exports/huggingface` |
 
-## Yerel çalışma
+## Yerel test
+
+Once aile exportlarini hazirlayin:
 
 ```bash
-uv sync --extra demo
-ORKHON_CHECKPOINT=runs/sft_smoke ORKHON_TOKENIZER=artifacts/tokenizer/smoke \
-  uv run python spaces/orkhon-demo/app.py
+uv run python scripts/prepare_hf_family.py --owner korkmazumut
 ```
 
-> Public Space üzerinde `python_exec` açmayın. Sandbox yalnızca trusted-local kullanım içindir
-> (bkz. [`SECURITY.tr.md`](../../SECURITY.tr.md)). Demo bunu asla etkinleştirmez.
+Sonra Space'i yerelde bu exportlar uzerinden calistirin:
+
+```bash
+ORKHON_FAMILY_LOCAL_ROOT=exports/huggingface \
+  uv run --extra demo python spaces/orkhon-demo/app.py
+```
+
+## Public guvenlik notu
+
+Public Space uzerinde kod calistirma araclarini acmayin. Bu demo yalnizca export
+edilmis Orkhon agirliklariyla text generation ve deterministik transliterasyon
+calistirir.
