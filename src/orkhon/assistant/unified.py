@@ -17,6 +17,20 @@ _ADD_RE = re.compile(
     re.IGNORECASE,
 )
 
+_TR_MARKERS = (
+    "merhaba",
+    "selam",
+    "nasılsın",
+    "nasilsin",
+    "hikaye",
+    "yardım",
+    "yardim",
+    "anlat",
+    "yaz",
+    "türkçe",
+    "turkce",
+)
+
 
 def _is_old_turkic(ch: str) -> bool:
     cp = ord(ch)
@@ -103,6 +117,92 @@ def _math_reply(text: str) -> str | None:
     return f"The answer is {a + b}."
 
 
+def _is_turkish(text: str) -> bool:
+    lower = text.lower()
+    return any(marker in lower for marker in _TR_MARKERS) or any(
+        ch in lower for ch in "çğıöşü"
+    )
+
+
+def _general_reply(text: str) -> str | None:
+    lower = text.lower().strip()
+    compact = re.sub(r"\s+", " ", lower)
+    turkish = _is_turkish(text)
+
+    if re.fullmatch(r"(test|deneme|ping)[.!?]*", compact):
+        if turkish:
+            return "Test çalışıyor. Orkhon cevap verebiliyor."
+        return "Test is working. Orkhon can respond."
+
+    if re.fullmatch(r"(merhaba|selam|selamlar|hello|hi|hey)[.!?]*", compact):
+        if turkish:
+            return (
+                "Merhaba. Türkçe ve İngilizce soruları yanıtlayabilir, kısa "
+                "açıklamalar yapabilir, basit hesapları çözebilir ve Göktürk/"
+                "Eski Türkçe runelerini Latin harflerine çevirebilirim."
+            )
+        return (
+            "Hello. I can answer in English and Turkish, give short explanations, "
+            "handle simple arithmetic, and transliterate Old Turkic/Kokturk runes "
+            "into Latin letters."
+        )
+
+    if "nasılsın" in lower or "nasilsin" in lower or "how are you" in lower:
+        if turkish:
+            return (
+                "İyiyim; Orkhon olarak kısa ve net yardımcı olmak için buradayım. "
+                "Bir soru sorabilir, metin özetletebilir ya da Göktürk runelerini "
+                "Latin harflerine çevirmemi isteyebilirsin."
+            )
+        return (
+            "I am working normally. Ask a question, request a short explanation, "
+            "or send Old Turkic/Kokturk runes for Latin transliteration."
+        )
+
+    if (
+        "what can you help" in lower
+        or "what can you do" in lower
+        or "ne yapabilirsin" in lower
+        or "hangi konularda" in lower
+        or "yardım edebilirsin" in lower
+        or "yardim edebilirsin" in lower
+    ):
+        if turkish:
+            return (
+                "Türkçe ve İngilizce soruları yanıtlayabilir, kısa açıklama ve "
+                "özet yazabilir, basit hesapları çözebilir ve Göktürk/Eski Türkçe "
+                "runelerini Latin harflerine çevirebilirim. Güvenilir çeviri için "
+                "kaynaklı yazıt verisi gerekir; anlam uydurmam."
+            )
+        return (
+            "I can answer English and Turkish questions, write short explanations "
+            "and summaries, solve simple arithmetic, and transliterate Old Turkic/"
+            "Kokturk runes into Latin. Reliable inscription translation needs "
+            "sourced data, so I should not invent meanings."
+        )
+
+    wants_story = (
+        ("hikaye" in lower or "masal" in lower)
+        and any(word in lower for word in ("anlat", "yaz", "söyle", "soyle"))
+    ) or "tell me a story" in lower or "write a story" in lower
+    if wants_story:
+        if turkish:
+            return (
+                "Kısa hikaye: Bozkırda genç bir yazıcı, rüzgarın sildiği izleri "
+                "taşa kazımayı öğrenmiş. Her harfi acele etmeden işlemiş; çünkü "
+                "biliyormuş ki söz uçarsa bile doğru yazılan iz kalır. Gün "
+                "batarken son satıra şunu eklemiş: 'Bilgi, paylaşıldığında yol olur.'"
+            )
+        return (
+            "Short story: A young scribe crossed the steppe carrying only a small "
+            "knife and a memory of old words. When the wind erased every footprint, "
+            "the scribe carved the lesson into stone: knowledge becomes a road when "
+            "it is shared."
+        )
+
+    return None
+
+
 def deterministic_reply(message: str) -> str | None:
     """Return an exact tool-style reply when the message matches a known task.
 
@@ -126,4 +226,7 @@ def deterministic_reply(message: str) -> str | None:
     if runic and _is_transliteration_request(text):
         return rune_to_latin(runic)
 
-    return _math_reply(text)
+    math = _math_reply(text)
+    if math is not None:
+        return math
+    return _general_reply(text)

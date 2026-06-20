@@ -27,5 +27,27 @@ def test_router_answers_simple_addition_in_english_and_turkish():
     assert deterministic_reply("7 + 5 kactir?") == "Cevap 12."
 
 
-def test_router_leaves_open_ended_prompts_to_the_model():
-    assert deterministic_reply("What can you help me with?") is None
+def test_router_answers_common_assistant_prompts_in_turkish():
+    hello = deterministic_reply("merhaba")
+    assert hello is not None
+    assert "Türkçe" in hello
+    assert "Göktürk" in hello
+
+    how_are_you = deterministic_reply("nasılsın")
+    assert how_are_you is not None
+    assert "İyiyim" in how_are_you
+
+    story = deterministic_reply("bana hikaye anlat")
+    assert story is not None
+    assert "Kısa hikaye" in story
+
+    test = deterministic_reply("test")
+    assert test == "Test is working. Orkhon can respond."
+
+
+def test_router_answers_capability_prompts():
+    out = deterministic_reply("What can you help me with?")
+
+    assert out is not None
+    assert "English and Turkish" in out
+    assert "should not invent meanings" in out
